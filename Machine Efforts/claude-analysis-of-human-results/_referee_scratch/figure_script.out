@@ -1,0 +1,10 @@
+TSV: 1,000,000 decks, seed 1788768027
+REAL Apollo-29 (independent Python recompute from the .h files): observed=23 expected=46.895698 SMR=0.490450 hit80=22 grandpa=19 median_age=88
+MC SMR: min 0.251561 median 0.503151 mean 0.507759 max 0.948987
+Percentile of real SMR among MC decks: 42.64% of decks <= real; 42.64% strictly below
+Grandpa count 19: 90.15% of decks <= ; 78.24% strictly below; 9.85% strictly above
+Hit-80 count 22: 54.17% <= ; 31.42% below
+Median age 88: 92.97% <= ; 63.05% below
+SMR bins: 70 (width 0.01); grandpa bins: 19; both sum to 1,000,000
+wrote ./Machine Efforts/claude-analysis-of-human-results/mc_smr_histogram.svg and ./Machine Efforts/claude-analysis-of-human-results/mc_grandpa_histogram.svg
+wrote ./Machine Efforts/claude-analysis-of-human-results/_verify/mc_verify.png (dissimilar renderer)

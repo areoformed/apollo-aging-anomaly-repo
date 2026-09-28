@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="520" viewBox="0 0 920 520">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="70" y="34" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#17202a">Monte Carlo death-count distribution: other astronauts</text>
+<text x="70" y="57" font-family="Arial, sans-serif" font-size="13" fill="#52616b">Includes military rows and accidental deaths for the general-population comparison</text>
+<line x1="70" y1="450.0" x2="886" y2="450.0" stroke="#e7ecef" stroke-width="1"/>
+<text x="58" y="454.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#6b7780">0.0%</text>
+<line x1="70" y1="374.4" x2="886" y2="374.4" stroke="#e7ecef" stroke-width="1"/>
+<text x="58" y="378.4" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#6b7780">2.6%</text>
+<line x1="70" y1="298.8" x2="886" y2="298.8" stroke="#e7ecef" stroke-width="1"/>
+<text x="58" y="302.8" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#6b7780">5.3%</text>
+<line x1="70" y1="223.2" x2="886" y2="223.2" stroke="#e7ecef" stroke-width="1"/>
+<text x="58" y="227.2" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#6b7780">7.9%</text>
+<line x1="70" y1="147.6" x2="886" y2="147.6" stroke="#e7ecef" stroke-width="1"/>
+<text x="58" y="151.6" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#6b7780">10.6%</text>
+<line x1="70" y1="72.0" x2="886" y2="72.0" stroke="#e7ecef" stroke-width="1"/>
+<text x="58" y="76.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#6b7780">13.2%</text>
+<rect x="73.3" y="449.9" width="23.6" height="0.1" fill="#c94c4c" opacity="0.82"/>
+<rect x="103.5" y="449.8" width="23.6" height="0.2" fill="#c94c4c" opacity="0.82"/>
+<rect x="133.8" y="449.2" width="23.6" height="0.8" fill="#c94c4c" opacity="0.82"/>
+<text x="145.6" y="472" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#6b7780">25</text>
+<rect x="164.0" y="447.7" width="23.6" height="2.3" fill="#c94c4c" opacity="0.82"/>
+<rect x="194.2" y="444.1" width="23.6" height="5.9" fill="#c94c4c" opacity="0.82"/>
+<rect x="224.4" y="435.8" width="23.6" height="14.2" fill="#c94c4c" opacity="0.82"/>
+<rect x="254.7" y="419.7" width="23.6" height="30.3" fill="#c94c4c" opacity="0.82"/>
+<rect x="284.9" y="391.0" width="23.6" height="59.0" fill="#c94c4c" opacity="0.82"/>
+<text x="296.7" y="472" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#6b7780">30</text>
+<rect x="315.1" y="347.7" width="23.6" height="102.3" fill="#c94c4c" opacity="0.82"/>
+<rect x="345.3" y="286.0" width="23.6" height="164.0" fill="#c94c4c" opacity="0.82"/>
+<rect x="375.5" y="212.4" width="23.6" height="237.6" fill="#c94c4c" opacity="0.82"/>
+<rect x="405.8" y="142.1" width="23.6" height="307.9" fill="#c94c4c" opacity="0.82"/>
+<rect x="436.0" y="90.8" width="23.6" height="359.2" fill="#c94c4c" opacity="0.82"/>
+<text x="447.8" y="472" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#6b7780">35</text>
+<rect x="466.2" y="72.0" width="23.6" height="378.0" fill="#c94c4c" opacity="0.82"/>
+<rect x="496.4" y="99.9" width="23.6" height="350.1" fill="#c94c4c" opacity="0.82"/>
+<rect x="526.7" y="150.2" width="23.6" height="299.8" fill="#c94c4c" opacity="0.82"/>
+<rect x="556.9" y="224.8" width="23.6" height="225.2" fill="#c94c4c" opacity="0.82"/>
+<rect x="587.1" y="299.4" width="23.6" height="150.6" fill="#c94c4c" opacity="0.82"/>
+<text x="598.9" y="472" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#6b7780">40</text>
+<rect x="617.3" y="360.6" width="23.6" height="89.4" fill="#c94c4c" opacity="0.82"/>
+<rect x="647.5" y="401.1" width="23.6" height="48.9" fill="#c94c4c" opacity="0.82"/>
+<rect x="677.8" y="428.6" width="23.6" height="21.4" fill="#c94c4c" opacity="0.82"/>
+<rect x="708.0" y="441.2" width="23.6" height="8.8" fill="#c94c4c" opacity="0.82"/>
+<rect x="738.2" y="446.6" width="23.6" height="3.4" fill="#c94c4c" opacity="0.82"/>
+<text x="750.0" y="472" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#6b7780">45</text>
+<rect x="768.4" y="449.1" width="23.6" height="0.9" fill="#c94c4c" opacity="0.82"/>
+<rect x="798.7" y="449.8" width="23.6" height="0.2" fill="#c94c4c" opacity="0.82"/>
+<rect x="828.9" y="449.9" width="23.6" height="0.1" fill="#c94c4c" opacity="0.82"/>
+<rect x="859.1" y="450.0" width="23.6" height="0.0" fill="#c94c4c" opacity="0.82"/>
+<line x1="1082.4" y1="72" x2="1082.4" y2="450" stroke="#111111" stroke-width="2.2"/>
+<text x="1088.4" y="90" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111111">Observed 56</text>
+<line x1="70" y1="450" x2="886" y2="450" stroke="#263238" stroke-width="1.2"/>
+<text x="478.0" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#263238">Deaths by observed/censor ages</text>
+</svg>

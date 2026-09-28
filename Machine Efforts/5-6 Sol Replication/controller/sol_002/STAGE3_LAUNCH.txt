@@ -1,0 +1,26 @@
+Your blind Stage 2 conclusion is locked and may not be edited. This is a labeled post-lock reconciliation.
+
+Compare your cohort definitions, rows, evidence, and results with the reference datasets now present under stage3/reference/. Do not assume either construction is correct by authority.
+
+Perform three passes:
+1. definition-level comparison of inclusion rules;
+2. row-level comparison within shared scope, adjudicating membership/date/flag disagreements from primary sources;
+3. harmonized shared-scope reanalysis, while preserving the original blind result verbatim.
+
+Write stage3/RECONCILIATION.md, stage3/ROW_DIFFERENCES.csv, stage3/HARMONIZED_RESULTS.csv, stage3/CONTAMINATION.md, and stage3/STAGE_COMPLETE.md. Any correction to your own prior data is reported here and never back-edited into Stages 1–2.
+
+Operational clarifications for this authorized reconciliation:
+
+- Do not edit anything in stage1/, stage1b/, stage1c/, stage2/, stage3/reference/, or stage3/locked_supplement/.
+- The reference bundle is explicitly approved Machine Efforts material. Its source and copied hashes are in stage3/reference/STAGE3_REFERENCE_MANIFEST.csv. Do not read any parent or sibling directory.
+- A separate fresh-context correction is locked at stage3/locked_supplement/stage2r/. It corrected the author-rejected five-year/age-[80,85) public-function primary to the intended unrestricted any-age-80+ endpoint. Its CORRECTED_CONCLUSION.md is also immutable. Reconciliation of public functioning must use this corrected unrestricted endpoint as the operative Sol result; the original Stage 2 five-year quantity remains only as preserved audit history. Do not recompute, overwrite, or present the stale five-year endpoint as the primary.
+- The reference field `Space Grandpa` and your locked `QUALIFYING_FUNCTION_EVENT` are not assumed to be the same construct. Explicitly compare their definitions and, on shared people who reached 80, cross-tabulate their classifications. Treat a difference caused by endpoint breadth or ascertainment policy as a definition/public-evidence difference, not automatically as a factual error.
+- Normalize identities conservatively and retain an auditable mapping. ROW_DIFFERENCES.csv must distinguish at least definition-only membership differences, factual membership disagreements, birth/death/status disagreements, program-flag disagreements, public-evidence/endpoint disagreements, and exact agreements. Include only-in-yours, only-in-reference, and shared-conflict rows explicitly.
+- The harmonized shared-scope survival analysis must at minimum rerun your locked 1973-landmark 50-year RMST contrast on persons shared by both constructions under a clearly stated harmonized comparator rule. If the archived reference code and population file permit faithful reproduction, separately report reference-style age-30 SMR/Kaplan-Meier quantities; never substitute those for your prespecified survival estimand.
+- The harmonized public-function analysis must report both endpoint rules side by side on the same shared age-80 risk set. Do not collapse them into a single label. Use the corrected unrestricted Sol endpoint for the Sol-rule result.
+- Preserve the exact text and hashes of stage2/BLIND_CONCLUSION.md and stage3/locked_supplement/stage2r/CORRECTED_CONCLUSION.md, and verify at completion that neither file nor any locked input changed.
+- You may use primary sources on the live web only to adjudicate material row facts that remain genuinely disputed after inspecting both constructions. Record every such access and its role in stage3/SOURCE_LOG.csv. Do not use mortality, aging, comparative, statistical, or commentary sources for adjudication.
+- Retain supporting code and validation artifacts inside stage3/. In RECONCILIATION.md, separate definition differences, factual row disagreements, implementation/analysis differences, public-evidence ascertainment differences, and any corrections to your own construction.
+- STAGE_COMPLETE.md must give the narrow post-lock answer: whether the reference comparison strengthens, weakens, or leaves unchanged the locked conclusion, and why. It must not rewrite either locked conclusion.
+
+Stop after Stage 3 and reply only: STAGE3_COMPLETE, followed by the artifact paths and any blocking failure.

@@ -1,0 +1,5 @@
+rate_key,mental_vitality_rate,mental_vitality_rate_pct,basis
+lower_mhas_54_of_334_youthful_cognition,0.16167664670658682,16.16766467065868,MHAS-derived user-supplied lower anchor: 54 of 334 age-80+ individuals retained youthful cognitive function. Not recomputed from MHAS microdata in this run.
+interior_low_between_mhas_and_hcap,0.33445109780439125,33.445109780439125,Evenly spaced interior point between MHAS lower anchor and HRS-HCAP upper anchor.
+interior_high_between_mhas_and_hcap,0.5072255489021957,50.72255489021957,Evenly spaced interior point between MHAS lower anchor and HRS-HCAP upper anchor.
+upper_hcap_normal_cognition_overall,0.68,68.0,HRS-HCAP broad normal-cognition anchor for U.S. adults 65+: 1 - dementia 10 pct - MCI 22 pct. Optimistic for 80+.

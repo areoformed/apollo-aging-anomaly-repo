@@ -1,0 +1,14 @@
+section,analysis,group_a,group_b,metric,estimate,ci_lower,ci_upper,p_value,numerator_a,denominator_a,numerator_b,denominator_b,notes
+PRIMARY_GROUP_RISK,UNRESTRICTED_AGE_80_PLUS,APOLLO_FLEW,,detected_risk,0.136363636,0.029055851,0.349122097,,3,22,,,95% Clopper-Pearson interval
+PRIMARY_GROUP_RISK,UNRESTRICTED_AGE_80_PLUS,OTHER_ALL,,detected_risk,0.057142857,0.006996764,0.191571406,,2,35,,,95% Clopper-Pearson interval
+PRIMARY_CONTRAST,UNRESTRICTED_AGE_80_PLUS,APOLLO_FLEW,OTHER_ALL,risk_difference,0.079220779,-0.077370641,0.280496015,,3,22,2,35,95% Newcombe method-10 interval; Apollo minus Other
+PRIMARY_CONTRAST,UNRESTRICTED_AGE_80_PLUS,APOLLO_FLEW,OTHER_ALL,risk_difference_bootstrap,0.079220779,-0.068831169,0.244155844,,3,22,2,35,Group-stratified person bootstrap; 50000 replicates; seed 20260721; percentile interval
+PRIMARY_CONTRAST,UNRESTRICTED_AGE_80_PLUS,APOLLO_FLEW,OTHER_ALL,risk_ratio,2.386363636,0.505971530,11.250383458,,3,22,2,35,95% constrained two-binomial score interval
+PRIMARY_CONTRAST,UNRESTRICTED_AGE_80_PLUS,APOLLO_FLEW,OTHER_ALL,odds_ratio,2.605263158,0.268173917,33.212813267,,3,22,2,35,Cross-product point estimate; 95% conditional exact interval
+PRIMARY_CONTRAST,UNRESTRICTED_AGE_80_PLUS,APOLLO_FLEW,OTHER_ALL,fisher_exact_two_sided,,,,0.363805215,3,22,2,35,Central-hypergeometric probability ordering
+SENSITIVITY,COMPOSITION_CORE_NASA_NON_APOLLO,APOLLO_FLEW,CORE_NASA_NON_APOLLO,risk_difference,0.064935065,-0.113758203,0.268571606,,3,22,2,28,Nested within OTHER_ALL; not independent
+SENSITIVITY,COMPOSITION_MILITARY_ONLY,APOLLO_FLEW,MILITARY_ONLY,risk_difference,0.059440559,-0.211751949,0.266320758,,3,22,1,13,Nested within OTHER_ALL; overlaps CORE_NASA_NON_APOLLO; not independent
+SENSITIVITY,TECHNICAL_DEVIATION_EXCLUDE_R001,APOLLO_FLEW,OTHER_ALL,risk_difference,0.038095238,-0.108003024,0.236354240,,2,21,2,35,Technical-deviation sensitivity; R001 excluded
+LATENT_EVENT_BOUND_DIFFERENT_QUESTION,NEITHER_FOUND_WORST_CASE,APOLLO_FLEW,OTHER_ALL,latent_event_risk_difference_bound,-0.863636364,,,,3,22,35,35,Assign no latent event to Apollo NEITHER_FOUND and an event to Other NEITHER_FOUND
+LATENT_EVENT_BOUND_DIFFERENT_QUESTION,NEITHER_FOUND_BEST_CASE,APOLLO_FLEW,OTHER_ALL,latent_event_risk_difference_bound,0.942857143,,,,22,22,2,35,Assign an event to Apollo NEITHER_FOUND and no latent event to Other NEITHER_FOUND
+CLASSIFICATION,CORRECTED_PUBLIC_FUNCTION,APOLLO_FLEW,OTHER_ALL,strength_and_direction,NOT_DETECTED|HIGHER,,,,,,,,Fixed classification rule and unrestricted primary sign

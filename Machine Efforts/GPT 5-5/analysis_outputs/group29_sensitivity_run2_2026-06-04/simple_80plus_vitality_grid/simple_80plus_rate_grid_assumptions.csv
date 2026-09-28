@@ -1,0 +1,5 @@
+rate_key,mental_vitality_rate,mental_vitality_rate_pct,basis
+lower_strict_public_participation_sensitivity,0.35,35.0,Deliberately conservative sensitivity for public/participatory vitality; not a direct medical prevalence estimate.
+interior_low,0.46,46.0,Evenly spaced interior point between lower and upper simple bounds.
+interior_high,0.57,56.99999999999999,Evenly spaced interior point between lower and upper simple bounds.
+upper_hcap_normal_cognition_overall,0.68,68.0,HRS-HCAP broad normal-cognition anchor from 65+ adults: 1 - dementia 10 pct - MCI 22 pct. Optimistic for 80+.

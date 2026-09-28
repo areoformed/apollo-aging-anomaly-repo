@@ -1,0 +1,5 @@
+source_table,table_name,outcome,sex,overall_change,aging_change,aging_pct,population_growth_change,population_growth_pct,epidemiological_change,epidemiological_pct
+eTable 1,decomposition_prevalence,dementia_prevalence_change,Male,539476,53417,9.9,506450,93.88,-20391,-3.78
+eTable 1,decomposition_prevalence,dementia_prevalence_change,Female,829859,151232,18.22,708896,85.42,-30269,-3.65
+eTable 2,decomposition_mortality,dementia_mortality_change,Male,22289,3658,16.41,18761,84.17,-130,-0.58
+eTable 2,decomposition_mortality,dementia_mortality_change,Female,41894,11563,27.6,29404,70.19,927,2.21

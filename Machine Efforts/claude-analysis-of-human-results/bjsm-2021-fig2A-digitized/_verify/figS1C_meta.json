@@ -1,0 +1,48 @@
+{
+  "source": "supplementary material 1, page 3, Figure S1 panel C (embedded PNG, 919x807)",
+  "plot_box_px": [
+    664,
+    892,
+    51,
+    338
+  ],
+  "x_ticks_px": [
+    673.0,
+    725.0,
+    778.0,
+    831.0,
+    883.0
+  ],
+  "x_tick_values": [
+    20,
+    40,
+    60,
+    80,
+    100
+  ],
+  "y_ticks_px": [
+    62.0,
+    115.0,
+    168.0,
+    221.0,
+    275.0,
+    328.0
+  ],
+  "y_tick_values": [
+    1.0,
+    0.8,
+    0.6,
+    0.4,
+    0.2,
+    0.0
+  ],
+  "px_per_year": 2.6300380228136886,
+  "px_per_prob_unit": 266.1451064591161,
+  "one_px_in_years": 0.38022263987277716,
+  "one_px_in_prob_units": 0.003757348813601482,
+  "columns": {
+    "olympians": 159,
+    "population": 181
+  },
+  "area_between_curves_yr": 5.728456144191426
+}

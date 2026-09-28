@@ -1,0 +1,1262 @@
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'html' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ html--sites--default--files--inline-files--DementiaTechnicalPaperJuly-2-4-2013-10-23-15.pdf.html.twig
+   ▪️ html--sites--default--files--inline-files.html.twig
+   ▪️ html--sites--default--files.html.twig
+   ▪️ html--sites--default.html.twig
+   ▪️ html--sites.html.twig
+   ✅ html.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/layout/html.html.twig' -->
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+<style>body #backtotop {background:  #F7F7F;}</style>
+<meta name="Generator" content="Drupal 11 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<link rel="icon" href="/sites/default/files/favicon.png" type="image/png" />
+
+    <title>Page not found | NHATS</title>
+    <link rel="stylesheet" media="all" href="/core/misc/components/resize.module.css?tfr2f4" />
+<link rel="stylesheet" media="all" href="/core/misc/components/progress.module.css?tfr2f4" />
+<link rel="stylesheet" media="all" href="/core/misc/components/ajax-progress.module.css?tfr2f4" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/align.module.css?tfr2f4" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/container-inline.module.css?tfr2f4" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/clearfix.module.css?tfr2f4" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/hidden.module.css?tfr2f4" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/js.module.css?tfr2f4" />
+<link rel="stylesheet" media="all" href="/modules/contrib/webform/css/webform.composite.css?tfr2f4" />
+<link rel="stylesheet" media="all" href="/modules/contrib/webform/css/webform.element.details.toggle.css?tfr2f4" />
+<link rel="stylesheet" media="all" href="/modules/contrib/webform/css/webform.element.message.css?tfr2f4" />
+<link rel="stylesheet" media="all" href="/modules/contrib/webform/css/webform.element.options.css?tfr2f4" />
+<link rel="stylesheet" media="all" href="/modules/contrib/webform/css/webform.form.css?tfr2f4" />
+<link rel="stylesheet" media="all" href="/modules/contrib/back_to_top/css/back_to_top_text.css?tfr2f4" />
+<link rel="stylesheet" media="all" href="/modules/contrib/extlink/css/extlink.css?tfr2f4" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/affix.css?tfr2f4" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/form.css?tfr2f4" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/colors/messages/messages-light.css?tfr2f4" />
+<link rel="stylesheet" media="all" href="/core/../themes/contrib/bootstrap_barrio/components/container/container.css?tfr2f4" />
+<link rel="stylesheet" media="all" href="/core/../themes/contrib/bootstrap_barrio/components/menu_columns/menu_columns.css?tfr2f4" />
+<link rel="stylesheet" media="all" href="/core/../themes/contrib/bootstrap_barrio/components/menu_main/menu_main.css?tfr2f4" />
+<link rel="stylesheet" media="all" href="/themes/custom/nhats2025/css/fontawesome.all.min.css?tfr2f4" />
+<link rel="stylesheet" media="all" href="/themes/custom/nhats2025/css/style.css?tfr2f4" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"gtag":{"tagId":"G-48GZP6C4CT","consentMode":false,"otherIds":[],"events":[],"additionalConfigInfo":[]},"ajaxPageState":{"libraries":"eJyNko2KwyAQhF9Ik6NwzxNWs7G26oq7_X362_RyNDSUK4hm5xsCM-rAHwchXbV3z-_hwMa9QYJXMY5IWBrUwUFrkXqYpnjdyhO1vFVDIgfJstxSLGHLMzJDQB5SDHsxnhr2nnKlgkW4e_Vb66kIxILtA2_Gcho8pVMu_Kk9689_vWM7VUjdXAI0BNuQ4x2Njhrl-IeX0QSikHAQCH3Q7XXu4ABXU_YgvPvaffc-xeoI2qj1P9UxZluYvKViH-qKTXPwCzJlXKkv_T4BVSwWvCYZI5UV4DiiJl4p54gXO8UkWirfWDDrK2A0F3TzpfbL2T3K4yhbggm1POlG1LtJ3DGc_zcJBW3orW15GW85VdFgvOHz9gNWqh8P","theme":"nhats2025","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"back_to_top":{"back_to_top_button_trigger":100,"back_to_top_speed":1200,"back_to_top_prevent_on_mobile":false,"back_to_top_prevent_in_admin":false,"back_to_top_button_type":"text","back_to_top_button_text":""},"multiselect":{"widths":250},"data":{"extlink":{"extTarget":true,"extTargetAppendNewWindowDisplay":false,"extTargetAppendNewWindowLabel":"(opens in a new window)","extTargetNoOverride":false,"extNofollow":false,"extTitleNoOverride":false,"extNoreferrer":true,"extFollowNoOverride":false,"extClass":"ext","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"","extInclude":"","extCssExclude":"#block-nhats2025-main-menu,\r\n.twitter-button","extCssInclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","extHideIcons":true,"mailtoClass":"mailto","telClass":"tel","mailtoLabel":"(link sends email)","telLabel":"(link is a phone number)","extUseFontAwesome":false,"extIconPlacement":"append","extPreventOrphan":true,"extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","extAdditionalLinkClasses":"","extAdditionalMailtoClasses":"","extAdditionalTelClasses":"","extFaTelClasses":"fa fa-phone","allowedDomains":null,"extExcludeNoreferrer":""}},"user":{"uid":0,"permissionsHash":"fa459416d6398d9530de1afc571ccd628166c265023ebc54d04531c7c3e0f043"}}</script>
+<script src="/core/misc/drupalSettingsLoader.js?v=11.3.10"></script>
+<script src="/modules/contrib/google_tag/js/gtag.js?tfr2f4"></script>
+
+  </head>
+  <body class="layout-no-sidebars path-sites-default-files-inline-files-dementiatechnicalpaperjuly-2-4-2013-10-23-15-pdf route-system-404 path-sites">
+    <a href="#main-content" class="visually-hidden-focusable">
+      Skip to main content
+    </a>
+    
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'off_canvas_page_wrapper' -->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/off-canvas-page-wrapper.html.twig' -->
+  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'page' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ page--404.html.twig
+   ▪️ page--4xx.html.twig
+   ▪️ page--sites--default--files--inline-files--DementiaTechnicalPaperJuly-2-4-2013-10-23-15.pdf.html.twig
+   ▪️ page--sites--default--files--inline-files.html.twig
+   ▪️ page--sites--default--files.html.twig
+   ▪️ page--sites--default.html.twig
+   ▪️ page--sites.html.twig
+   ✅ page.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/layout/page.html.twig' -->
+
+<div id="page-wrapper">
+  <div id="page">
+    <header id="header" class="header" role="banner" aria-label="Site header">
+                                <nav class="navbar navbar-dark bg-white navbar-expand-lg" id="navbar-main" data-toggle="affix">
+                          
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ region--nowrap.html.twig
+   ▪️ region--header.html.twig
+   ▪️ region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/layout/region--nowrap.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--nhats2025-site-branding.html.twig
+   ✅ block--system-branding-block.html.twig
+   ▪️ block--system.html.twig
+   ▪️ block.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/block/block--system-branding-block.html.twig' -->
+
+
+  <div class="researcher-logo col-md-8 col-lg-6 block block--sitebranding">
+    <a class="nhats" href="/nhats"><img src="/themes/custom/nhats2025/images/NHATS-logo.svg" alt="National Health and Aging Trends Study (NHATS)- how daily life changes as we age" /></a>
+    <a class="nsoc" href="/nsoc"><img src="/themes/custom/nhats2025/images/NSOC-logo.svg" alt="National Study of Caregiving (NSOC)" /></a>
+  </div>
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/block/block--system-branding-block.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/layout/region--nowrap.html.twig' -->
+
+
+                              <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#CollapsingNavbar" aria-controls="CollapsingNavbar" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+                <div class="collapse navbar-collapse justify-content-end" id="CollapsingNavbar">
+                                    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ region--nowrap.html.twig
+   ▪️ region--primary-menu.html.twig
+   ▪️ region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/layout/region--nowrap.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--nhats2025-main-menu.html.twig
+   ▪️ block--system-menu-block--main.html.twig
+   ✅ block--system-menu-block.html.twig
+   ▪️ block--system.html.twig
+   ▪️ block.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/block/block--system-menu-block.html.twig' -->
+<nav role="navigation" aria-labelledby="block-nhats2025-main-menu-menu" id="block-nhats2025-main-menu" class="block block-menu navigation menu--main">
+            
+  <h2 class="visually-hidden" id="block-nhats2025-main-menu-menu">Main navigation</h2>
+  
+
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu__main' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ menu--main.html.twig
+   ✅ menu--main.html.twig
+   ▪️ menu.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/navigation/menu--main.html.twig' -->
+<!-- 🥬 Component start: bootstrap_barrio:menu_main -->
+              <ul class="clearfix nav navbar-nav" data-component-id="bootstrap_barrio:menu_main">
+                    <li class="home nav-item">
+                          <a href="/welcome" class="nav-link nav-link--welcome" data-drupal-link-system-path="node/5">Home</a>
+              </li>
+                <li class="block-nhats2025-nhatslinks-2-menu nav-item menu-item--collapsed">
+                          <a href="/nhats" class="nav-link nav-link--nhats" data-drupal-link-system-path="node/1">NHATS</a>
+              </li>
+                <li class="block-nhats2025-nsoclinks-2-menu nav-item menu-item--collapsed">
+                          <a href="/nsoc" class="nav-link nav-link--nsoc" data-drupal-link-system-path="node/2">NSOC</a>
+              </li>
+                <li class="block-nhats2025-dataaccesslinks-2-menu nav-item menu-item--collapsed">
+                          <a href="/data-access" class="nav-link nav-link--data-access" data-drupal-link-system-path="node/3">Data</a>
+              </li>
+                <li class="block-nhats2025-publications-menu nav-item">
+                          <a href="/publications/search" class="nav-link nav-link--publications-search" data-drupal-link-system-path="publications/search">Publications</a>
+              </li>
+                <li class="block-nhats2025-trends-menu nav-item">
+                          <a href="https://nhatsannex.org/findings" target="_blank" class="nav-link nav-link-https--nhatsannexorg-findings">Findings</a>
+              </li>
+                <li class="block-nhats2025-about-menu nav-item menu-item--collapsed">
+                          <a href="/about" class="nav-link nav-link--about" data-drupal-link-system-path="about">About</a>
+              </li>
+                <li class="nhats-participants nav-item">
+                          <a href="https://mynhats.org/nhats" class="nav-link nav-link-https--mynhatsorg-nhats">NHATS Participants</a>
+              </li>
+                <li class="nsoc-participants nav-item">
+                          <a href="https://mynhats.org/nsoc" class="nav-link nav-link-https--mynhatsorg-nsoc">NSOC Participants</a>
+              </li>
+        </ul>
+  
+
+<!-- 🥬 Component end: bootstrap_barrio:menu_main -->
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/navigation/menu--main.html.twig' -->
+
+
+  </nav>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/block/block--system-menu-block.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--nhats2025-mobilenavigation.html.twig
+   ▪️ block--system-menu-block--main.html.twig
+   ✅ block--system-menu-block.html.twig
+   ▪️ block--system.html.twig
+   ▪️ block.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/block/block--system-menu-block.html.twig' -->
+<nav role="navigation" aria-labelledby="mobile-main-nav-menu" id="mobile-main-nav" class="block block-menu navigation menu--main">
+            
+  <h2 class="visually-hidden" id="mobile-main-nav-menu">Mobile Main navigation</h2>
+  
+
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu__main' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ menu--main.html.twig
+   ✅ menu--main.html.twig
+   ▪️ menu.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/navigation/menu--main.html.twig' -->
+<!-- 🥬 Component start: bootstrap_barrio:menu_main -->
+              <ul class="clearfix nav navbar-nav" data-component-id="bootstrap_barrio:menu_main">
+                    <li class="home nav-item">
+                          <a href="/welcome" class="nav-link nav-link--welcome" data-drupal-link-system-path="node/5">Home</a>
+              </li>
+                <li class="block-nhats2025-nhatslinks-2-menu nav-item menu-item--expanded dropdown">
+                          <a href="/nhats" class="nav-link dropdown-toggle nav-link--nhats" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="node/1">NHATS</a>
+                        <ul class="dropdown-menu">
+                    <li class="dropdown-item">
+                          <a href="/nhats/methods-documentation?id=heading0" class="nav-link--nhats-methods-documentationidheading0" data-drupal-link-query="{&quot;id&quot;:&quot;heading0&quot;}" data-drupal-link-system-path="nhats/methods-documentation">User Guide</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/nhats/methods-documentation?id=heading4" class="nav-link--nhats-methods-documentationidheading4" data-drupal-link-query="{&quot;id&quot;:&quot;heading4&quot;}" data-drupal-link-system-path="nhats/methods-documentation">Data Collection</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/nhats/methods-documentation?id=heading1" class="nav-link--nhats-methods-documentationidheading1" data-drupal-link-query="{&quot;id&quot;:&quot;heading1&quot;}" data-drupal-link-system-path="nhats/methods-documentation">Technical Papers</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/nhats/methods-documentation?id=heading2" class="nav-link--nhats-methods-documentationidheading2" data-drupal-link-query="{&quot;id&quot;:&quot;heading2&quot;}" data-drupal-link-system-path="nhats/methods-documentation">Instruments</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/nhats/methods-documentation?id=heading3" class="nav-link--nhats-methods-documentationidheading3" data-drupal-link-query="{&quot;id&quot;:&quot;heading3&quot;}" data-drupal-link-system-path="nhats/methods-documentation">CrossWalks</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/getting-started" class="nav-link--getting-started" data-drupal-link-system-path="node/1437">Getting Started</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="block-nhats2025-nsoclinks-2-menu nav-item menu-item--expanded dropdown">
+                          <a href="/nsoc" class="nav-link dropdown-toggle nav-link--nsoc" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="node/2">NSOC</a>
+                        <ul class="dropdown-menu">
+                    <li class="dropdown-item">
+                          <a href="/nsoc/methods-documentation?id=heading0" class="nav-link--nsoc-methods-documentationidheading0" data-drupal-link-query="{&quot;id&quot;:&quot;heading0&quot;}" data-drupal-link-system-path="nsoc/methods-documentation">User Guide</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/nsoc/methods-documentation?id=heading3" class="nav-link--nsoc-methods-documentationidheading3" data-drupal-link-query="{&quot;id&quot;:&quot;heading3&quot;}" data-drupal-link-system-path="nsoc/methods-documentation">CrossWalks</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/nsoc/methods-documentation?id=heading1" class="nav-link--nsoc-methods-documentationidheading1" data-drupal-link-query="{&quot;id&quot;:&quot;heading1&quot;}" data-drupal-link-system-path="nsoc/methods-documentation">Technical Papers</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/nsoc/methods-documentation?id=heading2" class="nav-link--nsoc-methods-documentationidheading2" data-drupal-link-query="{&quot;id&quot;:&quot;heading2&quot;}" data-drupal-link-system-path="nsoc/methods-documentation">Instruments</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/getting-started" class="nav-link--getting-started" data-drupal-link-system-path="node/1437">Getting Started</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="block-nhats2025-dataaccesslinks-2-menu nav-item menu-item--expanded dropdown">
+                          <a href="/data-access" class="nav-link dropdown-toggle nav-link--data-access" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="node/3">Data</a>
+                        <ul class="dropdown-menu">
+                    <li class="dropdown-item">
+                          <a href="/data-access/cross-year-search" class="nav-link--data-access-cross-year-search" data-drupal-link-system-path="node/1197">Cross Year Search</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/data-access/sensitive-data-files#views-bootstrap-data-access-page-1-collapse-3" class="nav-link--data-access-sensitive-data-filesviews-bootstrap-data-access-page-1-collapse-3" data-drupal-link-system-path="data-access/sensitive-data-files">Restricted Files</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/data-access/sensitive-data-files#views-bootstrap-data-access-page-1-collapse-1" class="nav-link--data-access-sensitive-data-filesviews-bootstrap-data-access-page-1-collapse-1" data-drupal-link-system-path="data-access/sensitive-data-files">Sensitive Files</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="block-nhats2025-publications-menu nav-item">
+                          <a href="/publications/search" class="nav-link nav-link--publications-search" data-drupal-link-system-path="publications/search">Publications</a>
+              </li>
+                <li class="block-nhats2025-trends-menu nav-item">
+                          <a href="https://nhatsannex.org/findings" target="_blank" class="nav-link nav-link-https--nhatsannexorg-findings">Findings</a>
+              </li>
+                <li class="block-nhats2025-about-menu nav-item menu-item--expanded dropdown">
+                          <a href="/about" class="nav-link dropdown-toggle nav-link--about" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="about">About</a>
+                        <ul class="dropdown-menu">
+                    <li class="dropdown-item">
+                          <a href="/about" class="nav-link--about" data-drupal-link-system-path="about">At-a-Glance</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/about#leadership" class="nav-link--aboutleadership" data-drupal-link-system-path="about">Leadership</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/about#advisory-board" class="nav-link--aboutadvisory-board" data-drupal-link-system-path="about">Advisory Board</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/about#sponsors" class="nav-link--aboutsponsors" data-drupal-link-system-path="about">Sponsors</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="nhats-participants nav-item">
+                          <a href="https://mynhats.org/nhats" class="nav-link nav-link-https--mynhatsorg-nhats">NHATS Participants</a>
+              </li>
+                <li class="nsoc-participants nav-item">
+                          <a href="https://mynhats.org/nsoc" class="nav-link nav-link-https--mynhatsorg-nsoc">NSOC Participants</a>
+              </li>
+        </ul>
+  
+
+<!-- 🥬 Component end: bootstrap_barrio:menu_main -->
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/navigation/menu--main.html.twig' -->
+
+
+  </nav>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/block/block--system-menu-block.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--nhats2025-useraccountmenu.html.twig
+   ▪️ block--system-menu-block--account.html.twig
+   ✅ block--system-menu-block.html.twig
+   ▪️ block--system.html.twig
+   ▪️ block.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/block/block--system-menu-block.html.twig' -->
+<nav role="navigation" aria-labelledby="block-nhats2025-useraccountmenu-menu" id="block-nhats2025-useraccountmenu" class="block block-menu navigation menu--account">
+            
+  <h2 class="visually-hidden" id="block-nhats2025-useraccountmenu-menu">User account menu</h2>
+  
+
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu__account' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ menu--account.html.twig
+   ✅ menu--account.html.twig
+   ▪️ menu.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/navigation/menu--account.html.twig' -->
+<!-- 🥲 Component start: bootstrap_barrio:menu_columns -->
+              <ul class="clearfix nav flex-row" data-component-id="bootstrap_barrio:menu_columns">
+                    <li class="nav-item">
+                <a href="/user/login" class="nav-link nav-link--user-login" data-drupal-link-system-path="user/login">Log in</a>
+              </li>
+        </ul>
+  
+
+<!-- 🥲 Component end: bootstrap_barrio:menu_columns -->
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/navigation/menu--account.html.twig' -->
+
+
+  </nav>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/block/block--system-menu-block.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/layout/region--nowrap.html.twig' -->
+
+
+                                                    </div>
+                                                  </nav>
+                  </header>
+          <div class="highlighted">
+        <aside class="container section clearfix" role="complementary">
+          
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ region--full-width.html.twig
+   ▪️ region--highlighted.html.twig
+   ▪️ region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/layout/region--full-width.html.twig' -->
+  <!-- 🥭 Component start: bootstrap_barrio:container -->
+
+<section  class="region-wrapper-highlighted full-width" data-component-id="bootstrap_barrio:container" style="">
+      <div class="container">
+                    <div>
+                
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--nhats2025-messages.html.twig
+   ✅ block--system-messages-block.html.twig
+   ▪️ block--system.html.twig
+   ▪️ block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/block--system-messages-block.html.twig' -->
+<div data-drupal-messages-fallback class="hidden"></div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/block--system-messages-block.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--nhats2025-contentreviewnotice.html.twig
+   ▪️ block--block-content--86a4289c-8f53-49f7-be3a-ec6668f5e3ba.html.twig
+   ▪️ block--block-content--id-view--nhats2025-contentreviewnotice--full.html.twig
+   ▪️ block--block-content--id--nhats2025-contentreviewnotice.html.twig
+   ▪️ block--block-content--view-type--special-announcement--full.html.twig
+   ▪️ block--block-content--type--special-announcement.html.twig
+   ▪️ block--block-special-announcement.html.twig
+   ▪️ block--block-content--view--full.html.twig
+   ▪️ block--block-content.html.twig
+   ✅ block.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/block/block.html.twig' -->
+<div id="block-nhats2025-contentreviewnotice" class="special-notice block-content-special_announcement block block-block-content block-block-content86a4289c-8f53-49f7-be3a-ec6668f5e3ba">
+  
+    
+      <div class="content">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--block-content--body--special-announcement.html.twig
+   ▪️ field--block-content--body.html.twig
+   ▪️ field--block-content--special-announcement.html.twig
+   ▪️ field--body.html.twig
+   ✅ field--text-with-summary.html.twig
+   ▪️ field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field--text-with-summary.html.twig' -->
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>This repository is under review for potential modification in compliance with Administration directives.</p></div>
+      
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field--text-with-summary.html.twig' -->
+
+
+    </div>
+  </div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/block/block.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--nhats2025-publicusefileaccess.html.twig
+   ▪️ block--block-content--fd57fc1d-ed42-4f8c-a58c-1238bc91dbef.html.twig
+   ▪️ block--block-content--id-view--nhats2025-publicusefileaccess--full.html.twig
+   ▪️ block--block-content--id--nhats2025-publicusefileaccess.html.twig
+   ▪️ block--block-content--view-type--special-announcement--full.html.twig
+   ▪️ block--block-content--type--special-announcement.html.twig
+   ▪️ block--block-special-announcement.html.twig
+   ▪️ block--block-content--view--full.html.twig
+   ▪️ block--block-content.html.twig
+   ✅ block.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/block/block.html.twig' -->
+<div id="block-nhats2025-publicusefileaccess" class="special-notice block-content-special_announcement block block-block-content block-block-contentfd57fc1d-ed42-4f8c-a58c-1238bc91dbef">
+  
+    
+      <div class="content">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--block-content--body--special-announcement.html.twig
+   ▪️ field--block-content--body.html.twig
+   ▪️ field--block-content--special-announcement.html.twig
+   ▪️ field--body.html.twig
+   ✅ field--text-with-summary.html.twig
+   ▪️ field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field--text-with-summary.html.twig' -->
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>NHATS data files are temporarily unavailable due to impending website updates.</p></div>
+      
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field--text-with-summary.html.twig' -->
+
+
+    </div>
+  </div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/block/block.html.twig' -->
+
+
+              </div>
+                </div>
+  </section>
+<!-- 🥭 Component end: bootstrap_barrio:container -->
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/layout/region--full-width.html.twig' -->
+
+
+        </aside>
+      </div>
+            <div id="main-wrapper" class="layout-main-wrapper clearfix">
+              <div id="breadcrumb-container" class="container">
+          
+        </div>
+        <header class="page-header container-fluid">
+          <h1>
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ region--page-title.html.twig
+   ✅ region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/layout/region.html.twig' -->
+  <section class="container region region-page-title">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--nhats2025-page-title.html.twig
+   ✅ block--page-title-block.html.twig
+   ▪️ block--core.html.twig
+   ▪️ block.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/block/block--page-title-block.html.twig' -->
+<div id="block-nhats2025-page-title" class="block block-core block-page-title-block">
+  
+      
+      <div class="container">
+        <div class="content">
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'page_title' -->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/content/page-title.html.twig' -->
+    
+  
+
+  <h1 class="title">    <span class="backfunction">
+      <a href="    /system
+  "><span class="visually-hidden">Go back</span></a>
+    </span>
+  Page not found</h1>
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/content/page-title.html.twig' -->
+
+
+        </div>
+    </div>
+  </div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/block/block--page-title-block.html.twig' -->
+
+
+  </section>
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/layout/region.html.twig' -->
+
+</h1>
+        </header>
+        <div id="main" class="container">
+          
+          <div class="row row-offcanvas row-offcanvas-left clearfix">
+              <main class="main-content col" id="content" role="main">
+                <section class="section">
+                  <a href="#main-content" id="main-content" tabindex="-1"></a>
+                  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ region--nowrap.html.twig
+   ▪️ region--content.html.twig
+   ▪️ region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/layout/region--nowrap.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--nhats2025-content.html.twig
+   ▪️ block--system-main-block.html.twig
+   ▪️ block--system.html.twig
+   ✅ block.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/block/block.html.twig' -->
+<div id="block-nhats2025-content" class="block block-system block-system-main-block">
+  
+    
+      <div class="content">
+      The requested page could not be found.
+    </div>
+  </div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/block/block.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/layout/region--nowrap.html.twig' -->
+
+
+                </section>
+              </main>
+                                  </div>
+        </div>
+          </div>
+        <div class="modal modal--nhats-refresh fade" id="staticBackdrop-contact" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdrop-contact" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5" id="staticBackdropLabel">Contact</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa-solid fa-xmark"></i></button>
+      </div>
+      <div class="modal-body">
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'webform' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ webform--participant-contact-us-clone.html.twig
+   ✅ webform.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/webform.html.twig' -->
+
+<form class="webform-submission-form webform-submission-add-form webform-submission-participant-contact-us-clone-form webform-submission-participant-contact-us-clone-add-form js-webform-details-toggle webform-details-toggle" data-drupal-selector="webform-submission-participant-contact-us-clone-add-form" action="/sites/default/files/inline-files/DementiaTechnicalPaperJuly_2_4_2013_10_23_15.pdf" method="post" id="webform-submission-participant-contact-us-clone-add-form" accept-charset="UTF-8">
+  
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'webform_submission_form' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ webform-submission-form--participant-contact-us-clone.html.twig
+   ✅ webform-submission-form.html.twig
+-->
+<!-- BEGIN OUTPUT from 'modules/contrib/webform/templates/webform-submission-form.html.twig' -->
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'form_element' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ form-element--webform-textfield.html.twig
+   ✅ form-element.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/form/form-element.html.twig' -->
+
+
+
+
+
+
+      <div class="js-webform-type-textfield webform-type-textfield js-form-item js-form-type-textfield form-type-textfield js-form-item-name form-item-name">
+                  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'form_element_label' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/form-element-label.html.twig' -->
+<label for="edit-name" class="js-form-required form-required">Name</label>
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/form-element-label.html.twig' -->
+
+
+                                              
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__textfield' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ input--textfield.html.twig
+   ✅ input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/input.html.twig' -->
+<input data-webform-required-error="Please Your Name" pattern="^([a-zA-Z]{2,}\s[a-zA-z]{1,}&#039;?-?[a-zA-Z]{2,}\s?([a-zA-Z]{1,})?)" data-webform-pattern-error="Enter Valid Name" data-drupal-selector="edit-name" type="text" id="edit-name" name="name" value="" size="60" maxlength="255" placeholder="Jane Doe" class="required form-control" required="required" />
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/input.html.twig' -->
+
+
+                                                  </div>
+    
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/form/form-element.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'form_element' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ form-element--webform-email.html.twig
+   ✅ form-element.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/form/form-element.html.twig' -->
+
+
+
+
+
+
+      <div class="js-webform-type-email webform-type-email js-form-item js-form-type-email form-type-email js-form-item-email form-item-email">
+                  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'form_element_label' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/form-element-label.html.twig' -->
+<label for="edit-email" class="js-form-required form-required">Email</label>
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/form-element-label.html.twig' -->
+
+
+                                              
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__email' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ input--email.html.twig
+   ✅ input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/input.html.twig' -->
+<input data-webform-required-error="Enter your email" data-drupal-selector="edit-email" type="email" id="edit-email" name="email" value="" size="60" maxlength="254" placeholder="youremail@gmail.com" class="form-email required form-control" required="required" />
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/input.html.twig' -->
+
+
+                                                  </div>
+    
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/form/form-element.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'fieldset' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/fieldset.html.twig' -->
+<fieldset class="contact-form-radio-button radios--wrapper fieldgroup form-composite webform-composite-visible-title required js-webform-type-radios webform-type-radios js-form-item form-item js-form-wrapper form-wrapper mb-3" data-drupal-selector="edit-reason-for-contact" id="edit-reason-for-contact--wrapper">
+      <legend id="edit-reason-for-contact--wrapper-legend">
+    <span class="fieldset-legend js-form-required form-required">Reason For Contact</span>
+  </legend>
+  <div class="fieldset-wrapper">
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'radios' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/radios.html.twig' -->
+<div id="edit-reason-for-contact" class="js-webform-radios webform-options-display-one-column radio">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'form_element' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ form-element--webform-radio.html.twig
+   ✅ form-element.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/form/form-element.html.twig' -->
+
+
+
+      
+
+
+  <div class="js-webform-type-radio webform-type-radio js-form-item js-form-type-radio radio form-check js-form-item-reason-for-contact form-item-reason-for-contact">
+                        <input class="contact-form-radio-button form-radio form-check-input" data-drupal-selector="edit-reason-for-contact-0" type="radio" id="edit-reason-for-contact-0" name="reason_for_contact" value="0">
+                          <label  class="form-check-label" for="edit-reason-for-contact-0">
+            NHATS Question
+          </label>
+                                      </div>
+    
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/form/form-element.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'form_element' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ form-element--webform-radio.html.twig
+   ✅ form-element.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/form/form-element.html.twig' -->
+
+
+
+      
+
+
+  <div class="js-webform-type-radio webform-type-radio js-form-item js-form-type-radio radio form-check js-form-item-reason-for-contact form-item-reason-for-contact">
+                        <input class="contact-form-radio-button form-radio form-check-input" data-drupal-selector="edit-reason-for-contact-1" type="radio" id="edit-reason-for-contact-1" name="reason_for_contact" value="1">
+                          <label  class="form-check-label" for="edit-reason-for-contact-1">
+            NSOC Question
+          </label>
+                                      </div>
+    
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/form/form-element.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'form_element' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ form-element--webform-radio.html.twig
+   ✅ form-element.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/form/form-element.html.twig' -->
+
+
+
+      
+
+
+  <div class="js-webform-type-radio webform-type-radio js-form-item js-form-type-radio radio form-check js-form-item-reason-for-contact form-item-reason-for-contact">
+                        <input class="contact-form-radio-button form-radio form-check-input" data-drupal-selector="edit-reason-for-contact-2" type="radio" id="edit-reason-for-contact-2" name="reason_for_contact" value="2">
+                          <label  class="form-check-label" for="edit-reason-for-contact-2">
+            Technical Issues
+          </label>
+                                      </div>
+    
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/form/form-element.html.twig' -->
+
+</div>
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/radios.html.twig' -->
+
+
+          </div>
+</fieldset>
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/fieldset.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'form_element' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ form-element--webform-textarea.html.twig
+   ✅ form-element.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/form/form-element.html.twig' -->
+
+
+
+
+
+
+      <div class="js-webform-type-textarea webform-type-textarea js-form-item js-form-type-textarea form-type-textarea js-form-item-message form-item-message">
+                  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'form_element_label' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/form-element-label.html.twig' -->
+<label for="edit-message" class="js-form-required form-required">Message</label>
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/form-element-label.html.twig' -->
+
+
+                                              
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'textarea' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/textarea.html.twig' -->
+<div class="form-textarea-wrapper">
+  <textarea data-webform-required-error="Enter Message Details" data-drupal-selector="edit-message" id="edit-message" name="message" rows="5" cols="60" class="form-textarea required resize-vertical form-control" required="required"></textarea>
+</div>
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/textarea.html.twig' -->
+
+
+                                                  </div>
+    
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/form/form-element.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__hidden' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ input--hidden.html.twig
+   ✅ input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/input.html.twig' -->
+<input autocomplete="off" data-drupal-selector="form-yq4kpirfgyvb5ucu1verz1vyydtwe6wrzy8wq2eimeg" type="hidden" name="form_build_id" value="form-Yq4KpIRFGYvB5Ucu1verZ1VyyDtwE6wRzy8wq2EIMeg" class="form-control" />
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/input.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__hidden' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ input--hidden.html.twig
+   ✅ input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/input.html.twig' -->
+<input data-drupal-selector="edit-webform-submission-participant-contact-us-clone-add-form" type="hidden" name="form_id" value="webform_submission_participant_contact_us_clone_add_form" class="form-control" />
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/input.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__hidden' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ input--hidden.html.twig
+   ✅ input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/input.html.twig' -->
+<input data-drupal-selector="edit-honeypot-time" type="hidden" name="honeypot_time" value="G1f4kLYX3tZXhxvkY5GBZ09WYkQglq2hKUCpiw3X08g" class="form-control" />
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/input.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'container' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/container.html.twig' -->
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper mb-3" id="edit-actions">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'webform_actions' -->
+<!-- BEGIN OUTPUT from 'modules/contrib/webform/templates/webform-actions.html.twig' -->
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__submit' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ input--submit.html.twig
+   ✅ input--submit-button.html.twig
+   ▪️ input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/input--submit-button.html.twig' -->
+<button class="webform-button--submit button button--primary js-form-submit form-submit btn btn-primary" data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Submit">Submit</button>
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/input--submit-button.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'modules/contrib/webform/templates/webform-actions.html.twig' -->
+
+</div>
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/container.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'container' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/container.html.twig' -->
+<div class="url3-textfield js-form-wrapper form-wrapper mb-3" style="display: none !important;">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'form_element' -->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/form/form-element.html.twig' -->
+
+
+
+
+
+
+      <div class="js-form-item js-form-type-textfield form-type-textfield js-form-item-url3 form-item-url3">
+                  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'form_element_label' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/form-element-label.html.twig' -->
+<label for="edit-url3">Leave this field blank</label>
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/form-element-label.html.twig' -->
+
+
+                                              
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__textfield' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ input--textfield.html.twig
+   ✅ input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/input.html.twig' -->
+<input autocomplete="off" data-drupal-selector="edit-url3" type="text" id="edit-url3" name="url3" value="" size="20" maxlength="128" class="form-control" />
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/input.html.twig' -->
+
+
+                                                  </div>
+    
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/form/form-element.html.twig' -->
+
+</div>
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/container.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'modules/contrib/webform/templates/webform-submission-form.html.twig' -->
+
+
+  
+</form>
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/webform.html.twig' -->
+
+
+      </div>
+    </div>
+  </div>
+</div><div class="modal modal--nhats-refresh fade" id="staticBackdrop-privacy" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel-privacy" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5" id="staticBackdropLabel">Privacy</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa-solid fa-xmark"></i></button>
+      </div>
+      <div class="modal-body">
+      NHATS respects the privacy of every individual who visits this Site.
+	   NHATS will exercise reasonable precautions to maintain the confidentiality of information that you may provide in connection with accessing this 
+	   Site and will not sell, rent or trade personal information to any third party in accordance with <a href="https://www.westat.com/privacy-policy" target="_blank"  aria-label="Westat's Privacy Policy, opens in a new window">Westat's Privacy Policy</a>. 
+	   NHATS does not collect personal information about individuals from this Site except when specifically and knowingly provided by such individuals in conjunction with NHATS research activities. We may automatically record information that your browser sends whenever you visit our Site (e.g., domain name, date and time of your visit, pages visited, operating system of your computer, 
+	  version and type of web browser), to help us make our Site more useful to visitors.
+      </div>
+    </div>
+  </div>
+</div>
+ <div class="modal modal--nhats-refresh fade modal--nhats-refresh--data-cite" 
+     id="staticBackdrop-data-cite" 
+     data-bs-backdrop="static" 
+     data-bs-keyboard="false" 
+     tabindex="-1" 
+     aria-labelledby="staticBackdrop-data-cite-Label" 
+     aria-hidden="true">
+
+  <div class="modal-dialog modal-xl">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5" id="staticBackdrop-data-cite-Label">
+          How to Cite NHATS and NSOC Data
+        </h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+          <i class="fa-solid fa-xmark"></i>
+        </button>
+      </div>
+      <div class="modal-container">
+        <div class="modal-body">
+            <p>
+            The following acknowledgements should be included in any publications using NHATS or NSOC data. 
+            Please note that although it is necessary to include a citation to NHATS/NSOC in any publications, 
+            it is not necessary to associate your publications with the NHATS/NSOC grants in NIHMS.
+            </p>
+
+            <div class="citation-item">
+            <div id="cite-nhats">
+                <strong>NHATS:</strong> National Health and Aging Trends Study. 
+                Produced and distributed by <a href="https://www.nhats.org/">www.nhats.org</a> 
+                with funding from the National Institute on Aging and Office of Behavioral and 
+                Social Sciences Research (OBSSR) (grant number U01AG032947).
+            </div>
+            <button class="data-cite-copy" data-clipboard-target="#cite-nhats">
+                <i class="fal fa-copy"></i>
+            </button>
+            </div>
+
+            <div class="citation-item">
+            <div id="cite-nsoc-2011">
+                <strong>NSOC 2011 and 2015:</strong> National Study of Caregiving. 
+                Produced and distributed by <a href="https://www.nhats.org/">www.nhats.org</a> 
+                with funding from the Department of Health and Human Services Office of the 
+                Assistant Secretary of Planning and Evaluation in cooperation with the 
+                National Institute on Aging (U01AG032947).
+            </div>
+            <button class="data-cite-copy" data-clipboard-target="#cite-nsoc-2011">
+                <i class="fal fa-copy"></i>
+            </button>
+            </div>
+
+            <div class="citation-item">
+            <div id="cite-nsoc-2017">
+                <strong>NSOC 2017–2024:</strong> National Study of Caregiving. 
+                Produced and distributed by <a href="https://www.nhats.org/">www.nhats.org</a> 
+                with funding from the National Institute on Aging (grant numbers 
+                R01AG054004 (NSOC III) and R01AG062477 (NSOC IV)).
+            </div>
+            <button class="data-cite-copy" data-clipboard-target="#cite-nsoc-2017">
+                <i class="fal fa-copy"></i>
+            </button>
+            </div>
+
+            <div class="citation-item">
+            <div id="cite-nsoc-2025">
+                <strong>NSOC 2025 and forward:</strong> National Study of Caregiving. 
+                Produced and distributed by <a href="https://www.nhats.org/">www.nhats.org</a> 
+                with funding from the National Institute on Aging and Office of Behavioral 
+                and Social Sciences Research (OBSSR) (grant number U01AG032947).
+            </div>
+            <button class="data-cite-copy" data-clipboard-target="#cite-nsoc-2025">
+                <i class="fal fa-copy"></i>
+            </button>
+            </div>
+        </div>
+        <div class="modal-footer">
+        <button type="button" class="btn btn-outline-primary " data-bs-dismiss="modal">
+          Done
+        </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal modal--nhats-refresh fade modal-xl" id="staticBackdrop-conditions-of-use" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="#staticBackdrop-conditions-of-use" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5" id="staticBackdropLabel">Conditions of Use for NHATS Public Use Data</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa-solid fa-xmark"></i></button>
+      </div>
+      <div class="modal-body">
+        <p><span>By registering to download public use data files, you agree that you:</span></p>
+
+        <ul>
+          <li>will NOT attempt to identify study participants</li>
+          <li>will NOT transfer NHATS Public Use data to anyone other than staff or students that you have direct responsibility for. Research collaborators and persons not under your direct supervision are required to submit separate applications in order to obtain access to NHATS public data files.</li>
+          <li>will NOT upload NHATS or NSOC data to a public large language model or AI platforms including but not limited to ChatGPT, Claude, Gemini, Copilot, and other similar systems that process data externally and do not guarantee data confidentiality or non-retention.</li>
+          <li>will NOT allow others to use your username and password to access this site.</li>
+          <li>will use the data only for scientific research purposes and only for aggregate statistical reporting.</li>
+          <li>will report immediately any disclosure of study participant identity. (<a href="mailto:nhatsdata@westat.com">NHATSdata@Westat.com</a>)</li>
+          <li>will report any flaw or errors in the data or documentation (<a href="mailto:nhatsdata@westat.com">NHATSdata@Westat.com</a>).</li>
+          <li>will cite NHATS as the data source in any publications or research based upon these data.</li>
+          <li>will notify NHATS of publications based on NHATS Public Use Data by email (<a href="mailto:nhatsdata@westat.com">NHATSdata@Westat.com</a>). Include: authors, title of paper, title of journal, book or other venue where published, date of publication.</li>
+          <li>will destroy any downloaded Public Use data file, as well as any derived data files, if requested to do so.</li>
+          <li>will notify NHATS about changes in contact information by contacting <a href="mailto:nhatsdata@westat.com">NHATSdata@Westat.com</a>.</li>
+        </ul>
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-outline-primary btn-register" data-bs-dismiss="modal">
+          Close
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+    <div class="participants-sidebar">
+        <button id="sidenav-toggle" value="participants">participants</button>
+        <div class="ct-sidenav">
+            <button class="close">close</button>
+            <div class="participant-section">
+                <div class="nhats">
+          <a href="https://mynhats.org/nhats" title="NHATS Participants Page" tabindex="-1">
+               <div class="container-fluid full-height">
+                  <div class="bg-img nhats">
+                     <div class="img" style="background-image: url(/themes/custom/nhats2025/images/nhats_researchers-hover.jpg);"></div>
+                  </div>
+                  <div class="paragraph-content pl-page full-height">
+                     <h2>NHATS<br /> Participants</h2>
+                  </div>
+               </div>
+            </a>
+      </div>
+                <div class="nsoc">
+           <a href="https://mynhats.org/nsoc" title="NSOC Participants Page" tabindex="-1">
+               <div class="container-fluid full-height">
+                  <div class="bg-img nsoc">
+                     <div class="img" style="background-image: url(/themes/custom/nhats2025/images/purple-people-bg.jpg);"></div>
+                  </div>
+                  <div class="paragraph-content pl-page full-height">
+                     <div class="paragraph-landing-page-title" tabindex="2">
+                        <h2>NSOC<br /> Participants</h2>
+                     </div>
+                  </div>
+               </div>
+            </a>
+      </div>
+            </div>
+        </div>
+    </div>
+    
+  <div class="participant-footer">
+<div class="img-overlay"></div>
+    <div class="footer-text-container">
+      <div class="field field--name-field-researcher-footer-text field--type-string field--label-hidden field__item">How Daily Life Changes as We Age</div>   
+    </div>
+</div><footer class="page__footer">
+	<div class="container-fluid researcher-footer">
+		<div class="row">
+			<div class="left-column col-sm-12 col-lg-8 col-md-12">
+				<a href="https://www.jhsph.edu/" target="_blank" title="Johns Hopkins Bloomberg School of Public Health"><img alt="jh-logo" src="/themes/custom/nhats2025/images/jh-logo.svg"></a>
+				<a href="https://isr.umich.edu/" target="_blank" title="University of Michigan"><img alt="interview-setup" src="/themes/custom/nhats2025/images/interview_setup.png"></a>
+				<a href="https://www.westat.com/" target="_blank" title="Westat">
+					<img alt="westat-logo" src="/themes/custom/nhats2025/images/westat_logo.svg">
+				</a>
+			</div>
+
+			<div class="right-column col-sm-12 col-lg-4 col-md-12">
+				<ul>
+					<li class="privacy">
+					<button class="btn btn-link" data-bs-toggle="modal" data-bs-target="#staticBackdrop-privacy">Privacy</button>
+					</li>
+					<li class="contact"><button class="btn btn-link" data-bs-toggle="modal" data-bs-target="#staticBackdrop-contact"><i class="fa-regular fa-envelope"></i> Contact</button></li>
+					<li class="pdf-reader"><a class="btn btn-link" href="https://www.adobe.com/acrobat/pdf-reader.html">PDF Reader</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</footer>      </div>
+</div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/layout/page.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/off-canvas-page-wrapper.html.twig' -->
+
+
+    
+    <script src="/themes/custom/nhats2025/js/popper.min.js?v=11.3.10"></script>
+<script src="/themes/custom/nhats2025/js/bootstrap.min.js?v=11.3.10"></script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=4.0.0"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/core/misc/drupal.js?v=11.3.10"></script>
+<script src="/core/misc/drupal.init.js?v=11.3.10"></script>
+<script src="/core/assets/vendor/tabbable/index.umd.min.js?v=6.3.0"></script>
+<script src="/modules/contrib/back_to_top/js/back_to_top.js?v=11.3.10"></script>
+<script src="/themes/contrib/bootstrap_barrio/js/affix.js?v=11.3.10"></script>
+<script src="/modules/contrib/extlink/js/extlink.js?tfr2f4"></script>
+<script src="/core/misc/progress.js?v=11.3.10"></script>
+<script src="/core/assets/vendor/loadjs/loadjs.min.js?v=4.3.0"></script>
+<script src="/core/misc/debounce.js?v=11.3.10"></script>
+<script src="/core/misc/announce.js?v=11.3.10"></script>
+<script src="/core/misc/message.js?v=11.3.10"></script>
+<script src="/themes/contrib/bootstrap_barrio/js/messages.js?tfr2f4"></script>
+<script src="/core/misc/ajax.js?v=11.3.10"></script>
+<script src="/modules/contrib/google_tag/js/gtag.ajax.js?tfr2f4"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.11/clipboard.min.js"></script>
+<script src="/themes/custom/nhats2025/js/dim-nsoc-on-nhats.js?tfr2f4"></script>
+<script src="/themes/custom/nhats2025/js/fontawesome.all.min.js?v=11.3.10"></script>
+<script src="/themes/custom/nhats2025/js/barrio.js?v=11.3.10"></script>
+<script src="/themes/custom/nhats2025/js/custom.js?v=11.3.10"></script>
+<script src="/themes/custom/nhats2025/js/dropdown.js?v=11.3.10"></script>
+<script src="/themes/custom/nhats2025/js/copy-tip.js?v=11.3.10"></script>
+<script src="/themes/custom/nhats2025/js/open-accordion.js?tfr2f4"></script>
+<script src="/themes/custom/nhats2025/js/sidebar.js?tfr2f4"></script>
+<script src="/themes/custom/nhats2025/js/view-filter.js?tfr2f4"></script>
+<script src="/modules/contrib/webform/js/webform.element.details.save.js?tfr2f4"></script>
+<script src="/modules/contrib/webform/js/webform.element.details.toggle.js?tfr2f4"></script>
+<script src="/modules/contrib/webform/js/webform.element.message.js?tfr2f4"></script>
+<script src="/modules/contrib/webform/js/webform.element.options.js?tfr2f4"></script>
+<script src="/core/misc/form.js?v=11.3.10"></script>
+<script src="/modules/contrib/webform/js/webform.behaviors.js?tfr2f4"></script>
+<script src="/core/misc/states.js?v=11.3.10"></script>
+<script src="/modules/contrib/webform/js/webform.states.js?tfr2f4"></script>
+<script src="/modules/contrib/webform/js/webform.form.js?tfr2f4"></script>
+
+  </body>
+</html>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/nhats2025/templates/layout/html.html.twig' -->
+

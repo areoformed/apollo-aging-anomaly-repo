@@ -1,0 +1,6 @@
+research_id,person_id,full_name,primary_group,first_event_age,latest_event_age,event_count
+R078,p016_john_w_young,John W. Young,APOLLO_FLEW,81.978411603,81.978411603,1
+R060,p068_robert_l_crippen,Robert L. Crippen,OTHER_ALL,83.585563016,83.585563016,1
+R058,p017_buzz_aldrin,Buzz Aldrin,APOLLO_FLEW,88.431658419,88.431658419,1
+R064,p037_vance_d_brand,Vance D. Brand,OTHER_ALL,88.615098188,88.615098188,1
+R001,p018_william_a_anders,William A. Anders,APOLLO_FLEW,90.641149373,90.641149373,1

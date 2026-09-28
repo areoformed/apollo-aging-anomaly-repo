@@ -1,0 +1,601 @@
+mortality_scenario_key,mortality_scenario,mental_vitality_rate,vitality_count,probability
+ssa_general_age30,"SSA general male, age-30 selected",0.16167664670658682,0,0.1352654035331665
+ssa_general_age30,"SSA general male, age-30 selected",0.16167664670658682,1,0.2801525067070187
+ssa_general_age30,"SSA general male, age-30 selected",0.16167664670658682,2,0.28011239755283096
+ssa_general_age30,"SSA general male, age-30 selected",0.16167664670658682,3,0.18004647480494818
+ssa_general_age30,"SSA general male, age-30 selected",0.16167664670658682,4,0.0835810382323548
+ssa_general_age30,"SSA general male, age-30 selected",0.16167664670658682,5,0.029846097149537683
+ssa_general_age30,"SSA general male, age-30 selected",0.16167664670658682,6,0.008526235461045618
+ssa_general_age30,"SSA general male, age-30 selected",0.16167664670658682,7,0.002000768772185429
+ssa_general_age30,"SSA general male, age-30 selected",0.16167664670658682,8,0.0003929518850952758
+ssa_general_age30,"SSA general male, age-30 selected",0.16167664670658682,9,6.548260442781694e-05
+ssa_general_age30,"SSA general male, age-30 selected",0.16167664670658682,10,9.35331847840487e-06
+ssa_general_age30,"SSA general male, age-30 selected",0.16167664670658682,11,1.1538156369474646e-06
+ssa_general_age30,"SSA general male, age-30 selected",0.16167664670658682,12,1.2360540496250607e-07
+ssa_general_age30,"SSA general male, age-30 selected",0.16167664670658682,13,1.1543906837940377e-08
+ssa_general_age30,"SSA general male, age-30 selected",0.16167664670658682,14,9.4222482517095e-10
+ssa_general_age30,"SSA general male, age-30 selected",0.16167664670658682,15,6.729213769893619e-11
+ssa_general_age30,"SSA general male, age-30 selected",0.16167664670658682,16,4.205156471930297e-12
+ssa_general_age30,"SSA general male, age-30 selected",0.16167664670658682,17,2.29660535758372e-13
+ssa_general_age30,"SSA general male, age-30 selected",0.16167664670658682,18,1.0934650261388799e-14
+ssa_general_age30,"SSA general male, age-30 selected",0.16167664670658682,19,4.521200464019551e-16
+ssa_general_age30,"SSA general male, age-30 selected",0.16167664670658682,20,1.6144832743825154e-17
+ssa_general_age30,"SSA general male, age-30 selected",0.16167664670658682,21,4.941588154367952e-19
+ssa_general_age30,"SSA general male, age-30 selected",0.16167664670658682,22,1.2833456291257849e-20
+ssa_general_age30,"SSA general male, age-30 selected",0.16167664670658682,23,2.7894823778600307e-22
+ssa_general_age30,"SSA general male, age-30 selected",0.16167664670658682,24,4.980505375817717e-24
+ssa_general_age30,"SSA general male, age-30 selected",0.16167664670658682,25,7.113989031206237e-26
+ssa_general_age30,"SSA general male, age-30 selected",0.16167664670658682,26,7.816451130232714e-28
+ssa_general_age30,"SSA general male, age-30 selected",0.16167664670658682,27,6.202644489477859e-30
+ssa_general_age30,"SSA general male, age-30 selected",0.16167664670658682,28,3.16416146074997e-32
+ssa_general_age30,"SSA general male, age-30 selected",0.16167664670658682,29,7.792385347089408e-35
+ssa_general_age30,"SSA general male, age-30 selected",0.33445109780439125,0,0.01353015126677038
+ssa_general_age30,"SSA general male, age-30 selected",0.33445109780439125,1,0.06275878490894901
+ssa_general_age30,"SSA general male, age-30 selected",0.33445109780439125,2,0.14053239209653315
+ssa_general_age30,"SSA general male, age-30 selected",0.33445109780439125,3,0.2022985755394771
+ssa_general_age30,"SSA general male, age-30 selected",0.33445109780439125,4,0.21031975053025062
+ssa_general_age30,"SSA general male, age-30 selected",0.33445109780439125,5,0.16819920504267352
+ssa_general_age30,"SSA general male, age-30 selected",0.33445109780439125,6,0.1076112823666294
+ssa_general_age30,"SSA general male, age-30 selected",0.33445109780439125,7,0.056553759331724386
+ssa_general_age30,"SSA general male, age-30 selected",0.33445109780439125,8,0.024875284112803295
+ssa_general_age30,"SSA general male, age-30 selected",0.33445109780439125,9,0.009283648989074718
+ssa_general_age30,"SSA general male, age-30 selected",0.33445109780439125,10,0.002969768413895096
+ssa_general_age30,"SSA general male, age-30 selected",0.33445109780439125,11,0.0008204599310642025
+ssa_general_age30,"SSA general male, age-30 selected",0.33445109780439125,12,0.00019684414967178742
+ssa_general_age30,"SSA general male, age-30 selected",0.33445109780439125,13,4.1171999370305365e-05
+ssa_general_age30,"SSA general male, age-30 selected",0.33445109780439125,14,7.526061814132061e-06
+ssa_general_age30,"SSA general male, age-30 selected",0.33445109780439125,15,1.203764849518458e-06
+ssa_general_age30,"SSA general male, age-30 selected",0.33445109780439125,16,1.6847039230243064e-07
+ssa_general_age30,"SSA general male, age-30 selected",0.33445109780439125,17,2.0605914556384618e-08
+ssa_general_age30,"SSA general male, age-30 selected",0.33445109780439125,18,2.197224900862012e-09
+ssa_general_age30,"SSA general male, age-30 selected",0.33445109780439125,19,2.0346395066635833e-10
+ssa_general_age30,"SSA general male, age-30 selected",0.33445109780439125,20,1.627164099930831e-11
+ssa_general_age30,"SSA general male, age-30 selected",0.33445109780439125,21,1.1153943625320075e-12
+ssa_general_age30,"SSA general male, age-30 selected",0.33445109780439125,22,6.48738433617373e-14
+ssa_general_age30,"SSA general male, age-30 selected",0.33445109780439125,23,3.1580115092037395e-15
+ssa_general_age30,"SSA general male, age-30 selected",0.33445109780439125,24,1.2627797057207014e-16
+ssa_general_age30,"SSA general male, age-30 selected",0.33445109780439125,25,4.0395358421784274e-18
+ssa_general_age30,"SSA general male, age-30 selected",0.33445109780439125,26,9.940128204907074e-20
+ssa_general_age30,"SSA general male, age-30 selected",0.33445109780439125,27,1.7665395008974436e-21
+ssa_general_age30,"SSA general male, age-30 selected",0.33445109780439125,28,2.018223198441668e-23
+ssa_general_age30,"SSA general male, age-30 selected",0.33445109780439125,29,1.1131279109324197e-25
+ssa_general_age30,"SSA general male, age-30 selected",0.5072255489021957,0,0.001109528547561704
+ssa_general_age30,"SSA general male, age-30 selected",0.5072255489021957,1,0.008508103947630678
+ssa_general_age30,"SSA general male, age-30 selected",0.5072255489021957,2,0.031496125436487304
+ssa_general_age30,"SSA general male, age-30 selected",0.5072255489021957,3,0.07495419587651522
+ssa_general_age30,"SSA general male, age-30 selected",0.5072255489021957,4,0.12882662059622663
+ssa_general_age30,"SSA general male, age-30 selected",0.5072255489021957,5,0.1703224624274436
+ssa_general_age30,"SSA general male, age-30 selected",0.5072255489021957,6,0.1801474948148885
+ssa_general_age30,"SSA general male, age-30 selected",0.5072255489021957,7,0.15651441112426417
+ssa_general_age30,"SSA general male, age-30 selected",0.5072255489021957,8,0.11381076272574152
+ssa_general_age30,"SSA general male, age-30 selected",0.5072255489021957,9,0.07021928898409219
+ssa_general_age30,"SSA general male, age-30 selected",0.5072255489021957,10,0.03713494044731672
+ssa_general_age30,"SSA general male, age-30 selected",0.5072255489021957,11,0.01696055095761579
+ssa_general_age30,"SSA general male, age-30 selected",0.5072255489021957,12,0.006727094423165842
+ssa_general_age30,"SSA general male, age-30 selected",0.5072255489021957,13,0.0023261054623596386
+ssa_general_age30,"SSA general male, age-30 selected",0.5072255489021957,14,0.0007029390281186299
+ssa_general_age30,"SSA general male, age-30 selected",0.5072255489021957,15,0.00018587199703199524
+ssa_general_age30,"SSA general male, age-30 selected",0.5072255489021957,16,4.300493806907762e-05
+ssa_general_age30,"SSA general male, age-30 selected",0.5072255489021957,17,8.695790457095509e-06
+ssa_general_age30,"SSA general male, age-30 selected",0.5072255489021957,18,1.532901027806106e-06
+ssa_general_age30,"SSA general male, age-30 selected",0.5072255489021957,19,2.3466564200838104e-07
+ssa_general_age30,"SSA general male, age-30 selected",0.5072255489021957,20,3.102528794825433e-08
+ssa_general_age30,"SSA general male, age-30 selected",0.5072255489021957,21,3.5158905266256615e-09
+ssa_general_age30,"SSA general male, age-30 selected",0.5072255489021957,22,3.3806402567121386e-10
+ssa_general_age30,"SSA general male, age-30 selected",0.5072255489021957,23,2.720604870583815e-11
+ssa_general_age30,"SSA general male, age-30 selected",0.5072255489021957,24,1.798464163327996e-12
+ssa_general_age30,"SSA general male, age-30 selected",0.5072255489021957,25,9.51104184734032e-14
+ssa_general_age30,"SSA general male, age-30 selected",0.5072255489021957,26,3.869109708948117e-15
+ssa_general_age30,"SSA general male, age-30 selected",0.5072255489021957,27,1.1367496872584784e-16
+ssa_general_age30,"SSA general male, age-30 selected",0.5072255489021957,28,2.1470052984104786e-18
+ssa_general_age30,"SSA general male, age-30 selected",0.5072255489021957,29,1.957633673567382e-20
+ssa_general_age30,"SSA general male, age-30 selected",0.68,0,7.184319927451023e-05
+ssa_general_age30,"SSA general male, age-30 selected",0.68,1,0.0008116695218697205
+ssa_general_age30,"SSA general male, age-30 selected",0.68,2,0.004426932000278679
+ssa_general_age30,"SSA general male, age-30 selected",0.68,3,0.015521759046669581
+ssa_general_age30,"SSA general male, age-30 selected",0.68,4,0.03930518736151226
+ssa_general_age30,"SSA general male, age-30 selected",0.68,5,0.07656238469832559
+ssa_general_age30,"SSA general male, age-30 selected",0.68,6,0.11930839961209389
+ssa_general_age30,"SSA general male, age-30 selected",0.68,7,0.15272016795938376
+ssa_general_age30,"SSA general male, age-30 selected",0.68,8,0.16361558281418556
+ssa_general_age30,"SSA general male, age-30 selected",0.68,9,0.14872946845736523
+ssa_general_age30,"SSA general male, age-30 selected",0.68,10,0.11588376542034298
+ssa_general_age30,"SSA general male, age-30 selected",0.68,11,0.07797925666293842
+ssa_general_age30,"SSA general male, age-30 selected",0.68,12,0.0455686252723233
+ssa_general_age30,"SSA general male, age-30 selected",0.68,13,0.023214913658611596
+ssa_general_age30,"SSA general male, age-30 selected",0.68,14,0.010336049882366477
+ssa_general_age30,"SSA general male, age-30 selected",0.68,15,0.004026708332802507
+ssa_general_age30,"SSA general male, age-30 selected",0.68,16,0.0013726310011315654
+ssa_general_age30,"SSA general male, age-30 selected",0.68,17,0.0004089251400185583
+ssa_general_age30,"SSA general male, age-30 selected",0.68,18,0.00010620577413003997
+ssa_general_age30,"SSA general male, age-30 selected",0.68,19,2.3954261698931407e-05
+ssa_general_age30,"SSA general male, age-30 selected",0.68,20,4.6660390713562865e-06
+ssa_general_age30,"SSA general male, age-30 selected",0.68,21,7.790532839767713e-07
+ssa_general_age30,"SSA general male, age-30 selected",0.68,22,1.1036466404613088e-07
+ssa_general_age30,"SSA general male, age-30 selected",0.68,23,1.308566585938127e-08
+ssa_general_age30,"SSA general male, age-30 selected",0.68,24,1.2744752675326618e-09
+ssa_general_age30,"SSA general male, age-30 selected",0.68,25,9.930176882136904e-11
+ssa_general_age30,"SSA general male, age-30 selected",0.68,26,5.951674955814355e-12
+ssa_general_age30,"SSA general male, age-30 selected",0.68,27,2.576275313797647e-13
+ssa_general_age30,"SSA general male, age-30 selected",0.68,28,7.169020350912432e-15
+ssa_general_age30,"SSA general male, age-30 selected",0.68,29,9.630689744777933e-17
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.16167664670658682,0,0.10061917647617576
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.16167664670658682,1,0.24045802048895015
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.16167664670658682,2,0.27741364227652865
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.16167664670658682,3,0.20574573203546434
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.16167664670658682,4,0.11020586377491019
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.16167664670658682,5,0.04540829741724636
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.16167664670658682,6,0.01496772243295115
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.16167664670658682,7,0.00405271466588988
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.16167664670658682,8,0.0009184155599878614
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.16167664670658682,9,0.0001765942381554416
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.16167664670658682,10,2.9104961981741374e-05
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.16167664670658682,11,4.142747494154725e-06
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.16167664670658682,12,5.120828526602139e-07
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.16167664670658682,13,5.518312792071409e-08
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.16167664670658682,14,5.197072458930179e-09
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.16167664670658682,15,4.282716070282416e-10
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.16167664670658682,16,3.0880750553605024e-11
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.16167664670658682,17,1.945999791392407e-12
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.16167664670658682,18,1.0690845208494022e-13
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.16167664670658682,19,5.10048690471066e-15
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.16167664670658682,20,2.10156173554351e-16
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.16167664670658682,21,7.42208422307118e-18
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.16167664670658682,22,2.2240968530110324e-19
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.16167664670658682,23,5.578075789757859e-21
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.16167664670658682,24,1.1491717219085544e-22
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.16167664670658682,25,1.893980212831203e-24
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.16167664670658682,26,2.4011682489411006e-26
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.16167664670658682,27,2.198571498870521e-28
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.16167664670658682,28,1.2941155902517957e-30
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.16167664670658682,29,3.6773552132724046e-33
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.33445109780439125,0,0.006944853425081189
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.33445109780439125,1,0.03764800939837305
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.33445109780439125,2,0.09852603145476314
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.33445109780439125,3,0.16575797625002023
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.33445109780439125,4,0.20140429539427265
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.33445109780439125,5,0.188243361338041
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.33445109780439125,6,0.1407539517207414
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.33445109780439125,7,0.0864512603025075
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.33445109780439125,8,0.044441116261536295
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.33445109780439125,9,0.01938396783185626
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.33445109780439125,10,0.007246922422570823
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.33445109780439125,11,0.002339890123332073
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.33445109780439125,12,0.0006560964071527513
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.33445109780439125,13,0.00016038146078585687
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.33445109780439125,14,3.426313109931638e-05
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.33445109780439125,15,6.404835562692466e-06
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.33445109780439125,16,1.0476035788423613e-06
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.33445109780439125,17,1.4975189974356897e-07
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.33445109780439125,18,1.8662164690050834e-08
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.33445109780439125,19,2.0196775501756487e-09
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.33445109780439125,20,1.887700012156024e-10
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.33445109780439125,21,1.512297135430193e-11
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.33445109780439125,22,1.0279816725962275e-12
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.33445109780439125,23,5.848392508006873e-14
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.33445109780439125,24,2.7331121761237674e-15
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.33445109780439125,25,1.0218058595826677e-16
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.33445109780439125,26,2.938569511733042e-18
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.33445109780439125,27,6.103436002596178e-20
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.33445109780439125,28,8.149431162763243e-22
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.33445109780439125,29,5.253034268685517e-24
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.5072255489021957,0,0.0003652989724404192
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.5072255489021957,1,0.0033242971137570636
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.5072255489021957,2,0.014604317037941471
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.5072255489021957,3,0.04124555442237095
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.5072255489021957,4,0.0841286435201111
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.5072255489021957,5,0.13199797687576567
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.5072255489021957,6,0.1656840302685262
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.5072255489021957,7,0.17082987783018014
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.5072255489021957,8,0.14741779405928687
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.5072255489021957,9,0.10793941936207668
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.5072255489021957,10,0.06774284897406203
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.5072255489021957,11,0.0367178934386779
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.5072255489021957,12,0.017283130143017786
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.5072255489021957,13,0.007092206191623006
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.5072255489021957,14,0.002543470379808379
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.5072255489021957,15,0.0007981418226430427
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.5072255489021957,16,0.00021915001540629577
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.5072255489021957,17,5.258832285219792e-05
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.5072255489021957,18,1.100148840843619e-05
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.5072255489021957,19,1.9986829780169135e-06
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.5072255489021957,20,3.1359368043441223e-07
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.5072255489021957,21,4.2173913303352475e-08
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.5072255489021957,22,4.812431836031032e-09
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.5072255489021957,23,4.5960863469014067e-10
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.5072255489021957,24,3.605633432044388e-11
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.5072255489021957,25,2.2628978596176196e-12
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.5072255489021957,26,1.0924585778961861e-13
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.5072255489021957,27,3.809042809497414e-15
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.5072255489021957,28,8.537706127345484e-17
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.5072255489021957,29,9.238396299099276e-19
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.68,0,1.3769254557444205e-05
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.68,1,0.0001880892684773094
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.68,2,0.0012403596892760892
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.68,3,0.0052583046417740455
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.68,4,0.01609958534527621
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.68,5,0.037917551516900586
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.68,6,0.07144237231966521
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.68,7,0.11057100419661693
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.68,8,0.14322853116350245
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.68,9,0.1574207270902543
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.68,10,0.14830216806854693
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.68,11,0.12066019044135867
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.68,12,0.08525323271959266
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.68,13,0.052513627059910244
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.68,14,0.028269592811489948
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.68,15,0.013316041609804366
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.68,16,0.005488311935350044
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.68,17,0.0019769186956012843
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.68,18,0.0006208020465751081
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.68,19,0.00016929643567815787
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.68,20,3.9872494749299194e-05
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.68,21,8.049190662847012e-06
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.68,22,1.3787169390665867e-06
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.68,23,1.9765186013333775e-07
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.68,24,2.3275365260310958e-08
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.68,25,2.192714513834277e-09
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.68,26,1.589001565655693e-10
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.68,27,8.316438996412314e-12
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.68,28,2.798111143155704e-13
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.68,29,4.544881389059707e-15
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.16167664670658682,0,0.0714968268569963
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.16167664670658682,1,0.1974612123485235
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.16167664670658682,2,0.2632733311135827
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.16167664670658682,3,0.2256557537341745
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.16167664670658682,4,0.13968726104147677
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.16167664670658682,5,0.06651565007036098
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.16167664670658682,6,0.025338497848957114
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.16167664670658682,7,0.007928804224986527
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.16167664670658682,8,0.002076526233354625
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.16167664670658682,9,0.0004614357524513773
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.16167664670658682,10,8.788975833922627e-05
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.16167664670658682,11,1.4457600496032967e-05
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.16167664670658682,12,2.0653065031441886e-06
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.16167664670658682,13,2.572095652110513e-07
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.16167664670658682,14,2.799471792594178e-08
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.16167664670658682,15,2.666079709054504e-09
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.16167664670658682,16,2.2216631739624509e-10
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.16167664670658682,17,1.617967079563205e-11
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.16167664670658682,18,1.0272483573872913e-12
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.16167664670658682,19,5.6638477864184104e-14
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.16167664670658682,20,2.696985498923437e-15
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.16167664670658682,21,1.1007757657277188e-16
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.16167664670658682,22,3.812090475573173e-18
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.16167664670658682,23,1.1049189886501504e-19
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.16167664670658682,24,2.630676707997309e-21
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.16167664670658682,25,5.0106550891692766e-23
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.16167664670658682,26,7.341388140898449e-25
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.16167664670658682,27,7.76842022306617e-27
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.16167664670658682,28,5.284473302355413e-29
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.16167664670658682,29,1.7354045984947025e-31
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.33445109780439125,0,0.0031804949880618826
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.33445109780439125,1,0.020229660712958907
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.33445109780439125,2,0.062117292817469236
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.33445109780439125,3,0.12261706460022401
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.33445109780439125,4,0.17480753841287272
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.33445109780439125,5,0.19170173659443834
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.33445109780439125,6,0.16818293374294063
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.33445109780439125,7,0.12120139136304005
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.33445109780439125,8,0.0731031657850705
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.33445109780439125,9,0.037411821676000094
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.33445109780439125,10,0.01641098833509466
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.33445109780439125,11,0.006217152755124378
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.33445109780439125,12,0.0020454020301148633
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.33445109780439125,13,0.0005866514348854425
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.33445109780439125,14,0.00014705099577575742
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.33445109780439125,15,3.225253500403759e-05
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.33445109780439125,16,6.189674252878402e-06
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.33445109780439125,17,1.0381452237701341e-06
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.33445109780439125,18,1.5179684205144566e-07
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.33445109780439125,19,1.9275147335732003e-08
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.33445109780439125,20,2.113798552924067e-09
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.33445109780439125,21,1.9869305919549398e-10
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.33445109780439125,22,1.5846957316233035e-11
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.33445109780439125,23,1.0578204963555522e-12
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.33445109780439125,24,5.80026548047361e-14
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.33445109780439125,25,2.5443318415464487e-15
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.33445109780439125,26,8.585315941008846e-17
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.33445109780439125,27,2.0922311221004373e-18
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.33445109780439125,28,3.277762692658146e-20
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.33445109780439125,29,2.4789935421590216e-22
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.5072255489021957,0,9.726835329894001e-05
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.5072255489021957,1,0.0010581783657627373
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.5072255489021957,2,0.005557458530102445
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.5072255489021957,3,0.018763249643910188
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.5072255489021957,4,0.045752068132158256
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.5072255489021957,5,0.08581635246868541
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.5072255489021957,6,0.128771382832477
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.5072255489021957,7,0.1587224915557327
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.5072255489021957,8,0.16374214783887392
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.5072255489021957,9,0.14332652945336588
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.5072255489021957,10,0.10753402389727777
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.5072255489021957,11,0.06967807274924505
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.5072255489021957,12,0.03920818201998412
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.5072255489021957,13,0.019234087681454105
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.5072255489021957,14,0.00824618085019151
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.5072255489021957,15,0.003093443384095503
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.5072255489021957,16,0.0010154055709418804
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.5072255489021957,17,0.00029128846670810533
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.5072255489021957,18,7.284862302291008e-05
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.5072255489021957,19,1.5821576233904976e-05
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.5072255489021957,20,2.9676253295851097e-06
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.5072255489021957,21,4.771133852691903e-07
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.5072255489021957,22,6.508459753838028e-08
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.5072255489021957,23,7.430837162998105e-09
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.5072255489021957,24,6.968945526956772e-10
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.5072255489021957,25,5.22861160242095e-11
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.5072255489021957,26,3.0176046646702556e-12
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.5072255489021957,27,1.2577929313682957e-13
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.5072255489021957,28,3.3703145152799337e-15
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.5072255489021957,29,4.359751639523138e-17
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.68,0,1.845466685877709e-06
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.68,1,3.085858328200021e-05
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.68,2,0.0002491011860993453
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.68,3,0.0012926771763522764
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.68,4,0.004844792861881815
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.68,5,0.013967445774807368
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.68,6,0.03221430464152517
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.68,7,0.06103097855995986
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.68,8,0.09677313341497737
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.68,9,0.13019771568862146
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.68,10,0.15014301628394106
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.68,11,0.1495332691698147
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.68,12,0.1293304722122511
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.68,13,0.09751652311002047
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.68,14,0.06426017906610937
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.68,15,0.0370521750742783
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.68,16,0.018693625437648954
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.68,17,0.008242514949485868
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.68,18,0.0031684018666937835
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.68,19,0.0010576722761991262
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.68,20,0.0003049249077614901
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.68,21,7.535080421331476e-05
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.68,22,1.579890450621854e-05
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.68,23,2.7724833974030394e-06
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.68,24,3.9965084802138765e-07
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.68,25,4.608743207589942e-08
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.68,26,4.088282801901687e-09
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.68,27,2.619209254396596e-10
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.68,28,1.0787329311698003e-11
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.68,29,2.1448045143206436e-13
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.16167664670658682,0,0.04815408419614723
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.16167664670658682,1,0.15398085922490964
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.16167664670658682,2,0.23770065989151706
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.16167664670658682,3,0.2358894456917118
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.16167664670658682,4,0.16906646788065158
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.16167664670658682,5,0.09321012639179496
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.16167664670658682,6,0.04111106251114242
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.16167664670658682,7,0.014894437632118927
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.16167664670658682,8,0.004516400190974045
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.16167664670658682,9,0.0011619964878888387
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.16167664670658682,10,0.000256253864792158
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.16167664670658682,11,4.880529620596135e-05
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.16167664670658682,12,8.072235526606043e-06
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.16167664670658682,13,1.1639518289628147e-06
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.16167664670658682,14,1.46677185202919e-07
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.16167664670658682,15,1.617328278391441e-08
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.16167664670658682,16,1.5604212147292388e-09
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.16167664670658682,17,1.3157454900945553e-10
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.16167664670658682,18,9.671999024488055e-12
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.16167664670658682,19,6.1743456916744e-13
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.16167664670658682,20,3.404054923025153e-14
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.16167664670658682,21,1.6086271204315653e-15
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.16167664670658682,22,6.449979072718838e-17
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.16167664670658682,23,2.164532557444507e-18
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.16167664670658682,24,5.96677613803888e-20
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.16167664670658682,25,1.3158468735994675e-21
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.16167664670658682,26,2.2321717594805864e-23
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.16167664670658682,27,2.73476940673819e-25
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.16167664670658682,28,2.1539136585062533e-27
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.16167664670658682,29,8.189660627852643e-30
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.33445109780439125,0,0.0012694132812071813
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.33445109780439125,1,0.00951856094598398
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.33445109780439125,2,0.034456375363550035
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.33445109780439125,3,0.08018301062659926
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.33445109780439125,4,0.13476154288336917
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.33445109780439125,5,0.17422330105925576
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.33445109780439125,6,0.18019240790826527
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.33445109780439125,7,0.1530863766742566
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.33445109780439125,8,0.10885277302709337
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.33445109780439125,9,0.06567295252698374
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.33445109780439125,10,0.03396149475510619
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.33445109780439125,11,0.015167638586217917
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.33445109780439125,12,0.005882737776425556
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.33445109780439125,13,0.001989094050775612
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.33445109780439125,14,0.0005877836815267967
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.33445109780439125,15,0.0001519804702636699
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.33445109780439125,16,3.4384767830525515e-05
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.33445109780439125,17,6.79877684270922e-06
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.33445109780439125,18,1.1719518980051724e-06
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.33445109780439125,19,1.7543616702735552e-07
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.33445109780439125,20,2.2680853521498852e-08
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.33445109780439125,21,2.5133494023016884e-09
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.33445109780439125,22,2.363145342589068e-10
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.33445109780439125,23,1.8596486386359688e-11
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.33445109780439125,24,1.2021015703044957e-12
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.33445109780439125,25,6.216435321409794e-14
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.33445109780439125,26,2.4728531239913733e-15
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.33445109780439125,27,7.104378182519448e-17
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.33445109780439125,28,1.3121041088566301e-18
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.33445109780439125,29,1.1698779539094712e-20
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.5072255489021957,0,1.985350560759307e-05
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.5072255489021957,1,0.0002605803976162002
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.5072255489021957,2,0.001651111186338912
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.5072255489021957,3,0.0067255122935825605
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.5072255489021957,4,0.019785419789813147
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.5072255489021957,5,0.04477357939679938
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.5072255489021957,6,0.08105659352382859
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.5072255489021957,7,0.12053819555659587
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.5072255489021957,8,0.15002509876153242
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.5072255489021957,9,0.1584335845819626
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.5072255489021957,10,0.1434114363760391
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.5072255489021957,11,0.11211177874955319
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.5072255489021957,12,0.07611128316434264
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.5072255489021957,13,0.04504651052775891
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.5072255489021957,14,0.0233001996949786
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.5072255489021957,15,0.010545475932146062
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.5072255489021957,16,0.004176195100465524
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.5072255489021957,17,0.0014453790385378859
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.5072255489021957,18,0.00043611099370433065
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.5072255489021957,19,0.00011427274518231732
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.5072255489021957,20,2.585944540810284e-05
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.5072255489021957,21,5.015901078832437e-06
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.5072255489021957,22,8.255108976403444e-07
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.5072255489021957,23,1.1371023483893789e-07
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.5072255489021957,24,1.2866075832293393e-08
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.5072255489021957,25,1.1646157097945916e-09
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.5072255489021957,26,8.109159246974725e-11
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.5072255489021957,27,4.077930889881835e-12
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.5072255489021957,28,1.3183124919578493e-13
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.5072255489021957,29,2.0574387310249855e-15
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.68,0,1.5457013035985515e-07
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.68,1,3.215526542407187e-06
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.68,2,3.2293020046103995e-05
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.68,3,0.000208487345240654
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.68,4,0.0009721238174426022
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.68,5,0.0034867444291618705
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.68,6,0.010004805146138007
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.68,7,0.023581257378101354
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.68,8,0.04651876538383447
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.68,9,0.0778634231567968
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.68,10,0.11170999086994984
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.68,11,0.13841445906779173
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.68,12,0.14893653526760925
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.68,13,0.1397125255434682
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.68,14,0.1145396411167607
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.68,15,0.08216452439828133
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.68,16,0.051572825602575596
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.68,17,0.028290712486625715
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.68,18,0.013529481518004486
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.68,19,0.005618867171630097
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.68,20,0.0020153352337793653
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.68,21,0.0006195823535930013
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.68,22,0.00016161991496707116
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.68,23,3.528528305347825e-05
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.68,24,6.327936931006178e-06
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.68,25,9.078637287302628e-07
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.68,26,1.001926437698163e-07
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.68,27,7.985862985744696e-09
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.68,28,4.0918748911234607e-10
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.68,29,1.0121686378270827e-11
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.16167664670658682,0,0.03656083186408831
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.16167664670658682,1,0.12814297262510876
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.16167664670658682,2,0.2168221057832321
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.16167664670658682,3,0.23584506616700449
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.16167664670658682,4,0.18527673116249405
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.16167664670658682,5,0.11196224860718662
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.16167664670658682,6,0.05412679739986716
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.16167664670658682,7,0.021494277683477694
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.16167664670658682,8,0.007143914972978148
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.16167664670658682,9,0.002014623010852457
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.16167664670658682,10,0.0004869725863049608
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.16167664670658682,11,0.00010165907585251326
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.16167664670658682,12,1.8429694844616306e-05
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.16167664670658682,13,2.9127582517752784e-06
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.16167664670658682,14,4.023250891130204e-07
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.16167664670658682,15,4.862480179302635e-08
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.16167664670658682,16,5.1421723047292754e-09
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.16167664670658682,17,4.752496260155279e-10
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.16167664670658682,18,3.8292282356641244e-11
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.16167664670658682,19,2.679359970328485e-12
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.16167664670658682,20,1.6191302881038148e-13
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.16167664670658682,21,8.386596326479333e-15
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.16167664670658682,22,3.6858170408884816e-16
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.16167664670658682,23,1.3557658971707627e-17
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.16167664670658682,24,4.0964290950019313e-19
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.16167664670658682,25,9.901845954613068e-21
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.16167664670658682,26,1.841126109426419e-22
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.16167664670658682,27,2.4724171949878712e-24
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.16167664670658682,28,2.134393293049201e-26
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.16167664670658682,29,8.895229910210594e-29
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.33445109780439125,0,0.0006626643880869542
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.33445109780439125,1,0.005517179133375901
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.33445109780439125,2,0.022175354727210182
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.33445109780439125,3,0.057297878246787254
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.33445109780439125,4,0.10692453049695673
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.33445109780439125,5,0.15348742895924006
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.33445109780439125,6,0.17626182309353805
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.33445109780439125,7,0.16626985147235174
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.33445109780439125,8,0.13127186571241276
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.33445109780439125,9,0.08793745612576728
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.33445109780439125,10,0.05049278771570253
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.33445109780439125,11,0.025038927328634213
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.33445109780439125,12,0.010782821944713708
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.33445109780439125,13,0.004048213958007907
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.33445109780439125,14,0.001328253166770829
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.33445109780439125,15,0.0003813346902288728
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.33445109780439125,16,9.57943341741039e-05
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.33445109780439125,17,2.1030989626687195e-05
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.33445109780439125,18,4.025259699547979e-06
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.33445109780439125,19,6.690497988440072e-07
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.33445109780439125,20,9.604038754529409e-08
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.33445109780439125,21,1.1816873152411337e-08
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.33445109780439125,22,1.2336595779344546e-09
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.33445109780439125,23,1.0779310795692317e-10
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.33445109780439125,24,7.736712484468115e-12
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.33445109780439125,25,4.4423411627574584e-13
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.33445109780439125,26,1.9621129622559763e-14
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.33445109780439125,27,6.259028837225622e-16
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.33445109780439125,28,1.2835251175258277e-17
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.33445109780439125,29,1.2706672278360424e-19
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.5072255489021957,0,6.301571220334743e-06
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.5072255489021957,1,9.342424193616349e-05
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.5072255489021957,2,0.0006686523171069925
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.5072255489021957,3,0.0030764906464476353
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.5072255489021957,4,0.01022307839896651
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.5072255489021957,5,0.026131505507142824
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.5072255489021957,6,0.053436395842478786
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.5072255489021957,7,0.08975934815082576
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.5072255489021957,8,0.1261900520509444
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.5072255489021957,9,0.15052708117837107
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.5072255489021957,10,0.15390664523063385
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.5072255489021957,11,0.13590361945433457
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.5072255489021957,12,0.10421614825639826
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.5072255489021957,13,0.0696712051194348
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.5072255489021957,14,0.040705960359579914
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.5072255489021957,15,0.020809935829454933
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.5072255489021957,16,0.009308753490288337
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.5072255489021957,17,0.0036391394368452228
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.5072255489021957,18,0.0012402812345942713
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.5072255489021957,19,0.00036708952566969356
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.5072255489021957,20,9.383281226349391e-05
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.5072255489021957,21,2.0558464916807992e-05
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.5072255489021957,22,3.821824366230256e-06
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.5072255489021957,23,5.946393767815987e-07
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.5072255489021957,24,7.599874295546438e-08
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.5072255489021957,25,7.770503140335568e-09
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.5072255489021957,26,6.11150989586846e-10
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.5072255489021957,27,3.47151259724467e-11
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.5072255489021957,28,1.2676619229653336e-12
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.5072255489021957,29,2.234694619261393e-14
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.68,0,2.4534693843643776e-08
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.68,1,5.904609427245161e-07
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.68,2,6.8601205261721e-06
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.68,3,5.1237365354902904e-05
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.68,4,0.0002763838621951127
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.68,5,0.001146819900083201
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.68,6,0.0038068673699866973
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.68,7,0.010380304108381257
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.68,8,0.023689467880732305
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.68,9,0.04587167784342562
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.68,10,0.076135491534464
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.68,11,0.10913413394864227
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.68,12,0.13585148814039014
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.68,13,0.14742885881780426
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.68,14,0.1398256946353892
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.68,15,0.11603780906543593
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.68,16,0.0842597386827954
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.68,17,0.05347207945147078
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.68,18,0.029583417944754883
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.68,19,0.014213465118013838
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.68,20,0.0058976976864769095
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.68,21,0.0020975786619403043
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.68,22,0.000632991819262481
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.68,23,0.0001598751025061282
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.68,24,3.316907644782012e-05
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.68,25,5.505235600317008e-06
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.68,26,7.028701304100373e-07
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.68,27,6.4810461341405e-08
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.68,28,3.841754528832282e-09
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.68,29,1.0993706760883599e-10

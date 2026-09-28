@@ -1,0 +1,48 @@
+Stage 1 is locked. Do not alter any Stage 1 file. Do not browse the web during this stage and do not inspect group counts or person-level outcomes while making codebook decisions.
+
+Your task is to operationalize a fixed public-evidence endpoint before outcome collection. This endpoint is not a clinical cognitive diagnosis.
+
+Eligibility: a person reached age 80 by death or the fixed censoring date 2026-06-01.
+
+The evidence-collection window runs from the 80th birthday through death or 2026-06-01. Inside it, the primary analytic window is the first five years after age 80: age [80,85). Primary follow-up ends at the earliest of first qualifying function event, death, 85th birthday, or 2026-06-01. Death before detected function is a competing event; administrative end before age 85 is right censoring. Continue collecting later evidence for the secondary “any event at any age 80+” description.
+
+A QUALIFYING_FUNCTION_EVENT is dated, attributable evidence in the evidence-collection window of substantive self-directed activity in at least one family. Events within five years of age 80 contribute to the primary endpoint; later events contribute only to secondary descriptions:
+1. a substantive interview or unscripted Q&A containing the person’s own responsive answers;
+2. original authored/co-authored substantive work with evidence of contemporaneous participation;
+3. a lecture, technical presentation, teaching session, or public discussion with substantive participation;
+4. active professional, advisory, organizational, civic, artistic, or technical responsibility;
+5. verified active piloting, operation of complex equipment, fieldwork, or similarly demanding activity.
+
+These do not qualify alone: attendance, a photograph, an award listing, a birthday notice, a quotation of unknown date, generic praise, a signature, a reissued old work, or absence of an impairment report.
+
+QUALIFYING_IMPAIRMENT_EVIDENCE requires a published clinical diagnosis or credible attributable report of persistent major cognitive impairment in the evidence-collection window. Frailty, physical disability, stroke without cognitive detail, seclusion, or lack of interviews does not qualify.
+
+Function and impairment evidence may coexist and must retain dates. The full-window person-level states are mutually exclusive and exhaustive:
+- FUNCTION_ONLY
+- IMPAIRMENT_ONLY
+- FUNCTION_THEN_IMPAIRMENT
+- IMPAIRMENT_THEN_FUNCTION
+- BOTH_ORDER_INDETERMINATE_OR_SAME_DATE
+- NEITHER_FOUND
+- NOT_ELIGIBLE_UNDER_80
+
+The primary endpoint is five-year cumulative incidence of first QUALIFYING_FUNCTION_EVENT after age 80, with death as a competing event. Call it public-evidence detection, never cognitive-intactness prevalence. The secondary crude endpoint is any detected function event at any age 80+.
+
+Documentation depth is mechanical:
+- LOW = 0–1 substantive late-life sources opened;
+- MEDIUM = 2–4;
+- HIGH = 5 or more across at least 2 independent publishers.
+Retain raw counts.
+
+Write stage1b/CODEBOOK.md that:
+- copies these fixed rules without weakening them;
+- resolves foreseeable edge cases direction-blindly;
+- defines source tiers, independence of publishers, event dating, co-authorship, edited interviews, retrospective accounts, and conflicting evidence;
+- freezes a direction-neutral analysis-date rule for DAY/MONTH/YEAR/bounded-interval event dates and requires earliest/latest sensitivity for any event whose precision can move it across the age-80 or five-year boundary;
+- copies the fixed practical thresholds: 10 percentage points for the primary five-year public-function risk difference and 5.0 years for the primary 50-year post-1973 survival RMST difference;
+- states that no evidence is unknown rather than impairment;
+- includes a blank deviation table for any later coding-rule problem.
+
+Also write stage1b/STAGE_COMPLETE.md attesting that no browsing or person-level outcome collection occurred and that no group outcome rates were examined.
+
+Stop and reply only: STAGE1B_COMPLETE, followed by the two paths and any blocking failure.

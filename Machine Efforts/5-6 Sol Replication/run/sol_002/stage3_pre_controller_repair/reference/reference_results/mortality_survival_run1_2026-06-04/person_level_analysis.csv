@@ -1,0 +1,99 @@
+name,primary,source_key,source_label,astronaut_group,date_of_birth,date_of_death,endpoint_age,deceased,accidental_death,pre1970_accidental_death,included_in_apollo_vs_other_available,reached_80,reached_90,space_grandpa,cause_note
+Alan Bean,apollo,apollo_lunar,Apollo lunar-program crew,Group 3 — The Fourteen,1932-03-15,2018-05-26,86.19752630101918,True,False,False,True,True,False,Y,Sudden onset of illness
+Alan Shepard,apollo,apollo_lunar,Apollo lunar-program crew,Group 1 — Mercury Seven,1923-11-18,1998-07-21,74.67367570860456,True,False,False,True,False,False,N,Complications from chronic lymphocytic leukemia
+Alfred Worden,apollo,apollo_lunar,Apollo lunar-program crew,Group 5,1932-02-07,2020-03-18,88.11132329890415,True,False,False,True,True,False,Y,Infection
+Buzz Aldrin,apollo,apollo_lunar,Apollo lunar-program crew,Group 3 — The Fourteen,1930-01-20,,96.37158873898848,False,False,False,True,True,True,Y,
+Charles Duke,apollo,apollo_lunar,Apollo lunar-program crew,Group 5,1935-10-03,,90.6712663504384,False,False,False,True,True,True,Y,
+David Scott,apollo,apollo_lunar,Apollo lunar-program crew,Group 3 — The Fourteen,1932-06-06,,93.99508545692245,False,False,False,True,True,True,Y,
+Edgar Mitchell,apollo,apollo_lunar,Apollo lunar-program crew,Group 5,1930-09-17,2016-02-04,85.3843679199436,True,False,False,True,True,False,Y,Kidney cancer (renal carcinoma)
+Eugene Cernan,apollo,apollo_lunar,Apollo lunar-program crew,Group 3 — The Fourteen,1934-03-14,2017-01-16,82.84632812446524,True,False,False,True,True,False,Y,Ongoing health issues (family statement; no specific diagnosis disclosed)
+Frank Borman,apollo,apollo_lunar,Apollo lunar-program crew,Group 2 — The New Nine,1928-03-14,2023-11-07,95.6515191961505,True,False,False,True,True,True,Y,Stroke
+Fred Haise,apollo,apollo_lunar,Apollo lunar-program crew,Group 5,1933-11-14,,92.5549463712465,False,False,False,True,True,True,Y,
+Harrison Schmitt,apollo,apollo_lunar,Apollo lunar-program crew,Group 4 — The Scientists,1935-07-03,,90.92315379508135,False,False,False,True,True,True,Y,
+Jack Swigert,apollo,apollo_lunar,Apollo lunar-program crew,Group 5,1931-08-30,1982-12-27,51.32754266001355,True,False,False,True,False,False,N,Respiratory failure from bone marrow cancer
+James Irwin,apollo,apollo_lunar,Apollo lunar-program crew,Group 5,1930-03-17,1991-08-08,61.39482672471029,True,False,False,True,False,False,N,Heart attack following a bicycle ride
+Jim Lovell,apollo,apollo_lunar,Apollo lunar-program crew,Group 2 — The New Nine,1928-03-25,2025-08-07,97.37092479653928,True,False,False,True,True,True,Y,Complications of hip fracture from fall; cardiovascular disease contributing
+John Young,apollo,apollo_lunar,Apollo lunar-program crew,Group 2 — The New Nine,1930-09-24,2018-01-05,87.28447538279362,True,False,False,True,True,False,Y,Complications from pneumonia
+Ken Mattingly,apollo,apollo_lunar,Apollo lunar-program crew,Group 5,1936-03-17,2023-10-31,87.62397585166019,True,False,False,True,True,False,N,Not publicly disclosed
+Michael Collins,apollo,apollo_lunar,Apollo lunar-program crew,Group 3 — The Fourteen,1930-10-31,2021-04-28,90.49330239498416,True,False,False,True,True,True,Y,Cancer
+Neil Armstrong,apollo,apollo_lunar,Apollo lunar-program crew,Group 2 — The New Nine,1930-08-05,2012-08-25,82.05781090645256,True,False,False,True,True,False,Y,Complications from coronary bypass surgery
+Pete Conrad,apollo,apollo_lunar,Apollo lunar-program crew,Group 2 — The New Nine,1930-06-02,1999-07-08,69.09929704237595,True,True,False,True,False,False,N,Internal injuries from motorcycle accident
+Richard Gordon,apollo,apollo_lunar,Apollo lunar-program crew,Group 3 — The Fourteen,1929-10-05,2017-11-06,88.08942004284825,True,False,False,True,True,False,Y,Cause not specified on Wikipedia
+Ronald Evans,apollo,apollo_lunar,Apollo lunar-program crew,Group 5,1933-11-10,1990-04-06,56.403622250970244,True,False,False,True,False,False,N,Heart attack in his sleep
+Stuart Roosa,apollo,apollo_lunar,Apollo lunar-program crew,Group 5,1933-08-16,1994-12-12,61.323641142528594,True,False,False,True,False,False,N,Complications from pancreatitis
+Thomas Stafford,apollo,apollo_lunar,Apollo lunar-program crew,Group 2 — The New Nine,1930-09-17,2024-03-18,93.50226219566453,True,False,False,True,True,True,Y,Liver cancer
+William Anders,apollo,apollo_lunar,Apollo lunar-program crew,Group 3 — The Fourteen,1933-10-17,2024-06-07,90.64114937336153,True,True,False,True,True,True,Y,"Aircraft crash in Beechcraft T-34 Mentor near San Juan Islands, Washington"
+Donn Fulton Eisele,apollo,apollo_non_lunar,Apollo 7/9 non-lunar crew,Group 3 — The Fourteen,1930-06-23,1987-12-01,57.44128900661889,True,False,False,True,False,False,N,Heart attack in Tokyo while on business trip
+James Alton McDivitt Jr.,apollo,apollo_non_lunar,Apollo 7/9 non-lunar crew,Group 2 — The New Nine,1929-06-10,2022-10-13,93.34346358925919,True,False,False,True,True,True,Y,Died in his sleep
+Ronnie Walter Cunningham,apollo,apollo_non_lunar,Apollo 7/9 non-lunar crew,Group 3 — The Fourteen,1932-03-16,2023-01-03,90.80268588677386,True,False,False,True,True,True,Y,Complications from a fall
+Russell Louis Schweickart,apollo,apollo_non_lunar,Apollo 7/9 non-lunar crew,Group 3 — The Fourteen,1935-10-25,,90.61103239628466,False,False,False,True,True,True,Y,
+Walter Marty Schirra Jr.,apollo,apollo_non_lunar,Apollo 7/9 non-lunar crew,Group 1 — Mercury Seven,1923-03-12,2007-05-03,84.1440960457778,True,False,False,True,True,False,Y,Heart attack during abdominal cancer treatment
+Albert Hanlin Crews Jr.,other,military_dyna_soar,X-20 Dyna-Soar pilots,X-20 Dyna-Soar Pilot,1929-03-23,2025-06-07,96.21005222557616,True,False,False,True,True,True,Y,Not publicly disclosed
+Henry Charles Gordon,other,military_dyna_soar,X-20 Dyna-Soar pilots,X-20 Dyna-Soar Pilot,1925-12-23,1996-09-24,70.755730781604,True,False,False,True,False,False,N,unknown
+James Wayne Wood,other,military_dyna_soar,X-20 Dyna-Soar pilots,X-20 Dyna-Soar Pilot,1924-08-09,1990-01-01,65.39764676892749,True,False,False,True,False,False,N,Natural causes
+Russell Lee Rogers,other,military_dyna_soar,X-20 Dyna-Soar pilots,X-20 Dyna-Soar Pilot,1928-04-12,1967-09-13,39.420385086620534,True,True,True,False,False,False,N,"F-105 engine failure; ejected but parachute failed to deploy; Kadena AFB, Okinawa"
+Francis Gregory Neubeck,other,military_mol,MOL military astronauts,MOL Group 1,1932-04-11,,94.1484082493138,False,False,False,True,True,True,N,
+James Alan Abrahamson,other,military_mol,MOL military astronauts,MOL Group 3,1933-05-19,,93.04503172549744,False,False,False,True,True,True,Y,
+James Martin Taylor,other,military_mol,MOL military astronauts,MOL Group 1,1930-11-27,1970-09-04,39.77083718351506,True,True,False,True,False,False,N,T-38 Talon crash caused by severe wake turbulence from C-141 Starlifter on intersecting runway at Palmdale
+John Lawrence Finley,other,military_mol,MOL military astronauts,MOL Group 1,1935-12-22,2006-09-19,70.74477915357605,True,False,False,True,False,False,N,Diabetes and cancer
+Lachlan Macleay,other,military_mol,MOL military astronauts,MOL Group 1,1931-06-13,,94.97799407243133,False,False,False,True,True,True,Y,
+Richard Earl Lawyer,other,military_mol,MOL military astronauts,MOL Group 1,1932-11-08,2005-11-12,73.01176615536254,True,False,False,True,False,False,N,Suspected blood clot (died unexpectedly)
+Robert Henry Lawrence Jr.,other,military_mol,MOL military astronauts,MOL Group 3,1935-10-02,1967-12-08,32.184096867149904,True,True,True,False,False,False,N,"F-104 Starfighter crash during flight test training at Edwards AFB; aircraft flared too late, landing gear failure, ejection seat fired sideways, parachute failed to deploy"
+Robert Tralles Herres,other,military_mol,MOL military astronauts,MOL Group 3,1932-12-01,2008-07-24,75.64563269608547,True,False,False,True,False,False,N,Not publicly disclosed
+Albert Scott Crossfield,other,military_x15,X-15/high-speed pilots,X-15 Research Pilot,1921-10-02,2006-04-19,84.54656837580511,True,True,False,True,True,False,Y,Cessna 210A crash in thunderstorm; NTSB cited failure to obtain en route weather
+Alvin Swauger White,other,military_x15,X-15/high-speed pilots,High-Speed Research Pilot,1918-12-09,2006-04-29,87.38851584905919,True,False,False,True,True,False,N,Cause not specified; died in Tucson at 87
+Forrest Silas Petersen,other,military_x15,X-15/high-speed pilots,X-15 Research Pilot,1922-05-16,1990-12-08,68.5654051760132,True,False,False,True,False,False,N,Brain tumor
+Iven Carl Kincheloe Jr.,other,military_x15,X-15/high-speed pilots,High-Speed Research Pilot,1928-07-02,1958-07-26,30.064956843740802,True,True,True,False,False,False,N,F-104A crash at Edwards AFB; downward ejection seat at low altitude
+John Barron McKay,other,military_x15,X-15/high-speed pilots,X-15 Research Pilot,1922-12-08,1975-04-27,52.38437476471112,True,False,False,True,False,False,N,Complications from 1962 X-15 crash injuries; brain damage compounded by diabetes and liver disease
+Joseph Albert Walker,other,military_x15,X-15/high-speed pilots,X-15 Research Pilot,1921-02-20,1966-06-08,45.29593352361787,True,True,True,False,False,False,N,"Mid-air collision; F-104N Starfighter struck XB-70 Valkyrie during formation flight near Barstow, CA"
+Michael James Adams,other,military_x15,X-15/high-speed pilots,X-15 Research Pilot,1930-05-05,1967-11-15,37.531229251798464,True,True,True,False,False,False,N,"X-15-3 structural failure during reentry; aircraft broke apart at ~65,000 ft after hypersonic spin"
+Milton Orville Thompson,other,military_x15,X-15/high-speed pilots,X-15 Research Pilot,1926-05-04,1993-08-06,67.25942353367968,True,False,False,True,False,False,N,Natural causes
+Robert Aitken Rushworth,other,military_x15,X-15/high-speed pilots,X-15 Research Pilot,1924-10-09,1993-03-18,68.43946145369172,True,False,False,True,False,False,N,Heart attack
+Robert Michael White,other,military_x15,X-15/high-speed pilots,X-15 Research Pilot,1924-07-06,2010-03-17,85.69648931874029,True,False,False,True,True,False,Y,Age-related causes
+William Barton Bridgeman,other,military_x15,X-15/high-speed pilots,High-Speed Research Pilot,1916-06-25,1968-09-29,52.26390685640362,True,True,True,False,False,False,N,Grumman Goose amphibian crash near Catalina Island; body never recovered
+William Harvey Dana,other,military_x15,X-15/high-speed pilots,X-15 Research Pilot,1930-11-03,2014-05-06,83.50616371314948,True,False,False,True,True,False,N,Parkinson's disease
+William John Knight,other,military_x15,X-15/high-speed pilots,X-15 Research Pilot,1929-11-18,2004-05-07,74.46833268308042,True,False,False,True,False,False,N,Leukemia
+Anthony Wayne England,other,other_core_nasa,Core NASA non-Apollo,Group 6 — The Excess Eleven,1942-05-15,,84.05648302155417,False,False,False,True,True,False,Y,
+Brian Todd O'Leary,other,other_core_nasa,Core NASA non-Apollo,Group 6 — The Excess Eleven,1940-01-27,2011-07-28,71.50044148750487,True,False,False,True,False,False,N,Intestinal cancer
+Bruce McCandless II,other,other_core_nasa,Core NASA non-Apollo,Group 5 — The Original Nineteen,1937-06-08,2017-12-21,80.53827251757394,True,False,False,True,True,False,N,Not publicly disclosed
+Charles Arthur Bassett II,other,other_core_nasa,Core NASA non-Apollo,Group 3 — The Fourteen,1931-12-30,1966-02-28,34.16634154020959,True,True,True,False,False,False,N,T-38 aircraft crash during approach to McDonnell Aircraft facility in St. Louis
+Charles Gordon Fullerton,other,other_core_nasa,Core NASA non-Apollo,Group 7 — MOL Transfer,1936-10-11,2013-08-21,76.86126340718837,True,False,False,True,False,False,N,Complications from a stroke suffered in 2009
+Clifton Curtis Williams Jr.,other,other_core_nasa,Core NASA non-Apollo,Group 3 — The Fourteen,1932-09-26,1967-10-05,35.02330643339699,True,True,True,False,False,False,N,"T-38 crash near Tallahassee, Florida due to mechanical aileron failure"
+Don Leslie Lind,other,other_core_nasa,Core NASA non-Apollo,Group 5 — The Original Nineteen,1930-05-18,2022-08-30,92.28663148456162,True,False,False,True,True,True,Y,Not specified
+Donald Herod Peterson,other,other_core_nasa,Core NASA non-Apollo,Group 7 — MOL Transfer,1933-10-22,2018-05-27,84.59585070193091,True,False,False,True,True,False,N,Alzheimer's disease and bone cancer
+"Donald Kent ""Deke"" Slayton",other,other_core_nasa,Core NASA non-Apollo,Group 1 — Mercury Seven,1924-03-01,1993-06-13,69.28547471885118,True,False,False,True,False,False,N,Malignant brain tumor
+Donald Lee Holmquest,other,other_core_nasa,Core NASA non-Apollo,Group 6 — The Excess Eleven,1939-04-07,,87.16126956747914,False,False,False,True,True,False,N,
+"Duane Edgar ""Doc"" Graveline",other,other_core_nasa,Core NASA non-Apollo,Group 4 — The Scientists,1931-03-02,2016-09-05,85.51578745627904,True,False,False,True,True,False,Y,Not specified
+Edward Galen Givens Jr.,other,other_core_nasa,Core NASA non-Apollo,Group 5 — The Original Nineteen,1930-01-05,1967-06-06,37.416237157504945,True,True,True,False,False,False,N,Automobile accident near the Manned Spacecraft Center in Houston
+Edward George Gibson,other,other_core_nasa,Core NASA non-Apollo,Group 4 — The Scientists,1936-11-08,,89.57062773362902,False,False,False,True,True,False,Y,
+Edward Higgins White II,other,other_core_nasa,Core NASA non-Apollo,Group 2 — The New Nine,1930-11-14,1967-01-27,36.20334435340904,True,True,True,False,False,False,N,"Asphyxiation, smoke inhalation, and thermal burns during Apollo 1 cabin fire"
+Elliot McKay See Jr.,other,other_core_nasa,Core NASA non-Apollo,Group 2 — The New Nine,1927-07-23,1966-02-28,38.60448879853796,True,True,True,False,False,False,N,T-38 jet aircraft crash at McDonnell Aircraft facility in St. Louis
+Frank Curtis Michel,other,other_core_nasa,Core NASA non-Apollo,Group 4 — The Scientists,1934-06-05,2015-02-26,80.72992600806313,True,False,False,True,True,False,Y,Not specified
+Franklin Story Musgrave,other,other_core_nasa,Core NASA non-Apollo,Group 6 — The Excess Eleven,1935-08-19,,90.7944721657529,False,False,False,True,True,True,Y,
+Gerald Paul Carr,other,other_core_nasa,Core NASA non-Apollo,Group 5 — The Original Nineteen,1932-08-22,2020-08-26,88.01275864665257,True,False,False,True,True,False,Y,Brief illness (not further specified)
+Henry Warren Hartsfield Jr.,other,other_core_nasa,Core NASA non-Apollo,Group 7 — MOL Transfer,1933-11-21,2014-07-17,80.65326461186746,True,False,False,True,True,False,N,Complications from back surgery
+Jack Robert Lousma,other,other_core_nasa,Core NASA non-Apollo,Group 5 — The Original Nineteen,1936-02-29,,90.26331820639712,False,False,False,True,True,True,Y,
+John Anthony Llewellyn,other,other_core_nasa,Core NASA non-Apollo,Group 6 — The Excess Eleven,1933-04-22,2013-07-02,80.19603414170038,True,False,False,True,True,False,N,Stroke
+John Herschel Glenn Jr.,other,other_core_nasa,Core NASA non-Apollo,Group 1 — Mercury Seven,1921-07-18,2016-12-08,95.39415593749358,True,False,False,True,True,True,Y,"Not publicly disclosed (prior stroke, heart valve replacement surgery)"
+John Sumter Bull,other,other_core_nasa,Core NASA non-Apollo,Group 5 — The Original Nineteen,1934-09-25,2008-08-11,73.87968267657789,True,False,False,True,False,False,N,Complications related to long-term asthma
+Joseph Henry Engle,other,other_core_nasa,Core NASA non-Apollo,Group 5 — The Original Nineteen,1932-08-26,2024-07-10,91.87320752650636,True,False,False,True,True,True,Y,Not specified
+Joseph Percival Allen IV,other,other_core_nasa,Core NASA non-Apollo,Group 6 — The Excess Eleven,1937-06-27,,88.93817121501468,False,False,False,True,True,False,Y,
+Joseph Peter Kerwin,other,other_core_nasa,Core NASA non-Apollo,Group 4 — The Scientists,1932-02-19,,94.29077941367721,False,False,False,True,True,True,Y,
+Karl Gordon Henize,other,other_core_nasa,Core NASA non-Apollo,Group 6 — The Excess Eleven,1926-10-17,1993-10-05,66.9692053909389,True,True,False,True,False,False,N,High altitude pulmonary edema during Mount Everest expedition
+"Karol Joseph ""Bo"" Bobko",other,other_core_nasa,Core NASA non-Apollo,Group 7 — MOL Transfer,1937-12-23,2023-08-17,85.64994489962149,True,False,False,True,True,False,N,Complications of degenerative disease of the nervous system
+Leroy Gordon Cooper Jr.,other,other_core_nasa,Core NASA non-Apollo,Group 1 — Mercury Seven,1927-03-06,2004-10-04,77.58407085703334,True,False,False,True,False,False,N,Heart failure
+Malcolm Scott Carpenter,other,other_core_nasa,Core NASA non-Apollo,Group 1 — Mercury Seven,1925-05-01,2013-10-10,88.44534795375675,True,False,False,True,True,False,Y,Stroke
+Owen Kay Garriott,other,other_core_nasa,Core NASA non-Apollo,Group 4 — The Scientists,1930-11-22,2019-04-15,88.39606562763096,True,False,False,True,True,False,Y,Heart attack while hospitalized for broken neck from fall
+Paul Joseph Weitz,other,other_core_nasa,Core NASA non-Apollo,Group 5 — The Original Nineteen,1932-07-25,2017-10-22,85.24473466258718,True,False,False,True,True,False,N,Myelodysplastic syndrome
+Philip Kenyon Chapman,other,other_core_nasa,Core NASA non-Apollo,Group 6 — The Excess Eleven,1935-03-05,2021-04-05,86.08801002073965,True,False,False,True,True,False,Y,Not specified
+Richard Harrison Truly,other,other_core_nasa,Core NASA non-Apollo,Group 7 — MOL Transfer,1937-11-12,2024-02-27,86.29335304626379,True,False,False,True,True,False,N,Complications of atypical Parkinson's disease
+Robert Allan Ridley Parker,other,other_core_nasa,Core NASA non-Apollo,Group 6 — The Excess Eleven,1936-12-14,,89.47206308137744,False,False,False,True,True,False,N,
+Robert Franklyn Overmyer,other,other_core_nasa,Core NASA non-Apollo,Group 7 — MOL Transfer,1936-07-14,1996-03-22,59.68911065935645,True,True,False,True,False,False,N,"Aircraft crash during stall recovery testing of Cirrus VK-30 near Duluth, Minnesota"
+Robert Laurel Crippen,other,other_core_nasa,Core NASA non-Apollo,Group 7 — MOL Transfer,1937-09-11,,88.73009028248356,False,False,False,True,True,False,Y,
+Roger Bruce Chaffee,other,other_core_nasa,Core NASA non-Apollo,Group 3 — The Fourteen,1935-02-15,1967-01-27,31.948636864548895,True,True,True,False,False,False,N,Asphyxia from toxic gases during Apollo 1 cabin fire
+Theodore Cordy Freeman,other,other_core_nasa,Core NASA non-Apollo,Group 3 — The Fourteen,1930-02-18,1964-10-31,34.700233406572345,True,True,True,False,False,False,N,T-38A Talon crash caused by bird strike (goose) during approach to Ellington AFB
+Vance DeVoe Brand,other,other_core_nasa,Core NASA non-Apollo,Group 5 — The Original Nineteen,1931-05-09,,95.07382081767592,False,False,False,True,True,True,Y,
+"Virgil Ivan ""Gus"" Grissom",other,other_core_nasa,Core NASA non-Apollo,Group 1 — Mercury Seven,1926-04-03,1967-01-27,40.81945556719166,True,True,True,False,False,False,N,Asphyxiation in Apollo 1 cabin fire during pre-launch test
+William Benjamin Lenoir,other,other_core_nasa,Core NASA non-Apollo,Group 6 — The Excess Eleven,1939-03-14,2010-08-26,71.45389706838607,True,True,False,True,False,False,N,Head injuries sustained in a bicycle accident
+William Edgar Thornton,other,other_core_nasa,Core NASA non-Apollo,Group 6 — The Excess Eleven,1929-04-14,2021-01-11,91.74726380418488,True,False,False,True,True,True,Y,Not publicly disclosed
+William Reid Pogue,other,other_core_nasa,Core NASA non-Apollo,Group 5 — The Original Nineteen,1930-01-23,2014-03-03,84.10850325468695,True,False,False,True,True,False,Y,Natural causes

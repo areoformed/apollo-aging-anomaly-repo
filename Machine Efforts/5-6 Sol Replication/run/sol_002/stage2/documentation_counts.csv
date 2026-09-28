@@ -1,0 +1,5 @@
+group,people,substantive_sources_median,substantive_sources_q1,substantive_sources_q3,substantive_sources_min,substantive_sources_max,independent_publishers_median,independent_publishers_q1,independent_publishers_q3,independent_publishers_min,independent_publishers_max,notes
+APOLLO_FLEW,22,2.00,1.00,3.00,0,8,2.00,1.00,3.00,0,6,Raw source availability description; no endpoint conditioning.
+OTHER_ALL,35,1.00,0.50,2.50,0,5,1.00,0.50,2.00,0,5,Raw source availability description; no endpoint conditioning.
+CORE_NASA_NON_APOLLO,28,1.50,0.00,2.25,0,5,1.00,0.00,2.00,0,5,Raw source availability description; no endpoint conditioning.
+MILITARY_ONLY,13,1.00,1.00,2.00,0,4,1.00,1.00,2.00,0,4,Raw source availability description; no endpoint conditioning.

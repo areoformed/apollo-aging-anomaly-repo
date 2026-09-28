@@ -1,0 +1,10 @@
+STAGE2_COMPLETE
+[TMPDIR]/historical-cohort-replication-002/stage2/analysis.py
+[TMPDIR]/historical-cohort-replication-002/stage2/ANALYSIS_DECISIONS.md
+[TMPDIR]/historical-cohort-replication-002/stage2/ANALYSIS_REPORT.md
+[TMPDIR]/historical-cohort-replication-002/stage2/RESULTS_SUMMARY.csv
+[TMPDIR]/historical-cohort-replication-002/stage2/VALIDATION.md
+[TMPDIR]/historical-cohort-replication-002/stage2/CONTAMINATION.md
+[TMPDIR]/historical-cohort-replication-002/stage2/BLIND_CONCLUSION.md
+[TMPDIR]/historical-cohort-replication-002/stage2/STAGE_COMPLETE.md
+Blocking failure: none

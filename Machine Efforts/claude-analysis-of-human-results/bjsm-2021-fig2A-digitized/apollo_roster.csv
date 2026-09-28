@@ -1,0 +1,30 @@
+name,birth_year,death_year,age_years,event_1_death_0_censored
+Neil Armstrong,1930,2012,82,1
+Buzz Aldrin,1930,,96,0
+Pete Conrad,1930,1999,69,1
+Alan Bean,1932,2018,86,1
+Alan Shepard,1923,1998,75,1
+Edgar Mitchell,1930,2016,86,1
+David Scott,1932,,94,0
+James Irwin,1930,1991,61,1
+John Young,1930,2018,88,1
+Charles Duke,1935,,91,0
+Eugene Cernan,1934,2017,83,1
+Harrison Schmitt,1935,,91,0
+Frank Borman,1928,2023,95,1
+Jim Lovell,1928,2025,97,1
+Bill Anders,1933,2024,91,1
+Tom Stafford,1930,2024,94,1
+Michael Collins,1930,2021,91,1
+Dick Gordon,1929,2017,88,1
+Jack Swigert,1931,1982,51,1
+Fred Haise,1933,,93,0
+Stuart Roosa,1933,1994,61,1
+Alfred Worden,1932,2020,88,1
+Ken Mattingly,1936,2023,87,1
+Ronald Evans,1933,1990,57,1
+Walter M. Schirra Jr.,1923,2007,84,1
+Donn F. Eisele,1930,1987,57,1
+R. Walter Cunningham,1932,2023,91,1
+James A. McDivitt,1929,2022,93,1
+"Russell L. \""Rusty\"" Schweickart",1935,,91,0

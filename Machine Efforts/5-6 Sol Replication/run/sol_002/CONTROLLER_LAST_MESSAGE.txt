@@ -1,0 +1,10 @@
+STAGE1_COMPLETE
+
+[TMPDIR]/historical-cohort-replication-002/stage1/DECISIONS.md  
+[TMPDIR]/historical-cohort-replication-002/stage1/cohort.csv  
+[TMPDIR]/historical-cohort-replication-002/stage1/SOURCE_LOG.csv  
+[TMPDIR]/historical-cohort-replication-002/stage1/VALIDATION.md  
+[TMPDIR]/historical-cohort-replication-002/stage1/CONTAMINATION.md  
+[TMPDIR]/historical-cohort-replication-002/stage1/STAGE_COMPLETE.md
+
+Blocking failure: none

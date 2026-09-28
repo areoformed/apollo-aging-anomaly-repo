@@ -1,0 +1,6 @@
+STAGE1B_COMPLETE
+
+[TMPDIR]/historical-cohort-replication-002/stage1b/CODEBOOK.md  
+[TMPDIR]/historical-cohort-replication-002/stage1b/STAGE_COMPLETE.md
+
+Blocking failure: none

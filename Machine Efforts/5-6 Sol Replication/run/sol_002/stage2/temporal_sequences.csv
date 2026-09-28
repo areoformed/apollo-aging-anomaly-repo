@@ -1,0 +1,25 @@
+group,outcome_state,people,proportion,notes
+APOLLO_FLEW,FUNCTION_ONLY,2,0.090909,Locked mutually exclusive full-window function/impairment sequence.
+APOLLO_FLEW,IMPAIRMENT_ONLY,0,0.000000,Locked mutually exclusive full-window function/impairment sequence.
+APOLLO_FLEW,FUNCTION_THEN_IMPAIRMENT,0,0.000000,Locked mutually exclusive full-window function/impairment sequence.
+APOLLO_FLEW,IMPAIRMENT_THEN_FUNCTION,1,0.045455,Locked mutually exclusive full-window function/impairment sequence.
+APOLLO_FLEW,BOTH_ORDER_INDETERMINATE_OR_SAME_DATE,0,0.000000,Locked mutually exclusive full-window function/impairment sequence.
+APOLLO_FLEW,NEITHER_FOUND,19,0.863636,Locked mutually exclusive full-window function/impairment sequence.
+OTHER_ALL,FUNCTION_ONLY,2,0.057143,Locked mutually exclusive full-window function/impairment sequence.
+OTHER_ALL,IMPAIRMENT_ONLY,0,0.000000,Locked mutually exclusive full-window function/impairment sequence.
+OTHER_ALL,FUNCTION_THEN_IMPAIRMENT,0,0.000000,Locked mutually exclusive full-window function/impairment sequence.
+OTHER_ALL,IMPAIRMENT_THEN_FUNCTION,0,0.000000,Locked mutually exclusive full-window function/impairment sequence.
+OTHER_ALL,BOTH_ORDER_INDETERMINATE_OR_SAME_DATE,0,0.000000,Locked mutually exclusive full-window function/impairment sequence.
+OTHER_ALL,NEITHER_FOUND,33,0.942857,Locked mutually exclusive full-window function/impairment sequence.
+CORE_NASA_NON_APOLLO,FUNCTION_ONLY,2,0.071429,Locked mutually exclusive full-window function/impairment sequence.
+CORE_NASA_NON_APOLLO,IMPAIRMENT_ONLY,0,0.000000,Locked mutually exclusive full-window function/impairment sequence.
+CORE_NASA_NON_APOLLO,FUNCTION_THEN_IMPAIRMENT,0,0.000000,Locked mutually exclusive full-window function/impairment sequence.
+CORE_NASA_NON_APOLLO,IMPAIRMENT_THEN_FUNCTION,0,0.000000,Locked mutually exclusive full-window function/impairment sequence.
+CORE_NASA_NON_APOLLO,BOTH_ORDER_INDETERMINATE_OR_SAME_DATE,0,0.000000,Locked mutually exclusive full-window function/impairment sequence.
+CORE_NASA_NON_APOLLO,NEITHER_FOUND,26,0.928571,Locked mutually exclusive full-window function/impairment sequence.
+MILITARY_ONLY,FUNCTION_ONLY,1,0.076923,Locked mutually exclusive full-window function/impairment sequence.
+MILITARY_ONLY,IMPAIRMENT_ONLY,0,0.000000,Locked mutually exclusive full-window function/impairment sequence.
+MILITARY_ONLY,FUNCTION_THEN_IMPAIRMENT,0,0.000000,Locked mutually exclusive full-window function/impairment sequence.
+MILITARY_ONLY,IMPAIRMENT_THEN_FUNCTION,0,0.000000,Locked mutually exclusive full-window function/impairment sequence.
+MILITARY_ONLY,BOTH_ORDER_INDETERMINATE_OR_SAME_DATE,0,0.000000,Locked mutually exclusive full-window function/impairment sequence.
+MILITARY_ONLY,NEITHER_FOUND,12,0.923077,Locked mutually exclusive full-window function/impairment sequence.

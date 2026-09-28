@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" font-family="Helvetica, Arial, sans-serif">
+<rect id="bg" width="1200" height="700" fill="#fff"/>
+<g id="title"><text x="70" y="32" font-size="20" font-weight="bold" fill="#111">Attained age of the 29 Apollo astronauts vs. the US 1930 birth cohort's median lifespan</text>
+<text x="70" y="54" font-size="13" fill="#666">ages at death, or age in 2026 for the living (hollow bars, still counting) · reference: SSA 1930 cohort survivorship (her 1930CohortSSAData.h) · Apollo median = sorted[14], her C's rule</text></g>
+<g id="axes" stroke="#333"><line x1="70" y1="80" x2="70" y2="550"/><line x1="70" y1="550" x2="1160" y2="550"/></g>
+<g id="y-labels" font-size="12" fill="#333" text-anchor="end">
+<text x="62" y="554.0">0</text>
+<text x="62" y="507.0">10</text>
+<text x="62" y="460.0">20</text>
+<text x="62" y="413.0">30</text>
+<text x="62" y="366.0">40</text>
+<text x="62" y="319.0">50</text>
+<text x="62" y="272.0">60</text>
+<text x="62" y="225.0">70</text>
+<text x="62" y="178.0">80</text>
+<text x="62" y="131.0">90</text>
+<text x="62" y="84.0">100</text>
+<text transform="translate(22,315) rotate(-90)" text-anchor="middle" font-size="14">age (years)</text></g><g id="bars">
+<rect id="bar-0" x="72.0" y="310.3" width="33.6" height="239.7" fill="#4a6fa5"/>
+<text x="88.8" y="324.3" font-size="11" text-anchor="middle" fill="#fff">51</text>
+<rect id="bar-1" x="109.6" y="282.1" width="33.6" height="267.9" fill="#4a6fa5"/>
+<text x="126.4" y="296.1" font-size="11" text-anchor="middle" fill="#fff">57</text>
+<rect id="bar-2" x="147.2" y="282.1" width="33.6" height="267.9" fill="#4a6fa5"/>
+<text x="164.0" y="296.1" font-size="11" text-anchor="middle" fill="#fff">57</text>
+<rect id="bar-3" x="184.8" y="263.3" width="33.6" height="286.7" fill="#4a6fa5"/>
+<text x="201.6" y="277.3" font-size="11" text-anchor="middle" fill="#fff">61</text>
+<rect id="bar-4" x="222.3" y="263.3" width="33.6" height="286.7" fill="#4a6fa5"/>
+<text x="239.1" y="277.3" font-size="11" text-anchor="middle" fill="#fff">61</text>
+<rect id="bar-5" x="259.9" y="225.7" width="33.6" height="324.3" fill="#4a6fa5"/>
+<text x="276.7" y="239.7" font-size="11" text-anchor="middle" fill="#fff">69</text>
+<rect id="bar-6" x="297.5" y="197.5" width="33.6" height="352.5" fill="#4a6fa5"/>
+<text x="314.3" y="211.5" font-size="11" text-anchor="middle" fill="#fff">75</text>
+<rect id="bar-7" x="335.1" y="164.6" width="33.6" height="385.4" fill="#4a6fa5"/>
+<text x="351.9" y="178.6" font-size="11" text-anchor="middle" fill="#fff">82</text>
+<rect id="bar-8" x="372.7" y="159.9" width="33.6" height="390.1" fill="#4a6fa5"/>
+<text x="389.5" y="173.9" font-size="11" text-anchor="middle" fill="#fff">83</text>
+<rect id="bar-9" x="410.3" y="155.2" width="33.6" height="394.8" fill="#4a6fa5"/>
+<text x="427.1" y="169.2" font-size="11" text-anchor="middle" fill="#fff">84</text>
+<rect id="bar-10" x="447.9" y="145.8" width="33.6" height="404.2" fill="#4a6fa5"/>
+<text x="464.7" y="159.8" font-size="11" text-anchor="middle" fill="#fff">86</text>
+<rect id="bar-11" x="485.4" y="145.8" width="33.6" height="404.2" fill="#4a6fa5"/>
+<text x="502.2" y="159.8" font-size="11" text-anchor="middle" fill="#fff">86</text>
+<rect id="bar-12" x="523.0" y="141.1" width="33.6" height="408.9" fill="#4a6fa5"/>
+<text x="539.8" y="155.1" font-size="11" text-anchor="middle" fill="#fff">87</text>
+<rect id="bar-13" x="560.6" y="136.4" width="33.6" height="413.6" fill="#4a6fa5"/>
+<text x="577.4" y="150.4" font-size="11" text-anchor="middle" fill="#fff">88</text>
+<rect id="bar-14" x="598.2" y="136.4" width="33.6" height="413.6" fill="#4a6fa5"/>
+<text x="615.0" y="150.4" font-size="11" text-anchor="middle" fill="#fff">88</text>
+<rect id="bar-15" x="635.8" y="136.4" width="33.6" height="413.6" fill="#4a6fa5"/>
+<text x="652.6" y="150.4" font-size="11" text-anchor="middle" fill="#fff">88</text>
+<rect id="bar-16" x="673.4" y="122.3" width="33.6" height="427.7" fill="#fff" stroke="#4a6fa5" stroke-width="2"/>
+<text x="690.2" y="136.3" font-size="11" text-anchor="middle" fill="#4a6fa5">91</text>
+<rect id="bar-17" x="711.0" y="122.3" width="33.6" height="427.7" fill="#fff" stroke="#4a6fa5" stroke-width="2"/>
+<text x="727.8" y="136.3" font-size="11" text-anchor="middle" fill="#4a6fa5">91</text>
+<rect id="bar-18" x="748.6" y="122.3" width="33.6" height="427.7" fill="#4a6fa5"/>
+<text x="765.3" y="136.3" font-size="11" text-anchor="middle" fill="#fff">91</text>
+<rect id="bar-19" x="786.1" y="122.3" width="33.6" height="427.7" fill="#4a6fa5"/>
+<text x="802.9" y="136.3" font-size="11" text-anchor="middle" fill="#fff">91</text>
+<rect id="bar-20" x="823.7" y="122.3" width="33.6" height="427.7" fill="#4a6fa5"/>
+<text x="840.5" y="136.3" font-size="11" text-anchor="middle" fill="#fff">91</text>
+<rect id="bar-21" x="861.3" y="122.3" width="33.6" height="427.7" fill="#fff" stroke="#4a6fa5" stroke-width="2"/>
+<text x="878.1" y="136.3" font-size="11" text-anchor="middle" fill="#4a6fa5">91</text>
+<rect id="bar-22" x="898.9" y="112.9" width="33.6" height="437.1" fill="#fff" stroke="#4a6fa5" stroke-width="2"/>
+<text x="915.7" y="126.9" font-size="11" text-anchor="middle" fill="#4a6fa5">93</text>
+<rect id="bar-23" x="936.5" y="112.9" width="33.6" height="437.1" fill="#4a6fa5"/>
+<text x="953.3" y="126.9" font-size="11" text-anchor="middle" fill="#fff">93</text>
+<rect id="bar-24" x="974.1" y="108.2" width="33.6" height="441.8" fill="#fff" stroke="#4a6fa5" stroke-width="2"/>
+<text x="990.9" y="122.2" font-size="11" text-anchor="middle" fill="#4a6fa5">94</text>
+<rect id="bar-25" x="1011.7" y="108.2" width="33.6" height="441.8" fill="#4a6fa5"/>
+<text x="1028.4" y="122.2" font-size="11" text-anchor="middle" fill="#fff">94</text>
+<rect id="bar-26" x="1049.2" y="103.5" width="33.6" height="446.5" fill="#4a6fa5"/>
+<text x="1066.0" y="117.5" font-size="11" text-anchor="middle" fill="#fff">95</text>
+<rect id="bar-27" x="1086.8" y="98.8" width="33.6" height="451.2" fill="#fff" stroke="#4a6fa5" stroke-width="2"/>
+<text x="1103.6" y="112.8" font-size="11" text-anchor="middle" fill="#4a6fa5">96</text>
+<rect id="bar-28" x="1124.4" y="94.1" width="33.6" height="455.9" fill="#4a6fa5"/>
+<text x="1141.2" y="108.1" font-size="11" text-anchor="middle" fill="#fff">97</text>
+</g><g id="x-labels" font-size="10" fill="#333">
+<text transform="translate(88.8,558) rotate(60)" text-anchor="start">Swigert</text>
+<text transform="translate(126.4,558) rotate(60)" text-anchor="start">Evans</text>
+<text transform="translate(164.0,558) rotate(60)" text-anchor="start">Eisele</text>
+<text transform="translate(201.6,558) rotate(60)" text-anchor="start">Irwin</text>
+<text transform="translate(239.1,558) rotate(60)" text-anchor="start">Roosa</text>
+<text transform="translate(276.7,558) rotate(60)" text-anchor="start">Conrad</text>
+<text transform="translate(314.3,558) rotate(60)" text-anchor="start">Shepard</text>
+<text transform="translate(351.9,558) rotate(60)" text-anchor="start">Armstrong</text>
+<text transform="translate(389.5,558) rotate(60)" text-anchor="start">Cernan</text>
+<text transform="translate(427.1,558) rotate(60)" text-anchor="start">Schirra</text>
+<text transform="translate(464.7,558) rotate(60)" text-anchor="start">Bean</text>
+<text transform="translate(502.2,558) rotate(60)" text-anchor="start">Mitchell</text>
+<text transform="translate(539.8,558) rotate(60)" text-anchor="start">Mattingly</text>
+<text transform="translate(577.4,558) rotate(60)" text-anchor="start">Young</text>
+<text transform="translate(615.0,558) rotate(60)" text-anchor="start">Gordon</text>
+<text transform="translate(652.6,558) rotate(60)" text-anchor="start">Worden</text>
+<text transform="translate(690.2,558) rotate(60)" text-anchor="start">Duke*</text>
+<text transform="translate(727.8,558) rotate(60)" text-anchor="start">Schmitt*</text>
+<text transform="translate(765.3,558) rotate(60)" text-anchor="start">Anders</text>
+<text transform="translate(802.9,558) rotate(60)" text-anchor="start">Collins</text>
+<text transform="translate(840.5,558) rotate(60)" text-anchor="start">Cunningham</text>
+<text transform="translate(878.1,558) rotate(60)" text-anchor="start">Schweickart*</text>
+<text transform="translate(915.7,558) rotate(60)" text-anchor="start">Haise*</text>
+<text transform="translate(953.3,558) rotate(60)" text-anchor="start">McDivitt</text>
+<text transform="translate(990.9,558) rotate(60)" text-anchor="start">Scott*</text>
+<text transform="translate(1028.4,558) rotate(60)" text-anchor="start">Stafford</text>
+<text transform="translate(1066.0,558) rotate(60)" text-anchor="start">Borman</text>
+<text transform="translate(1103.6,558) rotate(60)" text-anchor="start">Aldrin*</text>
+<text transform="translate(1141.2,558) rotate(60)" text-anchor="start">Lovell</text>
+<text x="615" y="688" font-size="12" fill="#666" text-anchor="middle">* living in 2026</text></g>
+<g id="rules">
+<line x1="70" y1="200.6" x2="1160" y2="200.6" stroke="#c0392b" stroke-width="2" stroke-dasharray="7,5"/>
+<line x1="70" y1="187.0" x2="1160" y2="187.0" stroke="#7d3c98" stroke-width="2" stroke-dasharray="7,5"/>
+<line x1="70" y1="136.4" x2="1160" y2="136.4" stroke="#1e8449" stroke-width="2" stroke-dasharray="7,5"/>
+</g><g id="legend" font-size="13"><rect x="74" y="82" width="470" height="64" fill="#fff" fill-opacity="0.92" stroke="#ddd"/>
+<line x1="80" y1="94" x2="106" y2="94" stroke="#c0392b" stroke-width="2" stroke-dasharray="7,5"/><text x="114" y="98" fill="#c0392b">1930 cohort median age at death, from birth: 74.3</text>
+<line x1="80" y1="114" x2="106" y2="114" stroke="#7d3c98" stroke-width="2" stroke-dasharray="7,5"/><text x="114" y="118" fill="#7d3c98">1930 cohort median age at death, given survival to 30: 77.2</text>
+<line x1="80" y1="134" x2="106" y2="134" stroke="#1e8449" stroke-width="2" stroke-dasharray="7,5"/><text x="114" y="138" fill="#1e8449">Apollo 29 median attained age: 88</text>
+</g></svg>

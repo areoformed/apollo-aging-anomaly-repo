@@ -1,0 +1,3 @@
+term,coefficient,standard_error,hazard_ratio,wald95_lower,wald95_upper,p_value,ties,converged,iterations,notes
+APOLLO_FLEW,-0.228560,0.263891,0.795679,0.474366,1.334634,0.386427,Efron,1,5,Conventional model-based interval; supplementary to RMST.
+AGE_AT_LANDMARK_PER_YEAR,0.162033,0.031243,1.175899,1.106052,1.250157,0.000000,Efron,1,5,Conventional model-based interval; supplementary to RMST.

@@ -1,0 +1,3 @@
+scenario,apollo_obs_SA,expected_pop,cond_rate,p_poisbin_ge,note
+baseline (all Apollo 80+ Y kept),21,15.83,0.9545454545454546,0.005786,primary
+less-charitable: remove Edgar Mitchell (lifelong fringe belief) from numerator,20,15.83,0.9090909090909091,0.02866,SENSITIVITY ONLY; NOT a decline marker; beliefs lifelong not late-life

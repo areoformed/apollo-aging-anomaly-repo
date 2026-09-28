@@ -1,0 +1,45 @@
+{
+  "plot_box_px": [
+    54,
+    626,
+    556,
+    956
+  ],
+  "x_ticks_px": [
+    141.0,
+    273.5,
+    405.5,
+    538.0
+  ],
+  "x_tick_values": [
+    20,
+    40,
+    60,
+    80
+  ],
+  "y_ticks_px": [
+    571.0,
+    645.0,
+    719.0,
+    793.5,
+    867.5,
+    941.5
+  ],
+  "y_tick_values": [
+    1.0,
+    0.8,
+    0.6,
+    0.4,
+    0.2,
+    0.0
+  ],
+  "px_per_year": 6.615003779289489,
+  "px_per_prob_unit": 370.6431875120447,
+  "fill_threshold_max_channel": 195,
+  "columns": {
+    "olympians": 436,
+    "population": 457
+  },
+  "columns_with_no_fill": 112,
+  "area_between_curves_yr": 5.275457687173437
+}

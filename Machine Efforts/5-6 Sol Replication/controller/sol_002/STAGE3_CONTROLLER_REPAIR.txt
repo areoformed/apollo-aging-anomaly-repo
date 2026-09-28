@@ -1,0 +1,29 @@
+TECHNICAL POST-LOCK RECONCILIATION CORRECTION ONLY.
+
+Do not alter stage1/, stage1b/, stage1c/, stage2/, stage3/reference/, or stage3/locked_supplement/. Preserve both locked conclusions verbatim.
+
+The controller found one frozen-protocol fact that was not present in your neutral runtime:
+
+> `OTHER_AVAILABLE`: `OTHER_ALL` excluding prespecified pre-1970 accidental deaths, reported only for secondary birth-origin survival description—not as an intrinsically superior control. It is mathematically redundant after the 1973 survival landmark and inside the age-80 risk set.
+
+Your locked Stage 2 instead implemented `OTHER_AVAILABLE` as every non-Apollo person with usable birth/end-of-follow-up fields and consequently reported 66 people, identical to `OTHER_ALL`, in the secondary birth-origin outputs. This is a post-lock implementation error, now controller deviation `DEV-20260723-13`; it is not merely a rival definition. You could not identify that status without the frozen definition above.
+
+Repair Stage 3 only:
+
+1. Reconstruct the preregistered Sol `OTHER_AVAILABLE` set as `other_all == 1` and `pre1970_accidental_death == 0`.
+2. Verify its person count and its exact identity with `OTHER_ALL` after the 1973 landmark and in the age-80 risk set.
+3. Recompute only the affected secondary birth-origin descriptions (group count and retrospective birth-origin Kaplan–Meier readouts at the same selected ages already used in locked Stage 2). Do not change or rerun any primary estimand.
+4. Add the corrected quantities to `stage3/HARMONIZED_RESULTS.csv` with an explicit `DEV-20260723-13`/post-lock-correction label.
+5. Add an explicit row to `stage3/ROW_DIFFERENCES.csv` classifying this as an implementation/analysis difference.
+6. Update `stage3/RECONCILIATION.md`, `stage3/VALIDATION.md`, and `stage3/STAGE_COMPLETE.md` to state:
+   - what Stage 2 implemented;
+   - what the frozen definition required;
+   - which secondary files were affected;
+   - why the 1973-landmark RMST and age-80 public-function analyses are unchanged.
+7. Retain the first completed Stage 3 artifacts as history by making changes only in the current Stage 3 workspace; the controller already archived the initial version separately.
+8. Add `stage3/OTHER_AVAILABLE_CORRECTION.csv` containing the corrected membership and enough fields to audit pre-1970 exclusion and post-1973/age-80 risk-set identity.
+9. Update `stage3/analysis.py` and `stage3/validate.py` so a deterministic rerun regenerates and validates the repaired artifacts. Reverify every lock and reference hash.
+
+Do not browse. Do not reinterpret `OTHER_AVAILABLE` as a new primary comparator. Do not edit either locked conclusion or change the narrow endpoint-specific Stage 3 interpretation.
+
+Stop and reply only: STAGE3_REPAIR_COMPLETE, followed by the repaired artifact paths and any blocking failure.

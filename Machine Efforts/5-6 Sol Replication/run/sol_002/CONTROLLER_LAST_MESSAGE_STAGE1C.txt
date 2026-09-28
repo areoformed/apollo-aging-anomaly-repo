@@ -1,0 +1,9 @@
+STAGE1C_COMPLETE
+[TMPDIR]/historical-cohort-replication-002/stage1c/research_worklist.csv
+[TMPDIR]/historical-cohort-replication-002/stage1c/SEARCH_LOG.csv
+[TMPDIR]/historical-cohort-replication-002/stage1c/EVIDENCE_EVENTS.csv
+[TMPDIR]/historical-cohort-replication-002/stage1c/PERSON_OUTCOMES.csv
+[TMPDIR]/historical-cohort-replication-002/stage1c/DECISIONS_AND_DEVIATIONS.md
+[TMPDIR]/historical-cohort-replication-002/stage1c/VALIDATION.md
+[TMPDIR]/historical-cohort-replication-002/stage1c/CONTAMINATION.md
+[TMPDIR]/historical-cohort-replication-002/stage1c/STAGE_COMPLETE.md

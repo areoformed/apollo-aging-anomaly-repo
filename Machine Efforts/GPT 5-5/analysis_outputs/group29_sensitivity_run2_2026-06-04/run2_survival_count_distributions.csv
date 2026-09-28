@@ -1,0 +1,451 @@
+mortality_scenario_key,mortality_scenario,threshold,count,simulated_count,simulated_probability,exact_probability
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_80,0,1,1e-06,2.0217009831356297e-07
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_80,1,3,3e-06,4.1129712981746795e-06
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_80,2,25,2.5e-05,4.039470800869861e-05
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_80,3,270,0.00027,0.00025503967207512476
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_80,4,1196,0.001196,0.001162952178642839
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_80,5,4136,0.004136,0.004079177651689917
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_80,6,11438,0.011438,0.01144651731662082
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_80,7,26222,0.026222,0.026384199629626237
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_80,8,50924,0.050924,0.05089995246999117
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_80,9,83731,0.083731,0.08331724879749815
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_80,10,116544,0.116544,0.11689762160011251
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_80,11,142002,0.142002,0.14164698979272608
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_80,12,148706,0.148706,0.1490525352123934
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_80,13,136590,0.13659,0.13673688909264778
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_80,14,109877,0.109877,0.1096272198863023
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_80,15,76999,0.076999,0.07690581153542672
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_80,16,47055,0.047055,0.04720717055763707
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_80,17,25392,0.025392,0.02532463301557021
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_80,18,11714,0.011714,0.011843843502366256
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_80,19,4805,0.004805,0.004810303772673401
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_80,20,1714,0.001714,0.0016872648770672517
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_80,21,508,0.000508,0.0005072794151749287
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_80,22,109,0.000109,0.00012940626553981045
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_80,23,34,3.4e-05,2.7629070017626387e-05
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_80,24,5,5e-06,4.8455941277139355e-06
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_80,25,0,0.0,6.79857336799436e-07
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_80,26,0,0.0,7.337450606084176e-08
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_80,27,0,0.0,5.719307405255909e-09
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_80,28,0,0.0,2.8658678661712583e-10
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_80,29,0,0.0,6.932644390935515e-12
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_90,0,20985,0.020985,0.020942899126108687
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_90,1,86302,0.086302,0.0866089636015611
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_90,2,173642,0.173642,0.17290952599676426
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_90,3,222105,0.222105,0.22191643783935186
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_90,4,205385,0.205385,0.20569838034351587
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_90,5,146251,0.146251,0.1466658215619248
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_90,6,83700,0.0837,0.08365982533653901
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_90,7,38973,0.038973,0.03919898235285126
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_90,8,15501,0.015501,0.015372182405443285
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_90,9,5297,0.005297,0.005114937805377246
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_90,10,1442,0.001442,0.001458808871924014
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_90,11,336,0.000336,0.00035932493405324697
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_90,12,63,6.3e-05,7.686111077675072e-05
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_90,13,15,1.5e-05,1.4333104539535055e-05
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_90,14,2,2e-06,2.335932334449506e-06
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_90,15,1,1e-06,3.3311048378014297e-07
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_90,16,0,0.0,4.156467577070969e-08
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_90,17,0,0.0,4.532594535970786e-09
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_90,18,0,0.0,4.309071047391963e-10
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_90,19,0,0.0,3.557548109272373e-11
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_90,20,0,0.0,2.5365815487761695e-12
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_90,21,0,0.0,1.5502440981323702e-13
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_90,22,0,0.0,8.038877961885237e-15
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_90,23,0,0.0,3.488941459790839e-16
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_90,24,0,0.0,1.2438320241684273e-17
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_90,25,0,0.0,3.5474785052763316e-19
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_90,26,0,0.0,7.782774708673824e-21
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_90,27,0,0.0,1.2331615994391283e-22
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_90,28,0,0.0,1.256087806110765e-24
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_90,29,0,0.0,6.17660807049876e-27
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_95,0,310202,0.310202,0.3101064976609305
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_95,1,371195,0.371195,0.370514135803379
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_95,2,213264,0.213264,0.21371191466852235
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_95,3,79156,0.079156,0.07924414106944547
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_95,4,20976,0.020976,0.02122151753954077
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_95,5,4384,0.004384,0.0043716195447799965
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_95,6,709,0.000709,0.0007204407473195608
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_95,7,105,0.000105,9.752680162253261e-05
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_95,8,9,9e-06,1.1049753592088953e-05
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_95,9,0,0.0,1.062246469877321e-06
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_95,10,0,0.0,8.75288474622391e-08
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_95,11,0,0.0,6.228852451818959e-09
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_95,12,0,0.0,3.849419307905695e-10
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_95,13,0,0.0,2.07394247965801e-11
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_95,14,0,0.0,9.765277112243025e-13
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_95,15,0,0.0,4.02328214318627e-14
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_95,16,0,0.0,1.4503888768772522e-15
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_95,17,0,0.0,4.569564471995922e-17
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_95,18,0,0.0,1.2551032896800014e-18
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_95,19,0,0.0,2.993742686837303e-20
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_95,20,0,0.0,6.1670914991988485e-22
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_95,21,0,0.0,1.0889289009385706e-23
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_95,22,0,0.0,1.6314086038034876e-25
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_95,23,0,0.0,2.0456384123924683e-27
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_95,24,0,0.0,2.1070012661689083e-29
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_95,25,0,0.0,1.7361638532961393e-31
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_95,26,0,0.0,1.1004574911896316e-33
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_95,27,0,0.0,5.037634789229069e-36
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_95,28,0,0.0,1.4824995205270163e-38
+ssa_general_age30,"SSA general male, age-30 selected",survive_to_95,29,0,0.0,2.1061654365140611e-41
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_80,0,0,0.0,9.610468230986113e-09
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_80,1,0,0.0,2.480404607336588e-07
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_80,2,1,1e-06,3.0905128175085612e-06
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_80,3,27,2.7e-05,2.4754436382332824e-05
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_80,4,144,0.000144,0.00014320110965907053
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_80,5,637,0.000637,0.0006372302319056271
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_80,6,2229,0.002229,0.002268487273157266
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_80,7,6717,0.006717,0.006633551836012069
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_80,8,16260,0.01626,0.016235243439705577
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_80,9,33980,0.03398,0.03371441081115864
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_80,10,59948,0.059948,0.060010266319595926
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_80,11,92291,0.092291,0.092250016812316
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_80,12,123315,0.123315,0.12315093035220763
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_80,13,143512,0.143512,0.14332542895121195
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_80,14,145599,0.145599,0.1457790719974061
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_80,15,130059,0.130059,0.12974037991333406
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_80,16,100335,0.100335,0.10103298920582596
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_80,17,68672,0.068672,0.06876027697200014
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_80,18,40778,0.040778,0.04079682282265279
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_80,19,21167,0.021167,0.021020614643356177
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_80,20,9362,0.009362,0.009353957644514833
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_80,21,3481,0.003481,0.003567784363786701
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_80,22,1099,0.001099,0.0011546381108550486
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_80,23,306,0.000306,0.00031274910540862787
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_80,24,72,7.2e-05,6.958507006066128e-05
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_80,25,8,8e-06,1.238585662848342e-05
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_80,26,1,1e-06,1.6958704623940704e-06
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_80,27,0,0.0,1.676988755504732e-07
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_80,28,0,0.0,1.066061106167974e-08
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_80,29,0,0.0,3.271629271041221e-10
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_90,0,4422,0.004422,0.004418118674894918
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_90,1,26720,0.02672,0.026340980232478852
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_90,2,75839,0.075839,0.07581524196390516
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_90,3,140867,0.140867,0.14027994665628482
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_90,4,186964,0.186964,0.18745865901092992
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_90,5,192879,0.192879,0.19269571955546794
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_90,6,158864,0.158864,0.15846327091386953
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_90,7,106323,0.106323,0.1070421859530957
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_90,8,60429,0.060429,0.06051795171596013
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_90,9,28784,0.028784,0.02903070369193616
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_90,10,11800,0.0118,0.01193669551811539
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_90,11,4376,0.004376,0.0042387869544786684
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_90,12,1257,0.001257,0.0013071619735442158
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_90,13,359,0.000359,0.00035142409226020395
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_90,14,94,9.4e-05,8.256957247854092e-05
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_90,15,14,1.4e-05,1.6975266190517375e-05
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_90,16,7,7e-06,3.0536636788883197e-06
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_90,17,2,2e-06,4.80078428011797e-07
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_90,18,0,0.0,6.579872676417494e-08
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_90,19,0,0.0,7.831647492563751e-09
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_90,20,0,0.0,8.050441397835656e-10
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_90,21,0,0.0,7.093155240947379e-11
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_90,22,0,0.0,5.302776565766045e-12
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_90,23,0,0.0,3.31795192910894e-13
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_90,24,0,0.0,1.7053230237628627e-14
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_90,25,0,0.0,7.011859550736072e-16
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_90,26,0,0.0,2.2177695131944764e-17
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_90,27,0,0.0,5.066061491554696e-19
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_90,28,0,0.0,7.439418296874128e-21
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_90,29,0,0.0,5.273968576928194e-23
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_95,0,145945,0.145945,0.14583621138809313
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_95,1,290746,0.290746,0.2903040790360033
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_95,2,278269,0.278269,0.27897863212884283
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_95,3,172429,0.172429,0.17234679704179406
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_95,4,77451,0.077451,0.07689645876196131
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_95,5,26156,0.026156,0.026391623756569775
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_95,6,7026,0.007026,0.007246292645693466
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_95,7,1622,0.001622,0.0016343137404412767
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_95,8,305,0.000305,0.00030850193517091004
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_95,9,43,4.3e-05,4.9411091161650404e-05
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_95,10,8,8e-06,6.783349706007126e-06
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_95,11,0,0.0,8.04257074209556e-07
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_95,12,0,0.0,8.280869020953407e-08
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_95,13,0,0.0,7.433121834116291e-09
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_95,14,0,0.0,5.831133238973988e-10
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_95,15,0,0.0,4.002604983249418e-11
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_95,16,0,0.0,2.40403370081593e-12
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_95,17,0,0.0,1.2618994445411072e-13
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_95,18,0,0.0,5.774617955129678e-15
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_95,19,0,0.0,2.2948383969784303e-16
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_95,20,0,0.0,7.876111921183062e-18
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_95,21,0,0.0,2.316993739765096e-19
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_95,22,0,0.0,5.78338272346667e-21
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_95,23,0,0.0,1.2082085481061164e-22
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_95,24,0,0.0,2.0733455047517445e-24
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_95,25,0,0.0,2.846370579855695e-26
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_95,26,0,0.0,3.0058537905191546e-28
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_95,27,0,0.0,2.2925304315800253e-30
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_95,28,0,0.0,1.1240272508710145e-32
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",survive_to_95,29,0,0.0,2.6605327497589263e-35
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_80,0,0,0.0,1.9025660221660318e-10
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_80,1,0,0.0,6.420595405270825e-09
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_80,2,0,0.0,1.0460222165487808e-07
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_80,3,1,1e-06,1.0955217074392681e-06
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_80,4,7,7e-06,8.286514857206104e-06
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_80,5,41,4.1e-05,4.821470201570546e-05
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_80,6,211,0.000211,0.00022442800434411414
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_80,7,879,0.000879,0.0008581128648432358
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_80,8,2763,0.002763,0.0027460894275781536
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_80,9,7408,0.007408,0.0074563971318464504
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_80,10,17387,0.017387,0.017353880226744663
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_80,11,35245,0.035245,0.034881494241434975
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_80,12,60725,0.060725,0.0608869064870188
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_80,13,91982,0.091982,0.09265461324311723
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_80,14,123182,0.123182,0.12322435791861043
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_80,15,143772,0.143772,0.14339504123270452
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_80,16,145937,0.145937,0.14600904336419035
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_80,17,129770,0.12977,0.12993069328444476
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_80,18,100744,0.100744,0.10079942762194707
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_80,19,67972,0.067972,0.06791015466102275
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_80,20,39818,0.039818,0.03951320823342666
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_80,21,19697,0.019697,0.01970620866885183
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_80,22,8431,0.008431,0.008338884387471835
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_80,23,2943,0.002943,0.002953355494565349
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_80,24,851,0.000851,0.0008591980921453679
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_80,25,200,0.0002,0.00019996816852009503
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_80,26,32,3.2e-05,3.580016940020756e-05
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_80,27,2,2e-06,4.628924971573931e-06
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_80,28,0,0.0,3.8475978658164003e-07
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_80,29,0,0.0,1.543935832209808e-08
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_90,0,450,0.00045,0.0004560408943329325
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_90,1,4010,0.00401,0.004017644304820517
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_90,2,17072,0.017072,0.01708713372653247
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_90,3,46964,0.046964,0.04671769701575737
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_90,4,92143,0.092143,0.09224959760178557
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_90,5,139920,0.13992,0.140121308021686
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_90,6,170245,0.170245,0.1702683282930933
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_90,7,169669,0.169669,0.16995477313498028
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_90,8,141897,0.141897,0.14198280701939622
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_90,9,101031,0.101031,0.1006426911867227
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_90,10,61433,0.061433,0.06114795467306508
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_90,11,31870,0.03187,0.032085776114396364
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_90,12,14598,0.014598,0.014620879770492883
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_90,13,5882,0.005882,0.005808296432754636
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_90,14,2016,0.002016,0.0020165566083900697
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_90,15,612,0.000612,0.0006126044059013261
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_90,16,147,0.000147,0.00016283879014220262
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_90,17,34,3.4e-05,3.7828750443738493e-05
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_90,18,6,6e-06,7.661264122269342e-06
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_90,19,1,1e-06,1.3474393220611913e-06
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_90,20,0,0.0,2.0466751638536548e-07
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_90,21,0,0.0,2.6646601813542878e-08
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_90,22,0,0.0,2.9436002856386454e-09
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_90,23,0,0.0,2.7215651707090555e-10
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_90,24,0,0.0,2.0669427374208658e-11
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_90,25,0,0.0,1.255822149917889e-12
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_90,26,0,0.0,5.869275292708517e-14
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_90,27,0,0.0,1.9811240434981775e-15
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_90,28,0,0.0,4.29886028998482e-17
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_90,29,0,0.0,4.503239356124458e-19
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_95,0,40824,0.040824,0.04103525095576149
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_95,1,138548,0.138548,0.13852575556351587
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_95,2,225523,0.225523,0.2257532437775682
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_95,3,236490,0.23649,0.23651132693646368
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_95,4,178962,0.178962,0.1789537227146356
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_95,5,104477,0.104477,0.10415645200149094
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_95,6,48339,0.048339,0.04849775161520737
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_95,7,18819,0.018819,0.018549270602837144
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_95,8,5894,0.005894,0.005937928538979685
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_95,9,1673,0.001673,0.0016128247818620984
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_95,10,347,0.000347,0.0003754850235705009
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_95,11,87,8.7e-05,7.549687428470673e-05
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_95,12,16,1.6e-05,1.3182435844439483e-05
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_95,13,1,1e-06,2.0066732967366293e-06
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_95,14,0,0.0,2.669586850163484e-07
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_95,15,0,0.0,3.107559769139389e-08
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_95,16,0,0.0,3.165213281377046e-09
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_95,17,0,0.0,2.817557879537413e-10
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_95,18,0,0.0,2.186537968883579e-11
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_95,19,0,0.0,1.473572619815386e-12
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_95,20,0,0.0,8.576636100007769e-14
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_95,21,0,0.0,4.278737411152037e-15
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_95,22,0,0.0,1.8111664991829877e-16
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_95,23,0,0.0,6.416585957145211e-18
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_95,24,0,0.0,1.8673230629702252e-19
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_95,25,0,0.0,4.347352869315382e-21
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_95,26,0,0.0,7.785508301296695e-23
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_95,27,0,0.0,1.0069778058199353e-24
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_95,28,0,0.0,8.372734095514919e-27
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",survive_to_95,29,0,0.0,3.360816007053741e-29
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_80,0,0,0.0,1.0048480293425273e-12
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_80,1,0,0.0,4.6406726595296446e-11
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_80,2,0,0.0,1.0346453821409707e-09
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_80,3,0,0.0,1.4829161182802713e-08
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_80,4,0,0.0,1.53501454451986e-07
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_80,5,3,3e-06,1.2222640879637278e-06
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_80,6,6,6e-06,7.785878022116555e-06
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_80,7,40,4e-05,4.0739898631019705e-05
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_80,8,180,0.00018,0.00017841657182964622
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_80,9,709,0.000709,0.0006629709946678156
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_80,10,2183,0.002183,0.0021115777463790136
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_80,11,5776,0.005776,0.005808320128250579
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_80,12,14198,0.014198,0.013874724111578026
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_80,13,28974,0.028974,0.02889431997521393
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_80,14,52734,0.052734,0.052588039120980555
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_80,15,83557,0.083557,0.08374705230446045
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_80,16,116525,0.116525,0.11669711926997708
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_80,17,140859,0.140859,0.1421140835672141
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_80,18,150770,0.15077,0.1508788663562049
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_80,19,139542,0.139542,0.1391073409160612
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_80,20,110745,0.110745,0.1107650137784275
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_80,21,75488,0.075488,0.07559766352192168
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_80,22,44098,0.044098,0.043778233342449215
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_80,23,21565,0.021565,0.02121831967849749
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_80,24,8516,0.008516,0.008447604044713985
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_80,25,2666,0.002666,0.0026905811648633405
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_80,26,725,0.000725,0.0006591971081977286
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_80,27,131,0.000131,0.00011664210176974004
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_80,28,10,1e-05,1.3268134135624063e-05
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_80,29,0,0.0,7.286087928974776e-07
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_90,0,13,1.3e-05,1.4892513155180133e-05
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_90,1,205,0.000205,0.000201717412167507
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_90,2,1299,0.001299,0.001319012226701296
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_90,3,5487,0.005487,0.0055445809488194235
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_90,4,16823,0.016823,0.0168329209028061
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_90,5,39360,0.03936,0.03931034765651644
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_90,6,73382,0.073382,0.07344196253514539
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_90,7,112829,0.112829,0.11270714982448377
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_90,8,144986,0.144986,0.144764328051368
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_90,9,157780,0.15778,0.15776684540862335
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_90,10,147009,0.147009,0.14737476822934514
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_90,11,118579,0.118579,0.11889441341389352
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_90,12,83502,0.083502,0.0832971428910822
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_90,13,50784,0.050784,0.050876013278928524
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_90,14,27231,0.027231,0.0271570390416329
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_90,15,12850,0.01285,0.012684104585440266
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_90,16,5190,0.00519,0.005183764521484579
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_90,17,1887,0.001887,0.0018514717655772645
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_90,18,618,0.000618,0.0005765052043061926
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_90,19,150,0.00015,0.00015589052298618976
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_90,20,25,2.5e-05,3.64055097171027e-05
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_90,21,10,1e-05,7.2873181166254785e-06
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_90,22,1,1e-06,1.2376915679470085e-06
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_90,23,0,0.0,1.759381552062097e-07
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_90,24,0,0.0,2.0543642090212953e-08
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_90,25,0,0.0,1.919043563170763e-09
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_90,26,0,0.0,1.3789511283701592e-10
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_90,27,0,0.0,7.15622130791205e-12
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_90,28,0,0.0,2.3874436218111657e-13
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_90,29,0,0.0,3.845143254600059e-15
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_95,0,4735,0.004735,0.004618703699894956
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_95,1,26991,0.026991,0.0272898334389625
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_95,2,78350,0.07835,0.07784159130911428
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_95,3,142609,0.142609,0.1427371430667162
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_95,4,189049,0.189049,0.18903104774616125
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_95,5,192679,0.192679,0.19256880296127904
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_95,6,156678,0.156678,0.15693821439845676
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_95,7,105139,0.105139,0.10506094138748509
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_95,8,58586,0.058586,0.05886494826753238
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_95,9,27868,0.027868,0.027984421718329683
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_95,10,11486,0.011486,0.011403262387031458
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_95,11,4172,0.004172,0.004013033805265589
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_95,12,1278,0.001278,0.0012264415692614732
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_95,13,311,0.000311,0.0003267647617500421
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_95,14,52,5.2e-05,7.608691016077329e-05
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_95,15,14,1.4e-05,1.550217848906785e-05
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_95,16,1,1e-06,2.763653369866537e-06
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_95,17,2,2e-06,4.3058687408273694e-07
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_95,18,0,0.0,5.848605288326104e-08
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_95,19,0,0.0,6.898809960607706e-09
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_95,20,0,0.0,7.02792261806396e-10
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_95,21,0,0.0,6.136672839128021e-11
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_95,22,0,0.0,4.546561412715674e-12
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_95,23,0,0.0,2.819265979079681e-13
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_95,24,0,0.0,1.436014562935357e-14
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_95,25,0,0.0,5.85155949176697e-16
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_95,26,0,0.0,1.8341761968516218e-17
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_95,27,0,0.0,4.152229298474077e-19
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_95,28,0,0.0,6.0427701855746205e-21
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",survive_to_95,29,0,0.0,4.2454219871159165e-23
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_80,0,0,0.0,1.4236826471116512e-14
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_80,1,0,0.0,8.26726702079839e-13
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_80,2,0,0.0,2.317612241323125e-11
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_80,3,0,0.0,4.17670748892339e-10
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_80,4,0,0.0,5.43623463409677e-09
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_80,5,0,0.0,5.4427573495532124e-08
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_80,6,0,0.0,4.3594303130791904e-07
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_80,7,4,4e-06,2.868205809922645e-06
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_80,8,18,1.8e-05,1.5794059889800552e-05
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_80,9,79,7.9e-05,7.379404916744647e-05
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_80,10,261,0.000261,0.0002955303665079157
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_80,11,1040,0.00104,0.001022148048127063
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_80,12,3057,0.003057,0.003070123445214053
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_80,13,8145,0.008145,0.008039187958726149
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_80,14,18571,0.018571,0.018397334517370197
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_80,15,37102,0.037102,0.03683881745227233
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_80,16,64204,0.064204,0.06454528297294634
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_80,17,99272,0.099272,0.09883476080160342
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_80,18,132091,0.132091,0.13193779811496043
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_80,19,153026,0.153026,0.15295338459707097
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_80,20,152876,0.152876,0.1531369071035443
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_80,21,131136,0.131136,0.1314176998381392
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_80,22,95691,0.095691,0.09569118731478585
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_80,23,58004,0.058004,0.0583166976330085
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_80,24,29297,0.029297,0.029193334725927098
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_80,25,11525,0.011525,0.01169134504540434
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_80,26,3727,0.003727,0.0036016532344151845
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_80,27,757,0.000757,0.0008013277134958755
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_80,28,109,0.000109,0.0001146127419749292
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_80,29,8,8e-06,7.913811111271234e-06
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_90,0,2,2e-06,7.121380557022155e-07
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_90,1,17,1.7e-05,1.299471664361129e-05
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_90,2,112,0.000112,0.00011447205283799664
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_90,3,633,0.000633,0.0006482560850522232
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_90,4,2558,0.002558,0.0026513348494013405
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_90,5,8244,0.008244,0.008341404964133919
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_90,6,20908,0.020908,0.020994416994560644
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_90,7,43224,0.043224,0.043404847681294906
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_90,8,75226,0.075226,0.07510615892175584
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_90,9,110200,0.1102,0.11026989440329059
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_90,10,138868,0.138868,0.1387687179200048
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_90,11,151082,0.151082,0.15081936682799643
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_90,12,142681,0.142681,0.14234853233615286
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_90,13,117478,0.117478,0.1171286625799029
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_90,14,83909,0.083909,0.08422863311023235
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_90,15,53055,0.053055,0.052998597178817095
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_90,16,28944,0.028944,0.02917944645784157
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_90,17,13976,0.013976,0.014040290751070992
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_90,18,5849,0.005849,0.005889649685720206
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_90,19,2146,0.002146,0.002145522975668617
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_90,20,654,0.000654,0.0006750062521882725
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_90,21,182,0.000182,0.00018202692463478056
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_90,22,43,4.3e-05,4.164928588116983e-05
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_90,23,9,9e-06,7.97594930444637e-06
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_90,24,0,0.0,1.2546627812177663e-06
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_90,25,0,0.0,1.578925476565443e-07
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_90,26,0,0.0,1.528455845401142e-08
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_90,27,0,0.0,1.0685996048927217e-09
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_90,28,0,0.0,4.8027678537292025e-11
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_90,29,0,0.0,1.0420731804981922e-12
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_95,0,544,0.000544,0.0005418382952861519
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_95,1,4701,0.004701,0.00465208627016545
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_95,2,19066,0.019066,0.01928216794865326
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_95,3,51384,0.051384,0.05137814693500991
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_95,4,98683,0.098683,0.09887166751846795
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_95,5,146313,0.146313,0.14635984095081678
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_95,6,173205,0.173205,0.17332531011796432
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_95,7,169152,0.169152,0.16860554278986836
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_95,8,137824,0.137824,0.13727283634462878
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_95,9,94451,0.094451,0.0948290627569334
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_95,10,56058,0.056058,0.05615022742496917
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_95,11,28711,0.028711,0.028713920997360684
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_95,12,12680,0.01268,0.0127515748921592
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_95,13,4933,0.004933,0.004936844643601216
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_95,14,1656,0.001656,0.0016704038158818955
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_95,15,491,0.000491,0.0004945401305595376
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_95,16,118,0.000118,0.00012811195479048442
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_95,17,27,2.7e-05,2.9004417945396762e-05
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_95,18,2,2e-06,5.7247030133836325e-06
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_95,19,1,1e-06,9.812329221830451e-07
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_95,20,0,0.0,1.452520201498479e-07
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_95,21,0,0.0,1.8430005365674657e-08
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_95,22,0,0.0,1.9841423804440984e-09
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_95,23,0,0.0,1.7878171675325575e-10
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_95,24,0,0.0,1.3232538848418296e-11
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_95,25,0,0.0,7.83525687323218e-13
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_95,26,0,0.0,3.56878141147612e-14
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_95,27,0,0.0,1.1739713664108247e-15
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_95,28,0,0.0,2.4826159112714352e-17
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,survive_to_95,29,0,0.0,2.534495954306972e-19

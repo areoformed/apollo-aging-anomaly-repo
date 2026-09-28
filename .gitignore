@@ -1,0 +1,6 @@
+__pycache__/
+._*
+.claude/
+.DS_Store
+*.pyc
+**/.DS_Store

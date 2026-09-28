@@ -1,0 +1,67 @@
+person_id,full_name,birth_date,death_date_locked_stage1,death_date_stage3_adjudicated,other_all,pre1970_accidental_death,corrected_other_available,exclusion_reason,alive_on_1973_01_01,in_other_all_post1973_risk_set,in_corrected_other_available_post1973_risk_set,reached_age80_by_death_or_2026_06_01,in_other_all_age80_risk_set,in_corrected_other_available_age80_risk_set,notes
+p001_m_scott_carpenter,M. Scott Carpenter,1925-05-01,2013-10-10,2013-10-10,1,0,1,,1,1,1,1,1,1,Included under frozen OTHER_AVAILABLE definition.
+p002_l_gordon_cooper_jr,L. Gordon Cooper Jr.,1927-03-06,2004-10-04,2004-10-04,1,0,1,,1,1,1,0,0,0,Included under frozen OTHER_AVAILABLE definition.
+p003_john_h_glenn_jr,John H. Glenn Jr.,1921-07-18,2016-12-08,2016-12-08,1,0,1,,1,1,1,1,1,1,Included under frozen OTHER_AVAILABLE definition.
+p004_virgil_i_gus_grissom,"Virgil I. ""Gus"" Grissom",1926-04-03,1967-01-27,1967-01-27,1,1,0,prespecified pre-1970 accidental death exclusion,0,0,0,0,0,0,Excluded only from secondary birth-origin OTHER_AVAILABLE; OTHER_ALL membership is unchanged.
+p007_donald_k_deke_slayton,"Donald K. ""Deke"" Slayton",1924-03-01,1993-06-13,1993-06-13,1,0,1,,1,1,1,0,0,0,Included under frozen OTHER_AVAILABLE definition.
+p013_elliot_m_see_jr,Elliot M. See Jr.,1927-07-23,1966-02-28,1966-02-28,1,1,0,prespecified pre-1970 accidental death exclusion,0,0,0,0,0,0,Excluded only from secondary birth-origin OTHER_AVAILABLE; OTHER_ALL membership is unchanged.
+p015_edward_h_white_ii,Edward H. White II,1930-11-14,1967-01-27,1967-01-27,1,1,0,prespecified pre-1970 accidental death exclusion,0,0,0,0,0,0,Excluded only from secondary birth-origin OTHER_AVAILABLE; OTHER_ALL membership is unchanged.
+p019_charles_a_bassett_ii,Charles A. Bassett II,1931-12-30,1966-02-28,1966-02-28,1,1,0,prespecified pre-1970 accidental death exclusion,0,0,0,0,0,0,Excluded only from secondary birth-origin OTHER_AVAILABLE; OTHER_ALL membership is unchanged.
+p022_roger_b_chaffee,Roger B. Chaffee,1935-02-15,1967-01-27,1967-01-27,1,1,0,prespecified pre-1970 accidental death exclusion,0,0,0,0,0,0,Excluded only from secondary birth-origin OTHER_AVAILABLE; OTHER_ALL membership is unchanged.
+p026_theodore_c_freeman,Theodore C. Freeman,1930-02-18,1964-10-31,1964-10-31,1,1,0,prespecified pre-1970 accidental death exclusion,0,0,0,0,0,0,Excluded only from secondary birth-origin OTHER_AVAILABLE; OTHER_ALL membership is unchanged.
+p030_clifton_c_williams_jr,Clifton C. Williams Jr.,1932-09-26,1967-10-05,1967-10-05,1,1,0,prespecified pre-1970 accidental death exclusion,0,0,0,0,0,0,Excluded only from secondary birth-origin OTHER_AVAILABLE; OTHER_ALL membership is unchanged.
+p031_owen_k_garriott,Owen K. Garriott,1930-11-22,2019-04-15,2019-04-15,1,0,1,,1,1,1,1,1,1,Included under frozen OTHER_AVAILABLE definition.
+p032_edward_g_gibson,Edward G. Gibson,1936-11-08,,,1,0,1,,1,1,1,1,1,1,Included under frozen OTHER_AVAILABLE definition.
+p033_duane_e_graveline,Duane E. Graveline,1931-03-02,2016-09-05,2016-09-05,1,0,1,,1,1,1,1,1,1,Included under frozen OTHER_AVAILABLE definition.
+p034_joseph_p_kerwin,Joseph P. Kerwin,1932-02-19,,,1,0,1,,1,1,1,1,1,1,Included under frozen OTHER_AVAILABLE definition.
+p035_f_curtis_michel,F. Curtis Michel,1934-06-05,2015-02-26,2015-02-26,1,0,1,,1,1,1,1,1,1,Included under frozen OTHER_AVAILABLE definition.
+p037_vance_d_brand,Vance D. Brand,1931-05-09,,,1,0,1,,1,1,1,1,1,1,Included under frozen OTHER_AVAILABLE definition.
+p038_john_s_bull,John S. Bull,1934-09-25,2008-08-11,2008-08-11,1,0,1,,1,1,1,0,0,0,Included under frozen OTHER_AVAILABLE definition.
+p039_gerald_p_carr,Gerald P. Carr,1932-08-22,2020-08-26,2020-08-26,1,0,1,,1,1,1,1,1,1,Included under frozen OTHER_AVAILABLE definition.
+p041_joe_h_engle,Joe H. Engle,1932-08-26,2024-07-10,2024-07-10,1,0,1,,1,1,1,1,1,1,Included under frozen OTHER_AVAILABLE definition.
+p043_edward_g_givens_jr,Edward G. Givens Jr.,1930-01-05,1967-06-06,1967-06-06,1,1,0,prespecified pre-1970 accidental death exclusion,0,0,0,0,0,0,Excluded only from secondary birth-origin OTHER_AVAILABLE; OTHER_ALL membership is unchanged.
+p046_don_l_lind,Don L. Lind,1930-05-18,2022-08-30,2022-08-30,1,0,1,,1,1,1,1,1,1,Included under frozen OTHER_AVAILABLE definition.
+p047_jack_r_lousma,Jack R. Lousma,1936-02-29,,,1,0,1,,1,1,1,1,1,1,Included under frozen OTHER_AVAILABLE definition.
+p049_bruce_mccandless_ii,Bruce McCandless II,1937-06-08,2017-12-21,2017-12-21,1,0,1,,1,1,1,1,1,1,Included under frozen OTHER_AVAILABLE definition.
+p051_william_r_pogue,William R. Pogue,1930-01-23,2014-03-03,2014-03-03,1,0,1,,1,1,1,1,1,1,Included under frozen OTHER_AVAILABLE definition.
+p054_paul_j_weitz,Paul J. Weitz,1932-07-25,2017-10-22,2017-10-22,1,0,1,,1,1,1,1,1,1,Included under frozen OTHER_AVAILABLE definition.
+p056_joseph_p_allen,Joseph P. Allen,1937-06-27,,,1,0,1,,1,1,1,1,1,1,Included under frozen OTHER_AVAILABLE definition.
+p057_philip_k_chapman,Philip K. Chapman,1935-03-05,2021-04-05,2021-04-05,1,0,1,,1,1,1,1,1,1,Included under frozen OTHER_AVAILABLE definition.
+p058_anthony_w_england,Anthony W. England,1942-05-15,,,1,0,1,,1,1,1,1,1,1,Included under frozen OTHER_AVAILABLE definition.
+p059_karl_g_henize,Karl G. Henize,1926-10-17,1993-10-05,1993-10-05,1,0,1,,1,1,1,0,0,0,Included under frozen OTHER_AVAILABLE definition.
+p060_donald_l_holmquest,Donald L. Holmquest,1939-04-07,,,1,0,1,,1,1,1,1,1,1,Included under frozen OTHER_AVAILABLE definition.
+p061_william_b_lenoir,William B. Lenoir,1939-03-14,2010-08-26,2010-08-26,1,0,1,,1,1,1,0,0,0,Included under frozen OTHER_AVAILABLE definition.
+p062_john_a_llewellyn,John A. Llewellyn,1933-04-22,2013-07-02,2013-07-02,1,0,1,,1,1,1,1,1,1,Included under frozen OTHER_AVAILABLE definition.
+p063_story_musgrave,Story Musgrave,1935-08-19,,,1,0,1,,1,1,1,1,1,1,Included under frozen OTHER_AVAILABLE definition.
+p064_brian_t_o_leary,Brian T. O'Leary,1940-01-27,2011-07-28,2011-07-28,1,0,1,,1,1,1,0,0,0,Included under frozen OTHER_AVAILABLE definition.
+p065_robert_a_r_parker,Robert A. R. Parker,1936-12-14,,,1,0,1,,1,1,1,1,1,1,Included under frozen OTHER_AVAILABLE definition.
+p066_william_e_thornton,William E. Thornton,1929-04-14,2021-01-11,2021-01-11,1,0,1,,1,1,1,1,1,1,Included under frozen OTHER_AVAILABLE definition.
+p067_karol_j_bobko,Karol J. Bobko,1937-12-23,2023-08-17,2023-08-17,1,0,1,,1,1,1,1,1,1,Included under frozen OTHER_AVAILABLE definition.
+p068_robert_l_crippen,Robert L. Crippen,1937-09-11,,,1,0,1,,1,1,1,1,1,1,Included under frozen OTHER_AVAILABLE definition.
+p069_c_gordon_fullerton,C. Gordon Fullerton,1936-10-11,2013-08-21,2013-08-21,1,0,1,,1,1,1,0,0,0,Included under frozen OTHER_AVAILABLE definition.
+p070_henry_w_hartsfield_jr,Henry W. Hartsfield Jr.,1933-11-21,2014-07-17,2014-07-17,1,0,1,,1,1,1,1,1,1,Included under frozen OTHER_AVAILABLE definition.
+p071_robert_f_overmyer,Robert F. Overmyer,1936-07-14,1996-03-22,1996-03-22,1,0,1,,1,1,1,0,0,0,Included under frozen OTHER_AVAILABLE definition.
+p072_donald_h_peterson,Donald H. Peterson,1933-10-22,2018-05-27,2018-05-27,1,0,1,,1,1,1,1,1,1,Included under frozen OTHER_AVAILABLE definition.
+p073_richard_h_truly,Richard H. Truly,1937-11-12,2024-02-27,2024-02-27,1,0,1,,1,1,1,1,1,1,Included under frozen OTHER_AVAILABLE definition.
+p074_albert_scott_crossfield,Albert Scott Crossfield,1921-10-02,2006-04-19,2006-04-19,1,0,1,,1,1,1,1,1,1,Included under frozen OTHER_AVAILABLE definition.
+p075_joseph_a_walker,Joseph A. Walker,1921-02-20,1966-06-08,1966-06-08,1,1,0,prespecified pre-1970 accidental death exclusion,0,0,0,0,0,0,Excluded only from secondary birth-origin OTHER_AVAILABLE; OTHER_ALL membership is unchanged.
+p076_robert_m_white,Robert M. White,1924-07-06,2010-03-17,2010-03-17,1,0,1,,1,1,1,1,1,1,Included under frozen OTHER_AVAILABLE definition.
+p077_forrest_s_petersen,Forrest S. Petersen,1922-05-16,1990-12-08,1990-12-08,1,0,1,,1,1,1,0,0,0,Included under frozen OTHER_AVAILABLE definition.
+p078_john_b_mckay,John B. McKay,1922-12-08,1975-04-27,1975-04-27,1,0,1,,1,1,1,0,0,0,Included under frozen OTHER_AVAILABLE definition.
+p079_robert_a_rushworth,Robert A. Rushworth,1924-10-09,1993-03-17,1993-03-18,1,0,1,,1,1,1,0,0,0,Included under frozen OTHER_AVAILABLE definition.
+p080_milton_o_thompson,Milton O. Thompson,1926-05-04,1993-08-06,1993-08-06,1,0,1,,1,1,1,0,0,0,Included under frozen OTHER_AVAILABLE definition.
+p081_william_j_pete_knight,"William J. ""Pete"" Knight",1929-11-18,2004-05-07,2004-05-07,1,0,1,,1,1,1,0,0,0,Included under frozen OTHER_AVAILABLE definition.
+p082_william_h_dana,William H. Dana,1930-11-03,2014-05-06,2014-05-06,1,0,1,,1,1,1,1,1,1,Included under frozen OTHER_AVAILABLE definition.
+p083_michael_j_adams,Michael J. Adams,1930-05-05,1967-11-15,1967-11-15,1,1,0,prespecified pre-1970 accidental death exclusion,0,0,0,0,0,0,Excluded only from secondary birth-origin OTHER_AVAILABLE; OTHER_ALL membership is unchanged.
+p084_albert_h_crews_jr,Albert H. Crews Jr.,1929-03-23,2025-06-07,2025-06-07,1,0,1,,1,1,1,1,1,1,Included under frozen OTHER_AVAILABLE definition.
+p085_henry_c_gordon,Henry C. Gordon,1925-12-23,1996-09-24,1996-09-24,1,0,1,,1,1,1,0,0,0,Included under frozen OTHER_AVAILABLE definition.
+p086_russell_l_rogers,Russell L. Rogers,1928-04-12,1967-09-13,1967-09-13,1,1,0,prespecified pre-1970 accidental death exclusion,0,0,0,0,0,0,Excluded only from secondary birth-origin OTHER_AVAILABLE; OTHER_ALL membership is unchanged.
+p087_james_w_wood,James W. Wood,1924-08-09,1990-01-01,1990-01-01,1,0,1,,1,1,1,0,0,0,Included under frozen OTHER_AVAILABLE definition.
+p088_john_l_finley,John L. Finley,1935-12-22,2006-09-19,2006-09-19,1,0,1,,1,1,1,0,0,0,Included under frozen OTHER_AVAILABLE definition.
+p089_richard_e_lawyer,Richard E. Lawyer,1932-11-08,2005-11-12,2005-11-12,1,0,1,,1,1,1,0,0,0,Included under frozen OTHER_AVAILABLE definition.
+p090_lachlan_macleay,Lachlan Macleay,1931-06-13,,,1,0,1,,1,1,1,1,1,1,Included under frozen OTHER_AVAILABLE definition.
+p091_francis_g_neubeck,Francis G. Neubeck,1932-04-11,,,1,0,1,,1,1,1,1,1,1,Included under frozen OTHER_AVAILABLE definition.
+p092_james_m_taylor,James M. Taylor,1930-11-27,1970-09-04,1970-09-04,1,0,1,,0,0,0,0,0,0,Included under frozen OTHER_AVAILABLE definition.
+p093_james_a_abrahamson,James A. Abrahamson,1933-05-19,,,1,0,1,,1,1,1,1,1,1,Included under frozen OTHER_AVAILABLE definition.
+p094_robert_t_herres,Robert T. Herres,1932-12-01,2008-07-24,2008-07-24,1,0,1,,1,1,1,0,0,0,Included under frozen OTHER_AVAILABLE definition.
+p095_robert_h_lawrence_jr,Robert H. Lawrence Jr.,1935-10-02,1967-12-08,1967-12-08,1,1,0,prespecified pre-1970 accidental death exclusion,0,0,0,0,0,0,Excluded only from secondary birth-origin OTHER_AVAILABLE; OTHER_ALL membership is unchanged.

@@ -1,0 +1,15 @@
+STAGE2R_COMPLETE
+
+- [CONTEXT_ATTESTATION.md]([TMPDIR]/historical-cohort-replication-002r/stage2r/CONTEXT_ATTESTATION.md)
+- [ANALYSIS_DECISIONS.md]([TMPDIR]/historical-cohort-replication-002r/stage2r/ANALYSIS_DECISIONS.md)
+- [analysis.py]([TMPDIR]/historical-cohort-replication-002r/stage2r/analysis.py)
+- [ANALYSIS_REPORT.md]([TMPDIR]/historical-cohort-replication-002r/stage2r/ANALYSIS_REPORT.md)
+- [RESULTS_SUMMARY.csv]([TMPDIR]/historical-cohort-replication-002r/stage2r/RESULTS_SUMMARY.csv)
+- [EVENT_AGE_TABLE.csv]([TMPDIR]/historical-cohort-replication-002r/stage2r/EVENT_AGE_TABLE.csv)
+- [VALIDATION.md]([TMPDIR]/historical-cohort-replication-002r/stage2r/VALIDATION.md)
+- [CONTAMINATION.md]([TMPDIR]/historical-cohort-replication-002r/stage2r/CONTAMINATION.md)
+- [CORRECTED_CONCLUSION.md]([TMPDIR]/historical-cohort-replication-002r/stage2r/CORRECTED_CONCLUSION.md)
+- [STAGE_COMPLETE.md]([TMPDIR]/historical-cohort-replication-002r/stage2r/STAGE_COMPLETE.md)
+- [STAGE2R_ACTION_LOG.md]([TMPDIR]/historical-cohort-replication-002r/STAGE2R_ACTION_LOG.md)
+
+Blocking failure: none.

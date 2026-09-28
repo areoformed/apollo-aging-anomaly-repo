@@ -1,0 +1,17 @@
+STAGE 1C CONTROLLER GATE REPAIR ONLY.
+
+Stage 1C is not yet controller-locked. Independent direction-blind validation found that some candidate-event adjudications may not consistently apply exclusions already frozen in `stage1b/CODEBOOK.md`.
+
+Do not inspect cohort flags or group counts, compute a group rate or contrast, or begin Stage 2. Do not browse the web or run any new web query or page open during this repair. Use only the evidence already stored locally by Stage 1C.
+
+Re-audit every row in `stage1c/EVIDENCE_EVENTS.csv`, every positive person outcome, and the closest analogous locally stored candidate sources—not only any one named person—against the frozen codebook. In particular, enforce these existing rules exactly:
+
+- A schedule, program listing, event announcement written in future tense, speaker listing, photograph, or caption saying that a person “speaks” does not alone prove that the event occurred with substantive participation.
+- A later source or book publication date does not date an earlier embedded interview. The documented conduct date or a defensible bounded interval controls. An episode’s recording or release date may not be substituted for an interview that the episode itself identifies as recorded earlier.
+- A retrospective source must provide attributable, substantive, dateable evidence of the earlier activity; wording such as “an interview for [a work] published in [year]” does not by itself establish that the interview occurred in that publication year.
+- Authorship, edited-interview, date-proxy, substantive-content, and source-tier rules remain exactly as frozen. Do not weaken them because a candidate otherwise appears plausible.
+- Insufficient stored evidence means the candidate does not qualify. Do not infer function from reputation, likely participation, or absence of impairment.
+
+Before changing final coding, append the unforeseen consistency issue and a direction-neutral resolution to `stage1c/DECISIONS_AND_DEVIATIONS.md` and obtain each action-log timestamp from a real UTC clock call. Preserve the original raw search records. Revise only derived Stage 1C artifacts or Stage 1C scripts as needed, re-run complete mechanical validation, and attest again that no cohort flags or group results were inspected.
+
+Stop and reply only: STAGE1C_REPAIR_COMPLETE, followed by the eight required Stage 1C paths and any blocking failure.

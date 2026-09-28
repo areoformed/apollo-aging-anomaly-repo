@@ -1,0 +1,4 @@
+order_statistic,rank_from_oldest,label,observed_age_or_censor_age,marker_person,right_censored_lower_bound,living_people_in_top_rank_set,note,observed_count
+age_22nd_longest_lived,22,22nd-longest-lived Apollo member,82.05781090645256,Neil Armstrong,True,6,Right-censored lower-bound marker because one or more living Apollo members are in the rank set.,
+age_13th_longest_lived,13,13th-longest-lived Apollo member,90.49330239498416,Michael Collins,True,6,Right-censored lower-bound marker because one or more living Apollo members are in the rank set.,
+mental_vitality_count,,Apollo Space Grandpa count,,,False,,Observed Space Grandpa positives among all 29 Apollo 7-17 astronauts.,21

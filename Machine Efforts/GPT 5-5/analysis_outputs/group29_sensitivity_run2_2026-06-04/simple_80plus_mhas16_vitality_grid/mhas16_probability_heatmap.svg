@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="446" viewBox="0 0 980 446">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="28" y="34" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#17202a">Apollo-like longevity plus vitality probability</text>
+<text x="28" y="58" font-family="Arial, sans-serif" font-size="13" fill="#52616b">Exact probability of N80 >= 22, N90 >= 13, and vitality count >= 21. Color scale is log10 probability.</text>
+<text x="345.0" y="74" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#263238">16%</text>
+<text x="515.0" y="74" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#263238">33%</text>
+<text x="685.0" y="74" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#263238">51%</text>
+<text x="855.0" y="74" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#263238">68%</text>
+<text x="246" y="126" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#263238">SSA general male, age-30 selected</text>
+<rect x="260" y="92" width="167" height="53" fill="#32608c"/>
+<text x="345.0" y="126" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">7.100e-21</text>
+<rect x="430" y="92" width="167" height="53" fill="#745b6f"/>
+<text x="515.0" y="126" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">1.390e-14</text>
+<rect x="600" y="92" width="167" height="53" fill="#98595f"/>
+<text x="685.0" y="126" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">3.639e-11</text>
+<rect x="770" y="92" width="167" height="53" fill="#b05755"/>
+<text x="855.0" y="126" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">6.205e-09</text>
+<text x="246" y="182" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#263238">Modestly healthy, 15 pct lower hazard</text>
+<rect x="260" y="148" width="167" height="53" fill="#455e83"/>
+<text x="345.0" y="182" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">5.286e-19</text>
+<rect x="430" y="148" width="167" height="53" fill="#885a66"/>
+<text x="515.0" y="182" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">9.698e-13</text>
+<rect x="600" y="148" width="167" height="53" fill="#ab5857"/>
+<text x="685.0" y="182" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">2.351e-09</text>
+<rect x="770" y="148" width="167" height="53" fill="#c3564d"/>
+<text x="855.0" y="182" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">3.659e-07</text>
+<text x="246" y="238" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#263238">Healthy, 30 pct lower hazard</text>
+<rect x="260" y="204" width="167" height="53" fill="#585d7b"/>
+<text x="345.0" y="238" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">2.872e-17</text>
+<rect x="430" y="204" width="167" height="53" fill="#9a595e"/>
+<text x="515.0" y="238" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">4.903e-11</text>
+<rect x="600" y="204" width="167" height="53" fill="#bd564f"/>
+<text x="685.0" y="238" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">1.089e-07</text>
+<rect x="770" y="204" width="167" height="53" fill="#d45545"/>
+<text x="855.0" y="238" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">0.000015</text>
+<text x="246" y="294" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#263238">Very healthy, 45 pct lower hazard</text>
+<rect x="260" y="260" width="167" height="53" fill="#685c74"/>
+<text x="345.0" y="294" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">1.026e-15</text>
+<rect x="430" y="260" width="167" height="53" fill="#aa5858"/>
+<text x="515.0" y="294" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">1.605e-09</text>
+<rect x="600" y="260" width="167" height="53" fill="#cd5548"/>
+<text x="685.0" y="294" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">0.000003</text>
+<rect x="770" y="260" width="167" height="53" fill="#e3543f"/>
+<text x="855.0" y="294" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">0.000390</text>
+<text x="246" y="350" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#263238">Apollo-SMR-like hazard scale</text>
+<rect x="260" y="316" width="167" height="53" fill="#715b70"/>
+<text x="345.0" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">7.324e-15</text>
+<rect x="430" y="316" width="167" height="53" fill="#b25754"/>
+<text x="515.0" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">1.070e-08</text>
+<rect x="600" y="316" width="167" height="53" fill="#d55545"/>
+<text x="685.0" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">0.000020</text>
+<rect x="770" y="316" width="167" height="53" fill="#eb543c"/>
+<text x="855.0" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">0.002131</text>
+</svg>

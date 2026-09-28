@@ -1,0 +1,44 @@
+1. medRxiv [Preprint]. 2026 Jan 13:2026.01.12.26343791. doi: 
+10.64898/2026.01.12.26343791.
+
+Performance of ICD10 Code-Based Dementia Case Definition in the Health and 
+Retirement Study.
+
+Gianattasio KZ(1), Steffan M(1), Reist B(1), Power MC(2), Rein D(1).
+
+Author information:
+(1)NORC at the University of Chicago, Washington DC 20036, USA.
+(2)George Washington University, Washington DC 20037, USA.
+
+Update in
+    Alzheimers Dement. 2026 May;22(5):e71481. doi: 10.1002/alz.71481.
+
+INTRODUCTION: The Dementia DataHub (DDH) reports U.S. dementia prevalence and 
+incidence from Medicare data. Variation in sensitivity, specificity, and 
+accuracy of diagnoses related to geography and participant characteristics 
+complicates interpretation of these data.
+METHODS: We evaluated performance of DDH-defined Medicare claims diagnoses 
+against linked HRS survey-based dementia classifications.
+RESULTS: DDH's likely-or-higher dementia definition achieved 50% sensitivity, 
+97% specificity, and 91% accuracy relative to the HRS classification. 
+Sensitivity was higher in urban settings, but patterns varied across census 
+divisions. Respondents with dementia missed in claims were younger and healthier 
+than those correctly identified.
+DISCUSSION: Medicare claims reflecting diagnoses of dementia provide valuable 
+information about who may be receiving dementia treatment and where; however, 
+they often miss cases in ways that differ by geography and patient 
+characteristics. Variation in diagnosis in Medicare claims relative to HRS 
+survey-based dementia classification can be used to improve the value of 
+Medicare diagnoses for surveillance purposes.
+
+DOI: 10.64898/2026.01.12.26343791
+PMCID: PMC12870712
+PMID: 41646687
+
+Conflict of interest statement: Kan Z. Gianattasio reports funding from the CMS 
+Innovation Center (CMMI) and the United States (U.S.) National Institutes of 
+Health. Michael Steffan and Ben Reist have nothing to disclose. Melinda C. Power 
+reports research grants from the U.S. National Institutes of Health and U.S. 
+Department of Defense, and the Prince Georges County Department of Family 
+Services. David Rein reports funding from the U.S. National Institutes of 
+Health.

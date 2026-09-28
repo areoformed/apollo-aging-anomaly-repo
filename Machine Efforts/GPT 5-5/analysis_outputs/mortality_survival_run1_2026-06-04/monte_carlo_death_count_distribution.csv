@@ -1,0 +1,102 @@
+cohort_key,cohort,deaths,simulations,probability
+apollo,Apollo 7-17,11,2,1e-05
+apollo,Apollo 7-17,12,10,5e-05
+apollo,Apollo 7-17,13,50,0.00025
+apollo,Apollo 7-17,14,250,0.00125
+apollo,Apollo 7-17,15,993,0.004965
+apollo,Apollo 7-17,16,3396,0.01698
+apollo,Apollo 7-17,17,8816,0.04408
+apollo,Apollo 7-17,18,18551,0.092755
+apollo,Apollo 7-17,19,31191,0.155955
+apollo,Apollo 7-17,20,40487,0.202435
+apollo,Apollo 7-17,21,41016,0.20508
+apollo,Apollo 7-17,22,30291,0.151455
+apollo,Apollo 7-17,23,16597,0.082985
+apollo,Apollo 7-17,24,6336,0.03168
+apollo,Apollo 7-17,25,1691,0.008455
+apollo,Apollo 7-17,26,291,0.001455
+apollo,Apollo 7-17,27,32,0.00016
+other_all,"Other astronauts including military, all deaths",23,6,3e-05
+other_all,"Other astronauts including military, all deaths",24,17,8.5e-05
+other_all,"Other astronauts including military, all deaths",25,56,0.00028
+other_all,"Other astronauts including military, all deaths",26,161,0.000805
+other_all,"Other astronauts including military, all deaths",27,412,0.00206
+other_all,"Other astronauts including military, all deaths",28,992,0.00496
+other_all,"Other astronauts including military, all deaths",29,2121,0.010605
+other_all,"Other astronauts including military, all deaths",30,4125,0.020625
+other_all,"Other astronauts including military, all deaths",31,7150,0.03575
+other_all,"Other astronauts including military, all deaths",32,11465,0.057325
+other_all,"Other astronauts including military, all deaths",33,16612,0.08306
+other_all,"Other astronauts including military, all deaths",34,21526,0.10763
+other_all,"Other astronauts including military, all deaths",35,25110,0.12555
+other_all,"Other astronauts including military, all deaths",36,26427,0.132135
+other_all,"Other astronauts including military, all deaths",37,24476,0.12238
+other_all,"Other astronauts including military, all deaths",38,20961,0.104805
+other_all,"Other astronauts including military, all deaths",39,15747,0.078735
+other_all,"Other astronauts including military, all deaths",40,10531,0.052655
+other_all,"Other astronauts including military, all deaths",41,6249,0.031245
+other_all,"Other astronauts including military, all deaths",42,3416,0.01708
+other_all,"Other astronauts including military, all deaths",43,1498,0.00749
+other_all,"Other astronauts including military, all deaths",44,615,0.003075
+other_all,"Other astronauts including military, all deaths",45,239,0.001195
+other_all,"Other astronauts including military, all deaths",46,66,0.00033
+other_all,"Other astronauts including military, all deaths",47,16,8e-05
+other_all,"Other astronauts including military, all deaths",48,4,2e-05
+other_all,"Other astronauts including military, all deaths",49,2,1e-05
+other_available,"Other Apollo-available, excl. pre-1970 accidents",23,6,3e-05
+other_available,"Other Apollo-available, excl. pre-1970 accidents",24,21,0.000105
+other_available,"Other Apollo-available, excl. pre-1970 accidents",25,67,0.000335
+other_available,"Other Apollo-available, excl. pre-1970 accidents",26,182,0.00091
+other_available,"Other Apollo-available, excl. pre-1970 accidents",27,499,0.002495
+other_available,"Other Apollo-available, excl. pre-1970 accidents",28,1166,0.00583
+other_available,"Other Apollo-available, excl. pre-1970 accidents",29,2461,0.012305
+other_available,"Other Apollo-available, excl. pre-1970 accidents",30,4865,0.024325
+other_available,"Other Apollo-available, excl. pre-1970 accidents",31,8348,0.04174
+other_available,"Other Apollo-available, excl. pre-1970 accidents",32,12934,0.06467
+other_available,"Other Apollo-available, excl. pre-1970 accidents",33,18334,0.09167
+other_available,"Other Apollo-available, excl. pre-1970 accidents",34,23278,0.11639
+other_available,"Other Apollo-available, excl. pre-1970 accidents",35,25607,0.128035
+other_available,"Other Apollo-available, excl. pre-1970 accidents",36,26375,0.131875
+other_available,"Other Apollo-available, excl. pre-1970 accidents",37,24001,0.120005
+other_available,"Other Apollo-available, excl. pre-1970 accidents",38,19596,0.09798
+other_available,"Other Apollo-available, excl. pre-1970 accidents",39,14138,0.07069
+other_available,"Other Apollo-available, excl. pre-1970 accidents",40,8896,0.04448
+other_available,"Other Apollo-available, excl. pre-1970 accidents",41,5015,0.025075
+other_available,"Other Apollo-available, excl. pre-1970 accidents",42,2530,0.01265
+other_available,"Other Apollo-available, excl. pre-1970 accidents",43,1120,0.0056
+other_available,"Other Apollo-available, excl. pre-1970 accidents",44,406,0.00203
+other_available,"Other Apollo-available, excl. pre-1970 accidents",45,116,0.00058
+other_available,"Other Apollo-available, excl. pre-1970 accidents",46,25,0.000125
+other_available,"Other Apollo-available, excl. pre-1970 accidents",47,13,6.5e-05
+other_available,"Other Apollo-available, excl. pre-1970 accidents",48,1,5e-06
+all_astronauts,All same-era astronauts including Apollo and military,41,3,1.5e-05
+all_astronauts,All same-era astronauts including Apollo and military,42,9,4.5e-05
+all_astronauts,All same-era astronauts including Apollo and military,43,33,0.000165
+all_astronauts,All same-era astronauts including Apollo and military,44,68,0.00034
+all_astronauts,All same-era astronauts including Apollo and military,45,200,0.001
+all_astronauts,All same-era astronauts including Apollo and military,46,411,0.002055
+all_astronauts,All same-era astronauts including Apollo and military,47,917,0.004585
+all_astronauts,All same-era astronauts including Apollo and military,48,1699,0.008495
+all_astronauts,All same-era astronauts including Apollo and military,49,2966,0.01483
+all_astronauts,All same-era astronauts including Apollo and military,50,5052,0.02526
+all_astronauts,All same-era astronauts including Apollo and military,51,7603,0.038015
+all_astronauts,All same-era astronauts including Apollo and military,52,11144,0.05572
+all_astronauts,All same-era astronauts including Apollo and military,53,14585,0.072925
+all_astronauts,All same-era astronauts including Apollo and military,54,18138,0.09069
+all_astronauts,All same-era astronauts including Apollo and military,55,20803,0.104015
+all_astronauts,All same-era astronauts including Apollo and military,56,21799,0.108995
+all_astronauts,All same-era astronauts including Apollo and military,57,22214,0.11107
+all_astronauts,All same-era astronauts including Apollo and military,58,20006,0.10003
+all_astronauts,All same-era astronauts including Apollo and military,59,16721,0.083605
+all_astronauts,All same-era astronauts including Apollo and military,60,12910,0.06455
+all_astronauts,All same-era astronauts including Apollo and military,61,9102,0.04551
+all_astronauts,All same-era astronauts including Apollo and military,62,6075,0.030375
+all_astronauts,All same-era astronauts including Apollo and military,63,3629,0.018145
+all_astronauts,All same-era astronauts including Apollo and military,64,2068,0.01034
+all_astronauts,All same-era astronauts including Apollo and military,65,1044,0.00522
+all_astronauts,All same-era astronauts including Apollo and military,66,467,0.002335
+all_astronauts,All same-era astronauts including Apollo and military,67,208,0.00104
+all_astronauts,All same-era astronauts including Apollo and military,68,84,0.00042
+all_astronauts,All same-era astronauts including Apollo and military,69,32,0.00016
+all_astronauts,All same-era astronauts including Apollo and military,70,9,4.5e-05
+all_astronauts,All same-era astronauts including Apollo and military,71,1,5e-06

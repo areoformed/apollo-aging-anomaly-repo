@@ -1,0 +1,14 @@
+STAGE3_REPAIR_COMPLETE
+
+[TMPDIR]/historical-cohort-replication-002/stage3/RECONCILIATION.md  
+[TMPDIR]/historical-cohort-replication-002/stage3/ROW_DIFFERENCES.csv  
+[TMPDIR]/historical-cohort-replication-002/stage3/HARMONIZED_RESULTS.csv  
+[TMPDIR]/historical-cohort-replication-002/stage3/OTHER_AVAILABLE_CORRECTION.csv  
+[TMPDIR]/historical-cohort-replication-002/stage3/CONTAMINATION.md  
+[TMPDIR]/historical-cohort-replication-002/stage3/VALIDATION.md  
+[TMPDIR]/historical-cohort-replication-002/stage3/STAGE_COMPLETE.md  
+[TMPDIR]/historical-cohort-replication-002/stage3/analysis.py  
+[TMPDIR]/historical-cohort-replication-002/stage3/validate.py  
+[TMPDIR]/historical-cohort-replication-002/ACTION_LOG.md
+
+Blocking failure: none.

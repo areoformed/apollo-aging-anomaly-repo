@@ -1,0 +1,35 @@
+1. J Toxicol Pathol. 2022 Jan;35(1):37-44. doi: 10.1293/tox.2021-0035. Epub 2021 
+Sep 16.
+
+Effects of testosterone on rat placental development.
+
+Furukawa S(1), Tsuji N(1), Hayashi S(1), Kuroda Y(1), Kimura M(1), Hayakawa 
+C(1), Takeuchi K(1), Sugiyama A(2).
+
+Author information:
+(1)Biological Research Laboratories, Nissan Chemical Corporation, 1470 Shiraoka, 
+Shiraoka-shi, Saitama 349-0294, Japan.
+(2)Veterinary Clinical Pathology, Faculty of Veterinary Medicine, Okayama 
+University of Science, 1-3 Ikoinooka, Imabari-shi, Ehime 794-8555, Japan.
+
+We investigated the morphological effects of testosterone on placental 
+development in a rat model of polycystic ovarian syndrome (PCOS). Testosterone 
+propionate (TP), which was subcutaneously administered to pregnant rats with 5 
+mg/animal from gestation day (GD) 14 to GD 18, induced a maternal weight 
+reduction without mortality or clinical signs from GD 19 onwards. A decrease in 
+fetal and placental weight, an increase in intrauterine growth retardation 
+(IUGR) rates, and histological changes in the placenta were observed on GD 21 
+but not on GD15 or 17. Histopathologically, on GD 21, the trophoblast septa 
+thickened, and the maternal sinusoids were narrowed in the labyrinth zone, 
+resulting in a small placenta. Additionally, the placental weight, thickness, 
+and histological morphology in the labyrinth zone on GD 21 in the TP-treated 
+group were nearly identical to those on GD 17 in the control and TP-treated 
+groups. Therefore, it was assumed that the testosterone-induced small placenta 
+was induced in association with the developmental inhibition of the fetal part 
+of the placentas from GD 17 onwards.
+
+©2022 The Japanese Society of Toxicologic Pathology.
+
+DOI: 10.1293/tox.2021-0035
+PMCID: PMC8828613
+PMID: 35221494

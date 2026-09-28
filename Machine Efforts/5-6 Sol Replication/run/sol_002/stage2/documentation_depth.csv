@@ -1,0 +1,13 @@
+group,documentation_depth,people,proportion,notes
+APOLLO_FLEW,LOW,7,0.318182,Descriptive source availability only; not an adjustment or complete-case restriction.
+APOLLO_FLEW,MEDIUM,13,0.590909,Descriptive source availability only; not an adjustment or complete-case restriction.
+APOLLO_FLEW,HIGH,2,0.090909,Descriptive source availability only; not an adjustment or complete-case restriction.
+OTHER_ALL,LOW,18,0.514286,Descriptive source availability only; not an adjustment or complete-case restriction.
+OTHER_ALL,MEDIUM,15,0.428571,Descriptive source availability only; not an adjustment or complete-case restriction.
+OTHER_ALL,HIGH,2,0.057143,Descriptive source availability only; not an adjustment or complete-case restriction.
+CORE_NASA_NON_APOLLO,LOW,14,0.500000,Descriptive source availability only; not an adjustment or complete-case restriction.
+CORE_NASA_NON_APOLLO,MEDIUM,12,0.428571,Descriptive source availability only; not an adjustment or complete-case restriction.
+CORE_NASA_NON_APOLLO,HIGH,2,0.071429,Descriptive source availability only; not an adjustment or complete-case restriction.
+MILITARY_ONLY,LOW,7,0.538462,Descriptive source availability only; not an adjustment or complete-case restriction.
+MILITARY_ONLY,MEDIUM,6,0.461538,Descriptive source availability only; not an adjustment or complete-case restriction.
+MILITARY_ONLY,HIGH,0,0.000000,Descriptive source availability only; not an adjustment or complete-case restriction.

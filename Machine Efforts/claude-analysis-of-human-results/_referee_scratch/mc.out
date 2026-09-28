@@ -1,0 +1,9 @@
+pool N=65; groups: [1, 2, 3, 4, 5, 6, 7]; Apollo groups: [1, 2, 3, 4, 5]
+Group 6+7 members in pool (not Apollo): 18
+real Apollo (numpy path): SMR=0.490450 g=19 h=22 median=88; SMR per-cohort=0.494213 trunc1970=0.497760 cohort+trunc=0.501773
+[baseline, 1930 table, from age 30] pool=65 realSMR=0.4905: P(SMR<=real)=42.4843% P(<)=42.4843% mean=0.5080 min=0.2436 max=0.9265 | P(g>=19)=21.6783% P(g=19)=11.9082% P(h>=22)=68.4930% P(med>=88)=36.8799% | P(g/h>=0.8636)=7.5539% P(g>=19|h=22)=11.6783% (2s)
+[baseline, second seed] pool=65 realSMR=0.4905: P(SMR<=real)=42.5447% P(<)=42.5447% mean=0.5079 min=0.2440 max=0.9869 | P(g>=19)=21.6887% P(g=19)=11.9190% P(h>=22)=68.4576% P(med>=88)=36.8318% | P(g/h>=0.8636)=7.5747% P(g>=19|h=22)=11.7305% (2s)
+[per-birth-cohort tables] pool=65 realSMR=0.4942: P(SMR<=real)=38.6218% P(<)=38.6218% mean=0.5190 min=0.2516 max=0.9459 | P(g>=19)=21.6783% P(g=19)=11.9082% P(h>=22)=68.4930% P(med>=88)=36.8799% | P(g/h>=0.8636)=7.5539% P(g>=19|h=22)=11.6783% (2s)
+[left-truncated at 1970] pool=65 realSMR=0.4978: P(SMR<=real)=42.8309% P(<)=42.8309% mean=0.5152 min=0.2457 max=0.9482 | P(g>=19)=21.6783% P(g=19)=11.9082% P(h>=22)=68.4930% P(med>=88)=36.8799% | P(g/h>=0.8636)=7.5539% P(g>=19|h=22)=11.6783% (2s)
+[per-cohort + truncated 1970] pool=65 realSMR=0.5018: P(SMR<=real)=38.9079% P(<)=38.9079% mean=0.5267 min=0.2540 max=0.9690 | P(g>=19)=21.6783% P(g=19)=11.9082% P(h>=22)=68.4930% P(med>=88)=36.8799% | P(g/h>=0.8636)=7.5539% P(g>=19|h=22)=11.6783% (2s)
+[pool restricted to Groups 1-5 survivors] pool=47 realSMR=0.4905: P(SMR<=real)=52.7364% P(<)=52.7364% mean=0.4903 min=0.3169 max=0.8392 | P(g>=19)=78.7236% P(g=19)=22.8934% P(h>=22)=83.3862% P(med>=88)=82.3737% | P(g/h>=0.8636)=58.3606% P(g>=19|h=22)=68.8953% (2s)

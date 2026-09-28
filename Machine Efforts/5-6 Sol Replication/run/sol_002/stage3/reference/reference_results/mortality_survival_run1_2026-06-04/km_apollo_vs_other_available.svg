@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="640" viewBox="0 0 1080 640">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="76" y="34" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#17202a">Apollo vs Apollo-available comparator</text>
+<text x="76" y="58" font-family="Arial, sans-serif" font-size="13" fill="#52616b">The comparator removes non-Apollo pre-1970 accidental deaths; SSA line remains all-cause reference</text>
+<line x1="76" y1="570.0" x2="810" y2="570.0" stroke="#e7ecef" stroke-width="1"/>
+<text x="64" y="574.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#6b7780">0%</text>
+<line x1="76" y1="520.2" x2="810" y2="520.2" stroke="#e7ecef" stroke-width="1"/>
+<text x="64" y="524.2" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#6b7780">10%</text>
+<line x1="76" y1="470.4" x2="810" y2="470.4" stroke="#e7ecef" stroke-width="1"/>
+<text x="64" y="474.4" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#6b7780">20%</text>
+<line x1="76" y1="420.6" x2="810" y2="420.6" stroke="#e7ecef" stroke-width="1"/>
+<text x="64" y="424.6" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#6b7780">30%</text>
+<line x1="76" y1="370.8" x2="810" y2="370.8" stroke="#e7ecef" stroke-width="1"/>
+<text x="64" y="374.8" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#6b7780">40%</text>
+<line x1="76" y1="321.0" x2="810" y2="321.0" stroke="#e7ecef" stroke-width="1"/>
+<text x="64" y="325.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#6b7780">50%</text>
+<line x1="76" y1="271.2" x2="810" y2="271.2" stroke="#e7ecef" stroke-width="1"/>
+<text x="64" y="275.2" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#6b7780">60%</text>
+<line x1="76" y1="221.4" x2="810" y2="221.4" stroke="#e7ecef" stroke-width="1"/>
+<text x="64" y="225.4" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#6b7780">70%</text>
+<line x1="76" y1="171.6" x2="810" y2="171.6" stroke="#e7ecef" stroke-width="1"/>
+<text x="64" y="175.6" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#6b7780">80%</text>
+<line x1="76" y1="121.8" x2="810" y2="121.8" stroke="#e7ecef" stroke-width="1"/>
+<text x="64" y="125.8" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#6b7780">90%</text>
+<line x1="76" y1="72.0" x2="810" y2="72.0" stroke="#e7ecef" stroke-width="1"/>
+<text x="64" y="76.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#6b7780">100%</text>
+<line x1="76.0" y1="72" x2="76.0" y2="570" stroke="#f0f3f5" stroke-width="1"/>
+<text x="76.0" y="594" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6b7780">30</text>
+<line x1="180.9" y1="72" x2="180.9" y2="570" stroke="#f0f3f5" stroke-width="1"/>
+<text x="180.9" y="594" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6b7780">40</text>
+<line x1="285.7" y1="72" x2="285.7" y2="570" stroke="#f0f3f5" stroke-width="1"/>
+<text x="285.7" y="594" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6b7780">50</text>
+<line x1="390.6" y1="72" x2="390.6" y2="570" stroke="#f0f3f5" stroke-width="1"/>
+<text x="390.6" y="594" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6b7780">60</text>
+<line x1="495.4" y1="72" x2="495.4" y2="570" stroke="#f0f3f5" stroke-width="1"/>
+<text x="495.4" y="594" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6b7780">70</text>
+<line x1="600.3" y1="72" x2="600.3" y2="570" stroke="#f0f3f5" stroke-width="1"/>
+<text x="600.3" y="594" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6b7780">80</text>
+<line x1="705.1" y1="72" x2="705.1" y2="570" stroke="#f0f3f5" stroke-width="1"/>
+<text x="705.1" y="594" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6b7780">90</text>
+<line x1="810.0" y1="72" x2="810.0" y2="570" stroke="#f0f3f5" stroke-width="1"/>
+<text x="810.0" y="594" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6b7780">100</text>
+<line x1="76" y1="570" x2="810" y2="570" stroke="#263238" stroke-width="1.2"/>
+<line x1="76" y1="72" x2="76" y2="570" stroke="#263238" stroke-width="1.2"/>
+<text x="443.0" y="620" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#263238">Age</text>
+<text x="22" y="321.0" text-anchor="middle" transform="rotate(-90 22 321.0)" font-family="Arial, sans-serif" font-size="13" fill="#263238">Survival from age 30</text>
+<polyline points="76.0,72.0 86.5,72.9 97.0,73.8 107.5,74.8 117.9,75.9 128.4,77.0 138.9,78.3 149.4,79.7 159.9,81.2 170.4,82.8 180.9,84.7 191.3,86.6 201.8,88.7 212.3,90.9 222.8,93.2 233.3,95.7 243.8,98.3 254.3,101.0 264.7,103.9 275.2,107.0 285.7,110.3 296.2,113.9 306.7,117.7 317.2,121.6 327.7,125.8 338.1,130.3 348.6,135.2 359.1,140.4 369.6,145.8 380.1,151.6 390.6,157.8 401.1,164.2 411.5,171.0 422.0,178.0 432.5,185.7 443.0,194.0 453.5,202.7 464.0,212.0 474.5,221.7 484.9,231.6 495.4,241.7 505.9,252.3 516.4,263.3 526.9,274.6 537.4,286.3 547.9,298.3 558.3,310.7 568.8,323.5 579.3,336.8 589.8,350.5 600.3,364.7 610.8,379.2 621.3,394.0 631.7,409.1 642.2,424.2 652.7,439.3 663.2,454.3 673.7,468.8 684.2,482.7 694.7,495.8 705.1,507.8 715.6,518.8 726.1,528.5 736.6,537.0 747.1,544.2 757.6,550.3 768.1,555.2 778.5,559.2 789.0,562.2 799.5,564.5 810.0,566.2" fill="none" stroke="#343a40" stroke-width="3" stroke-dasharray="7 5" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="76.0,72.0 299.6,72.0 299.6,89.2 352.9,89.2 352.9,106.3 363.7,106.3 363.7,123.5 404.5,123.5 404.5,140.7 405.2,140.7 405.2,157.9 486.0,157.9 486.0,175.0 544.4,175.0 544.4,192.2 621.9,192.2 621.9,209.4 630.1,209.4 630.1,226.6 643.7,226.6 643.7,243.7 656.7,243.7 656.7,260.9 665.3,260.9 665.3,278.1 676.7,278.1 676.7,295.2 680.2,295.2 680.2,312.4 685.1,312.4 685.1,329.6 685.3,329.6 685.3,346.8 710.3,346.8 710.3,363.9 711.9,363.9 711.9,382.7 713.6,382.7 713.6,403.5 740.2,403.5 740.2,431.2 741.9,431.2 741.9,459.0 764.4,459.0 764.4,496.0 782.4,496.0 782.4,570.0 810.0,570.0" fill="none" stroke="#1b75bb" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="76.0,72.0 178.5,72.0 178.5,81.1 310.7,81.1 310.7,90.1 387.3,90.1 387.3,99.2 447.2,99.2 447.2,108.2 463.6,108.2 463.6,117.3 466.7,117.3 466.7,126.3 479.1,126.3 479.1,135.4 480.4,135.4 480.4,144.4 487.9,144.4 487.9,153.5 503.2,153.5 503.2,162.5 503.4,162.5 503.4,171.6 510.7,171.6 510.7,180.7 511.2,180.7 511.2,189.7 527.0,189.7 527.0,198.8 536.1,198.8 536.1,207.8 542.3,207.8 542.3,216.9 554.6,216.9 554.6,225.9 567.4,225.9 567.4,235.0 575.0,235.0 575.0,244.0 602.3,244.0 602.3,253.1 605.9,253.1 605.9,262.1 607.1,262.1 607.1,271.2 607.9,271.2 607.9,280.3 637.1,280.3 637.1,289.3 643.4,289.3 643.4,298.7 648.0,298.7 648.0,308.0 648.5,308.0 648.5,317.4 655.3,317.4 655.3,326.7 658.1,326.7 658.1,336.1 659.5,336.1 659.5,345.4 660.0,345.4 660.0,354.8 664.1,354.8 664.1,364.2 666.3,364.2 666.3,373.5 677.8,373.5 677.8,383.3 684.3,383.3 684.3,393.2 688.3,393.2 688.3,403.0 688.8,403.0 688.8,412.8 723.5,412.8 723.5,428.5 724.8,428.5 724.8,444.3 729.1,444.3 729.1,460.0 761.7,460.0 761.7,515.0 770.3,515.0 770.3,570.0 810.0,570.0" fill="none" stroke="#8a63b8" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="844" y1="90" x2="872" y2="90" stroke="#343a40" stroke-width="4" stroke-dasharray="7 5"/>
+<text x="882" y="94" font-family="Arial, sans-serif" font-size="12" fill="#263238">SSA 1930 male baseline</text>
+<line x1="844" y1="122" x2="872" y2="122" stroke="#1b75bb" stroke-width="4"/>
+<text x="882" y="126" font-family="Arial, sans-serif" font-size="12" fill="#263238">Apollo 7-17</text>
+<line x1="844" y1="154" x2="872" y2="154" stroke="#8a63b8" stroke-width="4"/>
+<text x="882" y="158" font-family="Arial, sans-serif" font-size="12" fill="#263238">Other Apollo-available</text>
+</svg>

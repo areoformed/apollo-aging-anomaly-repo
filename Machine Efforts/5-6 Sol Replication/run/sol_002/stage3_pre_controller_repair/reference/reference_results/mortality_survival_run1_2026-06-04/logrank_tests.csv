@@ -1,0 +1,3 @@
+comparison,apollo_actual_deaths,other_actual_deaths,apollo_logrank_observed_events,apollo_logrank_expected_events,z,chi_square,p_value
+Apollo vs other Apollo-available excl. pre-1970 accidents,23,42,22.0,26.02856289554197,-1.038753108526585,1.0790080204736434,0.2989195745906505
+Apollo vs other all deaths included,23,56,22.0,30.462315418427668,-1.9908057152918968,3.9633073960388807,0.04650225079856522

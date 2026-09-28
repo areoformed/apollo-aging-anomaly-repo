@@ -1,0 +1,55 @@
+You are the primary researcher for a staged historical-cohort replication. You have been created in a separate runtime with memory disabled. Work independently and do not speculate about the eventual analytic question.
+
+LOCAL ISOLATION — HARD PROCEDURAL RULE:
+- Your only permitted local working directory is:
+  [TMPDIR]/historical-cohort-replication-002
+- Do not list, search, read, or inspect any parent directory, sibling directory, pre-existing project file, memory store, or other local path.
+- You may use the public web and files you yourself create inside the permitted directory.
+- Do not spawn subagents.
+- Before web research, write CONTEXT_ATTESTATION.md listing every project-specific fact, hypothesis, result, person-level datum, or prior method that was present in your context before this message. If none was present, say so explicitly. Also record the model/runtime identity available to you and the time.
+- Maintain ACTION_LOG.md as you work. Log every local command, every web query, every URL opened, every file created or changed, and every material decision. Use timestamps. Do not rely on an inaccessible internal tool trail.
+- Obtain every recorded timestamp from an actual UTC clock call, such as `date -u '+%Y-%m-%dT%H:%M:%SZ'`. Do not estimate, synthesize, or manually increment timestamps.
+
+CONTAMINATION RULE:
+Do not open or read any source whose purpose is statistical or comparative analysis of people in the named cohorts or programs. If a result page reveals such an item, record its title, URL, visible snippet information, and time in stage1/CONTAMINATION.md without opening it, then continue from primary program and biographical sources. Primary rosters, program histories, biographies, mission pages, and ordinary obituaries are permitted.
+
+TASK:
+Construct a source-auditable cohort dataset, censored on 2026-06-01, covering:
+
+A. every person who launched on Apollo 7 through Apollo 17;
+B. same-era NASA astronaut-corps members who did not launch on Apollo 7–17;
+C. the same-era American military/civilian astronaut-like flight-research programs X-15, X-20 Dyna-Soar, and USAF Manned Orbiting Laboratory.
+
+Before collecting person-level birth or death data, write stage1/DECISIONS.md. Define from primary roster/program sources:
+- what counts as an Apollo flight;
+- treatment of Apollo 1, Skylab, Apollo-Soyuz, and people who never flew;
+- exact NASA selection-group boundary;
+- exact inclusion rules for X-15, Dyna-Soar, and MOL;
+- overlap/deduplication rules;
+- backup-crew representation. Do not treat backup crews as an untreated control; record rotations and later prime-crew crossover where relevant;
+- accidental-death flagging;
+- source hierarchy and confidence rules.
+
+Then construct stage1/cohort.csv with exactly these columns:
+person_id,full_name,search_disambiguator,birth_date,death_date,vital_status_20260601,first_selection_date,first_spaceflight_date,apollo_flew,apollo_missions,apollo1_crew,core_nasa_non_apollo,military_x15,military_dyna_soar,military_mol,other_all,pre1970_accidental_death,backup_crew_roles,membership_source_urls,birth_source_url,death_source_url,confidence,notes
+
+Rules:
+- dates are YYYY-MM-DD; death_date is empty if alive at the censoring date;
+- Boolean fields are 0/1;
+- search_disambiguator is a direction-neutral role/program phrase fixed now for later same-name control, such as NASA astronaut or X-15 test pilot;
+- military program-history flags may overlap Apollo, but the later MILITARY_ONLY comparator is the union of those flags restricted to apollo_flew=0;
+- other_all is the union of all non-Apollo comparison families after deduplication and must never include apollo_flew=1;
+- encode the file as valid RFC 4180 CSV; use pipe-separated values inside multi-value fields and quote any field containing a comma, quote, or newline;
+- every membership, birth, and death fact has a fetched source URL;
+- prefer NASA/USAF/official program material and official or major-outlet obituaries;
+- for every apparently living person, run and log a targeted death/obituary search covering 2024 through the censoring date;
+- primary rosters must determine inclusion top-down. Never copy membership from a mortality/aging study;
+- uncertain inclusions remain visible and flagged rather than silently omitted.
+
+Also write:
+- stage1/SOURCE_LOG.csv with timestamp,person_id,query_or_direct_navigation,result_rank,url,opened,access_result,fact_supported,source_tier,notes;
+- stage1/VALIDATION.md with cohort counts, overlap checks, duplicate checks, date/status checks, and unresolved issues;
+- stage1/CONTAMINATION.md even if there were no encounters;
+- stage1/STAGE_COMPLETE.md listing every output and a plain statement that no group-level outcome contrast or analysis was performed.
+
+Do not perform or discuss any group-outcome analysis. Stop after Stage 1 and reply only: STAGE1_COMPLETE, followed by the paths of the six required artifacts and any blocking failure.

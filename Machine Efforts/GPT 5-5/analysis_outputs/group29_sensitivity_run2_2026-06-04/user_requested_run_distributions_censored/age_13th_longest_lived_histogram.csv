@@ -1,0 +1,164 @@
+mortality_scenario_key,mortality_scenario,age_statistic,age_bin_floor,group_count,group_probability
+ssa_general_age30,"SSA general male, age-30 selected",age_13th_longest_lived,59,1,1e-06
+ssa_general_age30,"SSA general male, age-30 selected",age_13th_longest_lived,60,3,3e-06
+ssa_general_age30,"SSA general male, age-30 selected",age_13th_longest_lived,61,7,7e-06
+ssa_general_age30,"SSA general male, age-30 selected",age_13th_longest_lived,62,5,5e-06
+ssa_general_age30,"SSA general male, age-30 selected",age_13th_longest_lived,63,27,2.7e-05
+ssa_general_age30,"SSA general male, age-30 selected",age_13th_longest_lived,64,62,6.2e-05
+ssa_general_age30,"SSA general male, age-30 selected",age_13th_longest_lived,65,141,0.000141
+ssa_general_age30,"SSA general male, age-30 selected",age_13th_longest_lived,66,331,0.000331
+ssa_general_age30,"SSA general male, age-30 selected",age_13th_longest_lived,67,727,0.000727
+ssa_general_age30,"SSA general male, age-30 selected",age_13th_longest_lived,68,1512,0.001512
+ssa_general_age30,"SSA general male, age-30 selected",age_13th_longest_lived,69,3003,0.003003
+ssa_general_age30,"SSA general male, age-30 selected",age_13th_longest_lived,70,5834,0.005834
+ssa_general_age30,"SSA general male, age-30 selected",age_13th_longest_lived,71,10111,0.010111
+ssa_general_age30,"SSA general male, age-30 selected",age_13th_longest_lived,72,17200,0.0172
+ssa_general_age30,"SSA general male, age-30 selected",age_13th_longest_lived,73,27286,0.027286
+ssa_general_age30,"SSA general male, age-30 selected",age_13th_longest_lived,74,41593,0.041593
+ssa_general_age30,"SSA general male, age-30 selected",age_13th_longest_lived,75,59142,0.059142
+ssa_general_age30,"SSA general male, age-30 selected",age_13th_longest_lived,76,79677,0.079677
+ssa_general_age30,"SSA general male, age-30 selected",age_13th_longest_lived,77,99347,0.099347
+ssa_general_age30,"SSA general male, age-30 selected",age_13th_longest_lived,78,115396,0.115396
+ssa_general_age30,"SSA general male, age-30 selected",age_13th_longest_lived,79,124450,0.12445
+ssa_general_age30,"SSA general male, age-30 selected",age_13th_longest_lived,80,120090,0.12009
+ssa_general_age30,"SSA general male, age-30 selected",age_13th_longest_lived,81,104385,0.104385
+ssa_general_age30,"SSA general male, age-30 selected",age_13th_longest_lived,82,80521,0.080521
+ssa_general_age30,"SSA general male, age-30 selected",age_13th_longest_lived,83,54164,0.054164
+ssa_general_age30,"SSA general male, age-30 selected",age_13th_longest_lived,84,31156,0.031156
+ssa_general_age30,"SSA general male, age-30 selected",age_13th_longest_lived,85,15317,0.015317
+ssa_general_age30,"SSA general male, age-30 selected",age_13th_longest_lived,86,6053,0.006053
+ssa_general_age30,"SSA general male, age-30 selected",age_13th_longest_lived,87,1857,0.001857
+ssa_general_age30,"SSA general male, age-30 selected",age_13th_longest_lived,88,493,0.000493
+ssa_general_age30,"SSA general male, age-30 selected",age_13th_longest_lived,89,93,9.3e-05
+ssa_general_age30,"SSA general male, age-30 selected",age_13th_longest_lived,90,14,1.4e-05
+ssa_general_age30,"SSA general male, age-30 selected",age_13th_longest_lived,91,2,2e-06
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",age_13th_longest_lived,61,1,1e-06
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",age_13th_longest_lived,62,0,0.0
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",age_13th_longest_lived,63,4,4e-06
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",age_13th_longest_lived,64,6,6e-06
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",age_13th_longest_lived,65,28,2.8e-05
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",age_13th_longest_lived,66,52,5.2e-05
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",age_13th_longest_lived,67,144,0.000144
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",age_13th_longest_lived,68,333,0.000333
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",age_13th_longest_lived,69,674,0.000674
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",age_13th_longest_lived,70,1387,0.001387
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",age_13th_longest_lived,71,2690,0.00269
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",age_13th_longest_lived,72,4985,0.004985
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",age_13th_longest_lived,73,8918,0.008918
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",age_13th_longest_lived,74,15681,0.015681
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",age_13th_longest_lived,75,25347,0.025347
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",age_13th_longest_lived,76,39077,0.039077
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",age_13th_longest_lived,77,56929,0.056929
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",age_13th_longest_lived,78,78519,0.078519
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",age_13th_longest_lived,79,100320,0.10032
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",age_13th_longest_lived,80,118619,0.118619
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",age_13th_longest_lived,81,128560,0.12856
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",age_13th_longest_lived,82,124715,0.124715
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",age_13th_longest_lived,83,107797,0.107797
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",age_13th_longest_lived,84,82077,0.082077
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",age_13th_longest_lived,85,53599,0.053599
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",age_13th_longest_lived,86,29151,0.029151
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",age_13th_longest_lived,87,13435,0.013435
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",age_13th_longest_lived,88,5002,0.005002
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",age_13th_longest_lived,89,1511,0.001511
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",age_13th_longest_lived,90,351,0.000351
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",age_13th_longest_lived,91,76,7.6e-05
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",age_13th_longest_lived,92,11,1.1e-05
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",age_13th_longest_lived,93,1,1e-06
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",age_13th_longest_lived,64,1,1e-06
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",age_13th_longest_lived,65,0,0.0
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",age_13th_longest_lived,66,4,4e-06
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",age_13th_longest_lived,67,15,1.5e-05
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",age_13th_longest_lived,68,36,3.6e-05
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",age_13th_longest_lived,69,90,9e-05
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",age_13th_longest_lived,70,191,0.000191
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",age_13th_longest_lived,71,414,0.000414
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",age_13th_longest_lived,72,891,0.000891
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",age_13th_longest_lived,73,1783,0.001783
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",age_13th_longest_lived,74,3368,0.003368
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",age_13th_longest_lived,75,6199,0.006199
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",age_13th_longest_lived,76,11307,0.011307
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",age_13th_longest_lived,77,19225,0.019225
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",age_13th_longest_lived,78,31473,0.031473
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",age_13th_longest_lived,79,48838,0.048838
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",age_13th_longest_lived,80,70172,0.070172
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",age_13th_longest_lived,81,94775,0.094775
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",age_13th_longest_lived,82,117323,0.117323
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",age_13th_longest_lived,83,131339,0.131339
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",age_13th_longest_lived,84,132637,0.132637
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",age_13th_longest_lived,85,118660,0.11866
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",age_13th_longest_lived,86,91604,0.091604
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",age_13th_longest_lived,87,61004,0.061004
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",age_13th_longest_lived,88,34128,0.034128
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",age_13th_longest_lived,89,15774,0.015774
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",age_13th_longest_lived,90,6202,0.006202
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",age_13th_longest_lived,91,1954,0.001954
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",age_13th_longest_lived,92,483,0.000483
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",age_13th_longest_lived,93,87,8.7e-05
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",age_13th_longest_lived,94,20,2e-05
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",age_13th_longest_lived,95,2,2e-06
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",age_13th_longest_lived,96,1,1e-06
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",age_13th_longest_lived,66,1,1e-06
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",age_13th_longest_lived,67,0,0.0
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",age_13th_longest_lived,68,0,0.0
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",age_13th_longest_lived,69,7,7e-06
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",age_13th_longest_lived,70,13,1.3e-05
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",age_13th_longest_lived,71,19,1.9e-05
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",age_13th_longest_lived,72,49,4.9e-05
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",age_13th_longest_lived,73,185,0.000185
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",age_13th_longest_lived,74,329,0.000329
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",age_13th_longest_lived,75,728,0.000728
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",age_13th_longest_lived,76,1544,0.001544
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",age_13th_longest_lived,77,2986,0.002986
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",age_13th_longest_lived,78,5870,0.00587
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",age_13th_longest_lived,79,10856,0.010856
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",age_13th_longest_lived,80,19411,0.019411
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",age_13th_longest_lived,81,32413,0.032413
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",age_13th_longest_lived,82,51425,0.051425
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",age_13th_longest_lived,83,75441,0.075441
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",age_13th_longest_lived,84,102353,0.102353
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",age_13th_longest_lived,85,125217,0.125217
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",age_13th_longest_lived,86,138784,0.138784
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",age_13th_longest_lived,87,134733,0.134733
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",age_13th_longest_lived,88,115228,0.115228
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",age_13th_longest_lived,89,83996,0.083996
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",age_13th_longest_lived,90,52299,0.052299
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",age_13th_longest_lived,91,27630,0.02763
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",age_13th_longest_lived,92,12195,0.012195
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",age_13th_longest_lived,93,4416,0.004416
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",age_13th_longest_lived,94,1414,0.001414
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",age_13th_longest_lived,95,366,0.000366
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",age_13th_longest_lived,96,78,7.8e-05
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",age_13th_longest_lived,97,14,1.4e-05
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,age_13th_longest_lived,70,2,2e-06
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,age_13th_longest_lived,71,3,3e-06
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,age_13th_longest_lived,72,9,9e-06
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,age_13th_longest_lived,73,20,2e-05
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,age_13th_longest_lived,74,48,4.8e-05
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,age_13th_longest_lived,75,112,0.000112
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,age_13th_longest_lived,76,241,0.000241
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,age_13th_longest_lived,77,488,0.000488
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,age_13th_longest_lived,78,1124,0.001124
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,age_13th_longest_lived,79,2378,0.002378
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,age_13th_longest_lived,80,4820,0.00482
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,age_13th_longest_lived,81,9160,0.00916
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,age_13th_longest_lived,82,17230,0.01723
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,age_13th_longest_lived,83,29879,0.029879
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,age_13th_longest_lived,84,49348,0.049348
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,age_13th_longest_lived,85,73636,0.073636
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,age_13th_longest_lived,86,102223,0.102223
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,age_13th_longest_lived,87,126370,0.12637
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,age_13th_longest_lived,88,140356,0.140356
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,age_13th_longest_lived,89,136617,0.136617
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,age_13th_longest_lived,90,116597,0.116597
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,age_13th_longest_lived,91,85476,0.085476
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,age_13th_longest_lived,92,53851,0.053851
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,age_13th_longest_lived,93,29307,0.029307
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,age_13th_longest_lived,94,13469,0.013469
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,age_13th_longest_lived,95,5080,0.00508
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,age_13th_longest_lived,96,1632,0.001632
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,age_13th_longest_lived,97,393,0.000393
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,age_13th_longest_lived,98,107,0.000107
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,age_13th_longest_lived,99,19,1.9e-05
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,age_13th_longest_lived,100,4,4e-06
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,age_13th_longest_lived,101,1,1e-06

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="660" viewBox="0 0 1200 660" font-family="Helvetica, Arial, sans-serif">
+<rect id="bg" width="1200" height="660" fill="#ffffff"/>
+<g id="title"><text x="90" y="32" font-size="20" font-weight="bold" fill="#111">Space grandpas in a million synthetic Apollo-sized cohorts</text>
+<text x="90" y="54" font-size="13" fill="#666">1,000,000 random draws of 29 from the 73 pre-1970 NASA astronauts · seed 1788768027</text></g>
+<g id="axes" stroke="#333" stroke-width="1">
+<line x1="90" y1="570" x2="1160" y2="570"/><line x1="90" y1="70" x2="90" y2="570"/></g>
+<g id="bars" fill="#4a6fa5">
+<rect id="bar-8" x="90.00" y="569.99" width="55.32" height="0.01"/>
+<rect id="bar-9" x="146.32" y="569.89" width="55.32" height="0.11"/>
+<rect id="bar-10" x="202.63" y="568.94" width="55.32" height="1.06"/>
+<rect id="bar-11" x="258.95" y="564.23" width="55.32" height="5.77"/>
+<rect id="bar-12" x="315.26" y="546.98" width="55.32" height="23.02"/>
+<rect id="bar-13" x="371.58" y="499.35" width="55.32" height="70.65"/>
+<rect id="bar-14" x="427.89" y="402.53" width="55.32" height="167.47"/>
+<rect id="bar-15" x="484.21" y="258.90" width="55.32" height="311.10"/>
+<rect id="bar-16" x="540.53" y="123.66" width="55.32" height="446.34"/>
+<rect id="bar-17" x="596.84" y="70.00" width="55.32" height="500.00"/>
+<rect id="bar-18" x="653.16" y="131.56" width="55.32" height="438.44"/>
+<rect id="bar-19" x="709.47" y="271.20" width="55.32" height="298.80"/>
+<rect id="bar-20" x="765.79" y="411.82" width="55.32" height="158.18"/>
+<rect id="bar-21" x="822.11" y="505.79" width="55.32" height="64.21"/>
+<rect id="bar-22" x="878.42" y="550.62" width="55.32" height="19.38"/>
+<rect id="bar-23" x="934.74" y="565.31" width="55.32" height="4.69"/>
+<rect id="bar-24" x="991.05" y="569.25" width="55.32" height="0.75"/>
+<rect id="bar-25" x="1047.37" y="569.92" width="55.32" height="0.08"/>
+<rect id="bar-26" x="1103.68" y="569.99" width="55.32" height="0.01"/>
+</g>
+<g id="x-labels" font-size="12" fill="#333" text-anchor="middle">
+<text x="118.16" y="588">8</text>
+<text x="174.47" y="588">9</text>
+<text x="230.79" y="588">10</text>
+<text x="287.11" y="588">11</text>
+<text x="343.42" y="588">12</text>
+<text x="399.74" y="588">13</text>
+<text x="456.05" y="588">14</text>
+<text x="512.37" y="588">15</text>
+<text x="568.68" y="588">16</text>
+<text x="625.00" y="588">17</text>
+<text x="681.32" y="588">18</text>
+<text x="737.63" y="588">19</text>
+<text x="793.95" y="588">20</text>
+<text x="850.26" y="588">21</text>
+<text x="906.58" y="588">22</text>
+<text x="962.89" y="588">23</text>
+<text x="1019.21" y="588">24</text>
+<text x="1075.53" y="588">25</text>
+<text x="1131.84" y="588">26</text>
+<text x="625.00" y="618" font-size="14">space grandpas per cohort of 29 (the spaceGrandpa flag in the source data; a subset of those who reached 80)</text></g>
+<g id="y-labels" font-size="12" fill="#333" text-anchor="end">
+<text x="82" y="574.00">0</text>
+<text x="82" y="449.00">49,800</text>
+<text x="82" y="324.00">99,599</text>
+<text x="82" y="199.00">149,398</text>
+<text x="82" y="74.00">199,198</text>
+<text transform="translate(28,320.00) rotate(-90)" text-anchor="middle" font-size="14">decks (of 1,000,000)</text></g>
+<g id="real-apollo" stroke="#c0392b" stroke-width="2"><line x1="737.63" y1="70" x2="737.63" y2="570" stroke-dasharray="6,4"/></g>
+<g id="annotation" font-size="13" fill="#c0392b" text-anchor="end">
+<line x1="902" y1="84" x2="926" y2="84" stroke="#c0392b" stroke-width="2" stroke-dasharray="6,4"/>
+<text x="1152.00" y="88">real Apollo 29: 19 space grandpas</text><text x="1152.00" y="108">9.9% of synthetic cohorts have more</text></g>
+</svg>

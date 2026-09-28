@@ -1,0 +1,3 @@
+statistic,observed,null_mean,null_p95,perm_p_ge,draws
+S1_superager_count_of_29,21.0,15.541465,19.0,0.01055,200000
+S2_conditional_rate_among_survivors,0.9545454545454546,0.776062307600548,0.9,0.003685,200000

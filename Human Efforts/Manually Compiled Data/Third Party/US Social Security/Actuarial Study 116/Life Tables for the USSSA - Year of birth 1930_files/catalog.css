@@ -1,0 +1,1056 @@
+b.cBold
+{
+  font-weight: bold
+}
+em.cBoldEmphasis
+{
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: italic;
+  font-weight: bold
+}
+code.cCode
+{
+  font-family: Courier New, Courier, mono
+}
+sub.cSubscript
+{
+  vertical-align: sub
+}
+sup.cSuperscript
+{
+  vertical-align: super
+}
+u.cUnderline
+{
+  text-decoration: underline
+}
+
+p.pDefault
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 10pt;
+  margin-left: 0em;
+  margin-right: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+div.pAuthor
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: italic;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 10pt;
+  margin-left: 0em;
+  margin-right: 0em;
+  text-align: center;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+p.pBody
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 10pt;
+  margin-left: 0em;
+  margin-right: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+p.pBodyIndented
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 10pt;
+  margin-left: 2.5em;
+  margin-right: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+div.pBullet
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 6pt;
+  margin-left: 0em;
+  margin-right: 0em;
+  margin-top: 6pt;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+div.pCellBodyC
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 0em;
+  margin-left: 0em;
+  margin-right: 0em;
+  margin-top: 0em;
+  text-align: center;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+div.pCellBodyL
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 0em;
+  margin-left: 0em;
+  margin-right: 0em;
+  margin-top: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+div.pCellBodyR
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 0em;
+  margin-left: 0em;
+  margin-right: 0em;
+  margin-top: 0em;
+  text-align: right;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+div.pCellHeadC
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  margin-bottom: 0em;
+  margin-left: 0em;
+  margin-right: 0em;
+  margin-top: 0em;
+  text-align: center;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+div.pCellHeadL
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  margin-bottom: 0em;
+  margin-left: 0em;
+  margin-right: 0em;
+  margin-top: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+p.pChapter
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  margin-bottom: 10pt;
+  margin-left: 0em;
+  margin-right: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+div.pCode
+{
+  color: Black;
+  font-family: Courier New, Courier, mono;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 0em;
+  margin-left: 0em;
+  margin-right: 0em;
+  margin-top: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+div.pDate
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  margin-bottom: 10pt;
+  margin-left: 0em;
+  margin-right: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+div.pFigureCell
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 0em;
+  margin-left: 0em;
+  margin-right: 0em;
+  margin-top: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+p.pFootnote
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-size: smaller;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 5pt;
+  margin-left: 0em;
+  margin-right: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+p.pHeading
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  margin-bottom: 10pt;
+  margin-left: 0em;
+  margin-right: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+h2.pHeading1
+{
+  color: #003366;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  margin-bottom: 10pt;
+  margin-left: 0em;
+  margin-right: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+h2.pHeading2
+{
+  color: #003366;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  margin-bottom: 10pt;
+  margin-left: 0em;
+  margin-right: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+h3.pHeading3
+{
+  color: #003366;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  margin-bottom: 10pt;
+  margin-left: 0em;
+  margin-right: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+h4.pHeading4
+{
+  color: #003366;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 10pt;
+  margin-left: 0em;
+  margin-right: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+h5.pHeading5
+{
+  color: #003366;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  margin-bottom: 10pt;
+  margin-left: 0em;
+  margin-right: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+h6.pHeading6
+{
+  color: #003366;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-size: 12px;
+  font-style: italic;
+  font-variant: normal;
+  font-weight: bold;
+  margin-bottom: 10pt;
+  margin-left: 0em;
+  margin-right: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+p.pIndented1
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 10pt;
+  margin-left: 2.5em;
+  margin-right: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+p.pIndented2
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 10pt;
+  margin-left: 5em;
+  margin-right: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+p.pIndented3
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 10pt;
+  margin-left: 7.5em;
+  margin-right: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+p.pIndented4
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 10pt;
+  margin-left: 10em;
+  margin-right: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+p.pIndented5
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 10pt;
+  margin-left: 12.5em;
+  margin-right: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+p.pIndentedRelative
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 10pt;
+  margin-left: 2.5em;
+  margin-right: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+p.pIXGroupNavigation
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 10pt;
+  margin-left: 0em;
+  margin-right: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+p.pIXGroupTitle
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 0em;
+  margin-left: 0em;
+  margin-right: 0em;
+  margin-top: 8px;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+div.pIXHeadingLink
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 0em;
+  margin-left: 0em;
+  margin-right: 0em;
+  margin-top: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+p.pIXLevel1
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 0em;
+  margin-left: 8px;
+  margin-right: 0em;
+  margin-top: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 8px;
+  text-transform: none
+}
+p.pIXLevel2
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 0em;
+  margin-left: 16px;
+  margin-right: 0em;
+  margin-top: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 16px;
+  text-transform: none
+}
+p.pIXLevel3
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 0em;
+  margin-left: 24px;
+  margin-right: 0em;
+  margin-top: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 24px;
+  text-transform: none
+}
+p.pIXLevel4
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 0em;
+  margin-left: 32px;
+  margin-right: 0em;
+  margin-top: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 32px;
+  text-transform: none
+}
+p.pIXLevel5
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 0em;
+  margin-left: 40px;
+  margin-right: 0em;
+  margin-top: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 40px;
+  text-transform: none
+}
+h2.pIXTitle
+{
+  color: #003366;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  margin-bottom: 10pt;
+  margin-left: 0em;
+  margin-right: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+p.pLetterFirst
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 10pt;
+  margin-left: 0em;
+  margin-right: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+p.pLetterNext
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 10pt;
+  margin-left: 0em;
+  margin-right: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+div.pNoteTitle
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  margin-bottom: 10pt;
+  margin-left: 0em;
+  margin-right: 0em;
+  text-align: center;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: uppercase
+}
+p.pNumberFirst
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 10pt;
+  margin-left: 0em;
+  margin-right: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+p.pNumberNext
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 10pt;
+  margin-left: 0em;
+  margin-right: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+div.pOCACT
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  margin-bottom: 10pt;
+  margin-left: 0em;
+  margin-right: 0em;
+  text-align: right;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+div.pPreformatted
+{
+  color: Black;
+  font-family: Courier New, Courier, mono;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 0em;
+  margin-left: 0em;
+  margin-right: 0em;
+  margin-top: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+blockquote.pQuotation
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 10pt;
+  margin-left: 2.5em;
+  margin-right: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+p.pSection
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  margin-bottom: 10pt;
+  margin-left: 0em;
+  margin-right: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+div.pSmartList1
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 6pt;
+  margin-left: 0em;
+  margin-right: 0em;
+  margin-top: 6pt;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+div.pSmartList2
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 6pt;
+  margin-left: 0em;
+  margin-right: 0em;
+  margin-top: 6pt;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+div.pSmartList3
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 6pt;
+  margin-left: 0em;
+  margin-right: 0em;
+  margin-top: 6pt;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+div.pSmartList4
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 6pt;
+  margin-left: 0em;
+  margin-right: 0em;
+  margin-top: 6pt;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+div.pSmartList5
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 6pt;
+  margin-left: 0em;
+  margin-right: 0em;
+  margin-top: 6pt;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+div.pSSA
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  margin-bottom: 10pt;
+  margin-left: 0em;
+  margin-right: 0em;
+  text-align: right;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: uppercase
+}
+p.pSubSection
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: italic;
+  font-variant: normal;
+  font-weight: bold;
+  margin-bottom: 10pt;
+  margin-left: 0em;
+  margin-right: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+p.pSubSubSection
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: italic;
+  font-variant: normal;
+  font-weight: bold;
+  margin-bottom: 10pt;
+  margin-left: 2%;
+  margin-right: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+p.pTableAnchor
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 10pt;
+  margin-left: 0em;
+  margin-right: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+p.pTableFootnote
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-size: smaller;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 10pt;
+  margin-left: 0em;
+  margin-right: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+p.pTableNote
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-size: smaller;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 5pt;
+  margin-left: 0em;
+  margin-right: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+p.pTableSubTitle
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-size: smaller;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 10pt;
+  margin-left: 0em;
+  margin-right: 0em;
+  text-align: center;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+div.pTableTitle
+{
+  color: Black;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  margin-bottom: 10pt;
+  margin-left: 0em;
+  margin-right: 0em;
+  text-align: center;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+h2.pTitle
+{
+  color: #003366;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  margin-bottom: 10pt;
+  margin-left: 0em;
+  margin-right: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+p.pTOC1
+{
+  color: #003366;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0em;
+  margin-top: 0px;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0px;
+  text-transform: none
+}
+p.pTOC2
+{
+  color: #003366;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 0px;
+  margin-left: 8px;
+  margin-right: 0em;
+  margin-top: 0px;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 8px;
+  text-transform: none
+}
+p.pTOC3
+{
+  color: #003366;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 0px;
+  margin-left: 16px;
+  margin-right: 0em;
+  margin-top: 0px;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 16px;
+  text-transform: none
+}
+p.pTOC4
+{
+  color: #003366;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 0px;
+  margin-left: 24px;
+  margin-right: 0em;
+  margin-top: 0px;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 24px;
+  text-transform: none
+}
+p.pTOC5
+{
+  color: #003366;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  margin-bottom: 0px;
+  margin-left: 32px;
+  margin-right: 0em;
+  margin-top: 0px;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 32px;
+  text-transform: none
+}
+h2.pTOCTitle
+{
+  color: #003366;
+  font-family: Times New Roman, Georgia, Times, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  margin-bottom: 10pt;
+  margin-left: 0em;
+  margin-right: 0em;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0em;
+  text-transform: none
+}
+

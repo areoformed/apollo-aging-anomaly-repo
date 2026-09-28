@@ -1,0 +1,2 @@
+research_id,person_id,evidence_type,event_date_earliest,event_date_latest,earliest_qualifies_relative_to_boundary,latest_qualifies_relative_to_boundary,primary_effect_earliest_scenario,primary_effect_latest_scenario,notes
+NONE,,,,,identical,identical,0.016883,0.016883,No qualifying boundary-sensitive event exists; earliest/latest primary sensitivity is identical by construction.

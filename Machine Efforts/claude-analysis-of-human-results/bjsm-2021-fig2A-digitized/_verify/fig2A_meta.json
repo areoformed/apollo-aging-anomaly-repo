@@ -1,0 +1,150 @@
+{
+  "source_image": "./Human Efforts/Graphs/Third Party/bjsports-2021-February-55-4-206-F2.large (1).jpg",
+  "plot_box_px": {
+    "x_left": 99,
+    "x_right": 626,
+    "y_top": 18,
+    "y_bottom": 355
+  },
+  "x_ticks_px": [
+    119.0,
+    237.0,
+    355.0,
+    473.0,
+    591.0
+  ],
+  "x_tick_values_yr": [
+    0,
+    20,
+    40,
+    60,
+    80
+  ],
+  "y_ticks_px": [
+    31.0,
+    108.0,
+    187.0,
+    265.0,
+    342.0
+  ],
+  "y_tick_values_pct": [
+    100,
+    75,
+    50,
+    25,
+    0
+  ],
+  "px_per_year": 5.900000000000002,
+  "px_per_pct": 3.1160564826700887,
+  "affine_max_residual": {
+    "x_yr": 3.907985046680551e-14,
+    "y_pct": 0.22418975302048239
+  },
+  "legend_ink_bbox_px": {
+    "x0": 140,
+    "x1": 328,
+    "y0": 214,
+    "y1": 328
+  },
+  "legend_exclusion_px": {
+    "x0": 138,
+    "x1": 336,
+    "y0": 210,
+    "y1": 332
+  },
+  "columns_extracted": {
+    "male_olympians": 420,
+    "female_olympians": 487,
+    "male_population": 218,
+    "female_population": 304
+  },
+  "data_span_years": {
+    "male_olympians": [
+      9.152542372881388,
+      81.6949152542373
+    ],
+    "female_olympians": [
+      -0.3389830508474212,
+      82.54237288135594
+    ],
+    "male_population": [
+      4.745762711864444,
+      82.37288135593221
+    ],
+    "female_population": [
+      -0.3389830508474212,
+      82.54237288135594
+    ]
+  },
+  "ambiguous_columns_blue_pair": [
+    147,
+    148,
+    149,
+    150,
+    154,
+    155,
+    156,
+    157,
+    159,
+    165,
+    166,
+    167,
+    168,
+    173,
+    174,
+    175,
+    572,
+    573,
+    574,
+    575,
+    576,
+    577,
+    578,
+    579,
+    580,
+    581,
+    582,
+    584,
+    585,
+    586,
+    587,
+    588,
+    589,
+    590,
+    591,
+    592,
+    593,
+    594,
+    595,
+    596,
+    597,
+    598,
+    599,
+    600,
+    605
+  ],
+  "anchored_to_t0_span_years": {
+    "male_olympians": [
+      0.0,
+      10.0
+    ],
+    "male_population": [
+      0.0,
+      5.0
+    ]
+  },
+  "validation": {
+    "male_olympians_median_survival_yr": 56.471337579617845,
+    "female_olympians_median_survival_yr": 65.81132075471699,
+    "paper_male_median_yr": 56.7,
+    "paper_male_ci": [
+      55.8,
+      57.3
+    ],
+    "paper_female_median_yr": 66.0,
+    "paper_female_ci": [
+      63.0,
+      67.6
+    ]
+  }
+}

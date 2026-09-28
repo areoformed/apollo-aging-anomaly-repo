@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="660" viewBox="0 0 1200 660" font-family="Helvetica, Arial, sans-serif">
+<rect id="bg" width="1200" height="660" fill="#ffffff"/>
+<g id="title"><text x="90" y="32" font-size="20" font-weight="bold" fill="#111">Mortality of a million synthetic Apollo-sized cohorts</text>
+<text x="90" y="54" font-size="13" fill="#666">1,000,000 random draws of 29 from the 73 pre-1970 NASA astronauts · SMR vs. US 1930 birth cohort (SSA), at risk from age 30 · seed 1788768027</text></g>
+<g id="axes" stroke="#333" stroke-width="1">
+<line x1="90" y1="570" x2="1160" y2="570"/><line x1="90" y1="70" x2="90" y2="570"/></g>
+<g id="bars" fill="#4a6fa5">
+<rect id="bar-0.25" x="90.00" y="569.99" width="14.29" height="0.01"/>
+<rect id="bar-0.26" x="105.29" y="569.97" width="14.29" height="0.03"/>
+<rect id="bar-0.27" x="120.57" y="569.97" width="14.29" height="0.03"/>
+<rect id="bar-0.28" x="135.86" y="569.81" width="14.29" height="0.19"/>
+<rect id="bar-0.29" x="151.14" y="569.41" width="14.29" height="0.59"/>
+<rect id="bar-0.3" x="166.43" y="568.86" width="14.29" height="1.14"/>
+<rect id="bar-0.31" x="181.71" y="567.40" width="14.29" height="2.60"/>
+<rect id="bar-0.32" x="197.00" y="565.34" width="14.29" height="4.66"/>
+<rect id="bar-0.33" x="212.29" y="560.03" width="14.29" height="9.97"/>
+<rect id="bar-0.34" x="227.57" y="553.09" width="14.29" height="16.91"/>
+<rect id="bar-0.35" x="242.86" y="542.53" width="14.29" height="27.47"/>
+<rect id="bar-0.36" x="258.14" y="524.81" width="14.29" height="45.19"/>
+<rect id="bar-0.37" x="273.43" y="502.62" width="14.29" height="67.38"/>
+<rect id="bar-0.38" x="288.71" y="470.32" width="14.29" height="99.68"/>
+<rect id="bar-0.39" x="304.00" y="435.76" width="14.29" height="134.24"/>
+<rect id="bar-0.4" x="319.29" y="394.91" width="14.29" height="175.09"/>
+<rect id="bar-0.41" x="334.57" y="346.07" width="14.29" height="223.93"/>
+<rect id="bar-0.42" x="349.86" y="293.64" width="14.29" height="276.36"/>
+<rect id="bar-0.43" x="365.14" y="239.80" width="14.29" height="330.20"/>
+<rect id="bar-0.44" x="380.43" y="191.66" width="14.29" height="378.34"/>
+<rect id="bar-0.45" x="395.71" y="149.56" width="14.29" height="420.44"/>
+<rect id="bar-0.46" x="411.00" y="114.31" width="14.29" height="455.69"/>
+<rect id="bar-0.47" x="426.29" y="85.95" width="14.29" height="484.05"/>
+<rect id="bar-0.48" x="441.57" y="71.11" width="14.29" height="498.89"/>
+<rect id="bar-0.49" x="456.86" y="70.00" width="14.29" height="500.00"/>
+<rect id="bar-0.5" x="472.14" y="75.03" width="14.29" height="494.97"/>
+<rect id="bar-0.51" x="487.43" y="87.45" width="14.29" height="482.55"/>
+<rect id="bar-0.52" x="502.71" y="113.62" width="14.29" height="456.38"/>
+<rect id="bar-0.53" x="518.00" y="144.97" width="14.29" height="425.03"/>
+<rect id="bar-0.54" x="533.29" y="180.58" width="14.29" height="389.42"/>
+<rect id="bar-0.55" x="548.57" y="219.61" width="14.29" height="350.39"/>
+<rect id="bar-0.56" x="563.86" y="258.09" width="14.29" height="311.91"/>
+<rect id="bar-0.57" x="579.14" y="299.19" width="14.29" height="270.81"/>
+<rect id="bar-0.58" x="594.43" y="336.20" width="14.29" height="233.80"/>
+<rect id="bar-0.59" x="609.71" y="369.82" width="14.29" height="200.18"/>
+<rect id="bar-0.6" x="625.00" y="401.92" width="14.29" height="168.08"/>
+<rect id="bar-0.61" x="640.29" y="432.01" width="14.29" height="137.99"/>
+<rect id="bar-0.62" x="655.57" y="455.85" width="14.29" height="114.15"/>
+<rect id="bar-0.63" x="670.86" y="476.96" width="14.29" height="93.04"/>
+<rect id="bar-0.64" x="686.14" y="493.70" width="14.29" height="76.30"/>
+<rect id="bar-0.65" x="701.43" y="510.41" width="14.29" height="59.59"/>
+<rect id="bar-0.66" x="716.71" y="522.75" width="14.29" height="47.25"/>
+<rect id="bar-0.67" x="732.00" y="532.02" width="14.29" height="37.98"/>
+<rect id="bar-0.68" x="747.29" y="541.14" width="14.29" height="28.86"/>
+<rect id="bar-0.69" x="762.57" y="547.89" width="14.29" height="22.11"/>
+<rect id="bar-0.7" x="777.86" y="552.88" width="14.29" height="17.12"/>
+<rect id="bar-0.71" x="793.14" y="557.03" width="14.29" height="12.97"/>
+<rect id="bar-0.72" x="808.43" y="560.82" width="14.29" height="9.18"/>
+<rect id="bar-0.73" x="823.71" y="562.67" width="14.29" height="7.33"/>
+<rect id="bar-0.74" x="839.00" y="564.66" width="14.29" height="5.34"/>
+<rect id="bar-0.75" x="854.29" y="565.86" width="14.29" height="4.14"/>
+<rect id="bar-0.76" x="869.57" y="567.24" width="14.29" height="2.76"/>
+<rect id="bar-0.77" x="884.86" y="567.51" width="14.29" height="2.49"/>
+<rect id="bar-0.78" x="900.14" y="568.64" width="14.29" height="1.36"/>
+<rect id="bar-0.79" x="915.43" y="568.97" width="14.29" height="1.03"/>
+<rect id="bar-0.8" x="930.71" y="569.05" width="14.29" height="0.95"/>
+<rect id="bar-0.81" x="946.00" y="569.46" width="14.29" height="0.54"/>
+<rect id="bar-0.82" x="961.29" y="569.46" width="14.29" height="0.54"/>
+<rect id="bar-0.83" x="976.57" y="569.69" width="14.29" height="0.31"/>
+<rect id="bar-0.84" x="991.86" y="569.82" width="14.29" height="0.18"/>
+<rect id="bar-0.85" x="1007.14" y="569.79" width="14.29" height="0.21"/>
+<rect id="bar-0.86" x="1022.43" y="569.88" width="14.29" height="0.12"/>
+<rect id="bar-0.87" x="1037.71" y="569.95" width="14.29" height="0.05"/>
+<rect id="bar-0.88" x="1053.00" y="569.94" width="14.29" height="0.06"/>
+<rect id="bar-0.89" x="1068.29" y="569.96" width="14.29" height="0.04"/>
+<rect id="bar-0.9" x="1083.57" y="569.98" width="14.29" height="0.02"/>
+<rect id="bar-0.91" x="1098.86" y="569.97" width="14.29" height="0.03"/>
+<rect id="bar-0.92" x="1114.14" y="569.98" width="14.29" height="0.02"/>
+<rect id="bar-0.93" x="1129.43" y="570.00" width="14.29" height="0.00"/>
+<rect id="bar-0.94" x="1144.71" y="569.99" width="14.29" height="0.01"/>
+</g>
+<g id="x-labels" font-size="12" fill="#333" text-anchor="middle">
+<text x="97.64" y="588">0.25</text>
+<text x="174.07" y="588">0.3</text>
+<text x="250.50" y="588">0.35</text>
+<text x="326.93" y="588">0.4</text>
+<text x="403.36" y="588">0.45</text>
+<text x="479.79" y="588">0.5</text>
+<text x="556.21" y="588">0.55</text>
+<text x="632.64" y="588">0.6</text>
+<text x="709.07" y="588">0.65</text>
+<text x="785.50" y="588">0.7</text>
+<text x="861.93" y="588">0.75</text>
+<text x="938.36" y="588">0.8</text>
+<text x="1014.79" y="588">0.85</text>
+<text x="1091.21" y="588">0.9</text>
+<text x="625.00" y="618" font-size="14">standardized mortality ratio (SMR), bin width 0.01</text></g>
+<g id="y-labels" font-size="12" fill="#333" text-anchor="end">
+<text x="82" y="574.00">0</text>
+<text x="82" y="449.00">14,500</text>
+<text x="82" y="324.00">29,000</text>
+<text x="82" y="199.00">43,500</text>
+<text x="82" y="74.00">58,000</text>
+<text transform="translate(28,320.00) rotate(-90)" text-anchor="middle" font-size="14">decks (of 1,000,000)</text></g>
+<g id="real-apollo" stroke="#c0392b" stroke-width="2"><line x1="457.55" y1="70" x2="457.55" y2="570" stroke-dasharray="6,4"/></g>
+<g id="annotation" font-size="13" fill="#c0392b" text-anchor="end">
+<line x1="902" y1="84" x2="926" y2="84" stroke="#c0392b" stroke-width="2" stroke-dasharray="6,4"/>
+<text x="1152.00" y="88">real Apollo 29: SMR 0.490</text><text x="1152.00" y="108">42.6% of synthetic cohorts sit at or below it</text></g>
+</svg>

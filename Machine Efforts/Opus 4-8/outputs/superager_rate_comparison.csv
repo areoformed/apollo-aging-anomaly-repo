@@ -1,0 +1,8 @@
+anchor,anchor_rate,construct,denom,apollo_cond_rate,rate_ratio,excess_pp,p_exact_ge,source,note
+gbd_male_80_84_demfree,0.866,dementia-free (permissive),men 80-84,0.9545454545454546,1.102246483308839,8.854545454545459,0.18589016849589768,Cao 2024 GBD eTable4 male 2020,UPPER BOUND on vitality; still incl MCI
+gbd_male_85_89_demfree,0.791,dementia-free (permissive),men 85-89,0.9545454545454546,1.2067578439259856,16.354545454545455,0.039193526091455225,Cao 2024 GBD eTable4 male 2020,UPPER BOUND on vitality
+gbd_male_90_94_demfree,0.697,dementia-free (permissive),men 90-94,0.9545454545454546,1.3695056736663624,25.754545454545465,0.003757882014645319,Cao 2024 GBD eTable4 male 2020,UPPER BOUND on vitality
+gbd_male_95plus_demfree,0.507,dementia-free (permissive),men 95+,0.9545454545454546,1.8827326519634213,44.75454545454546,7.248994727209065e-06,Cao 2024 GBD eTable4 male 2020,UPPER BOUND on vitality
+hcap_65plus_normalcog,0.68,"normal cognition (no dem,no MCI)",US adults 65+ (NOT 80+),0.9545454545454546,1.4037433155080214,27.454545454545453,0.002345872840242663,"HRS-HCAP 2016 (10% dem,22% MCI)",age-65+ overall; OPTIMISTIC for 80+
+campos_80_94_no_mmse_imp,0.648,no poor MMSE,long-lived 80-94 (n=165),0.9545454545454546,1.4730639730639732,30.654545454545456,0.0009267030629695943,Campos 2024 ScienceDirect,NOT US-rep; mostly female; low education
+mhas_80plus_youthful,0.1617,youthful cognition (strict),MHAS 80+ (54/334),0.9545454545454546,5.903187721369539,79.28454545454547,4.492868960116878e-16,MHAS user-supplied (NOT reproduced),STRICT LOWER anchor; unverified

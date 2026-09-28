@@ -1,0 +1,7 @@
+group,years_after_80,cumulative_incidence,n_under_observation,starting_n,support_fraction,support_status,note
+APOLLO_FLEW,5,0.045454545,18,22,0.818181818,ADEQUATE_SUPPORT,Subordinate curve readout; not an eligibility restriction or primary endpoint.
+APOLLO_FLEW,10,0.090909091,12,22,0.545454545,ADEQUATE_SUPPORT,Subordinate curve readout; not an eligibility restriction or primary endpoint.
+APOLLO_FLEW,15,0.140909091,2,22,0.090909091,TAIL_SUPPORT_WARNING,Subordinate curve readout; not an eligibility restriction or primary endpoint.
+OTHER_ALL,5,0.028571429,25,35,0.714285714,ADEQUATE_SUPPORT,Subordinate curve readout; not an eligibility restriction or primary endpoint.
+OTHER_ALL,10,0.059807256,11,35,0.314285714,ADEQUATE_SUPPORT,Subordinate curve readout; not an eligibility restriction or primary endpoint.
+OTHER_ALL,15,0.059807256,2,35,0.057142857,TAIL_SUPPORT_WARNING,Subordinate curve readout; not an eligibility restriction or primary endpoint.

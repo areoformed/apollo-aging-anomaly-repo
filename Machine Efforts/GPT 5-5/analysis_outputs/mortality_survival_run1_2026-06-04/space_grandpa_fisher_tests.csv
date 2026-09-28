@@ -1,0 +1,3 @@
+comparison,apollo_sg_y,apollo_sg_den,other_sg_y,other_sg_den,risk_difference_pct_points,fisher_two_sided_p
+"Apollo vs other Apollo-available, SG among 80+",21,22,24,36,28.787878787878782,0.011070209907919452
+"Apollo vs other all, SG among 80+",21,22,24,36,28.787878787878782,0.011070209907919452

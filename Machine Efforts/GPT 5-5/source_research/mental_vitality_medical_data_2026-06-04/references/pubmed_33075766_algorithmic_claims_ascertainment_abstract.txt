@@ -1,0 +1,45 @@
+1. Neuroepidemiology. 2020;54(6):462-471. doi: 10.1159/000510753. Epub 2020 Oct
+19.
+
+Implications of the Use of Algorithmic Diagnoses or Medicare Claims to Ascertain 
+Dementia.
+
+Power MC(1), Gianattasio KZ(2), Ciarleglio A(3).
+
+Author information:
+(1)Department of Epidemiology, Milken Institute School of Public Health, George 
+Washington University, Washington, District of Columbia, USA, [EMAIL].
+(2)Department of Epidemiology, Milken Institute School of Public Health, George 
+Washington University, Washington, District of Columbia, USA.
+(3)Department of Biostatistics and Bioinformatics, Milken Institute School of 
+Public Health, George Washington University, Washington, District of Columbia, 
+USA.
+
+INTRODUCTION: Formal dementia ascertainment with research criteria is 
+resource-intensive, prompting the growing use of alternative approaches. Our 
+objective was to illustrate the potential bias and implications for study 
+conclusions introduced through the use of alternate dementia ascertainment 
+approaches.
+METHODS: We compared dementia prevalence and risk factor associations obtained 
+using criterion-standard dementia diagnoses to those obtained using algorithmic 
+or Medicare-based dementia ascertainment in participants of the baseline visit 
+of the Aging, Demographics, and Memory Study (ADAMS), a Health and Retirement 
+Study (HRS) sub-study.
+RESULTS: Estimates of dementia prevalence derived using algorithmic or 
+Medicare-based ascertainment differ substantially from those obtained using 
+criterion-standard ascertainment. Use of algorithmic or Medicare-based dementia 
+ascertainment can, but does not always, lead to risk factor associations that 
+substantially differ from those obtained using criterion-standard ascertainment.
+DISCUSSION/CONCLUSIONS: Absolute estimates of dementia prevalence should rely on 
+samples with formal dementia ascertainment. The use of multiple algorithms is 
+recommended for risk factor studies when formal dementia ascertainment is not 
+available.
+
+© 2020 S. Karger AG, Basel.
+
+DOI: 10.1159/000510753
+PMCID: PMC7725984
+PMID: 33075766 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest Statement: The authors 
+have no conflicts of interest to declare.

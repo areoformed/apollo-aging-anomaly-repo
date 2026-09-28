@@ -1,0 +1,82 @@
+cohort,name,endpoint_age,deceased,age_band,pop_demfree_p,observed_superager
+Apollo,Alan Bean,86.2,True,85-89,0.791,True
+Apollo,Alfred Worden,88.1,True,85-89,0.791,True
+Apollo,Buzz Aldrin,96.4,False,95-+,0.507,True
+Apollo,Charles Duke,90.7,False,90-94,0.697,True
+Apollo,David Scott,94.0,False,90-94,0.697,True
+Apollo,Edgar Mitchell,85.4,True,85-89,0.791,True
+Apollo,Eugene Cernan,82.8,True,80-84,0.866,True
+Apollo,Frank Borman,95.7,True,95-+,0.507,True
+Apollo,Fred Haise,92.6,False,90-94,0.697,True
+Apollo,Harrison Schmitt,90.9,False,90-94,0.697,True
+Apollo,Jim Lovell,97.4,True,95-+,0.507,True
+Apollo,John Young,87.3,True,85-89,0.791,True
+Apollo,Ken Mattingly,87.6,True,85-89,0.791,False
+Apollo,Michael Collins,90.5,True,90-94,0.697,True
+Apollo,Neil Armstrong,82.1,True,80-84,0.866,True
+Apollo,Richard Gordon,88.1,True,85-89,0.791,True
+Apollo,Thomas Stafford,93.5,True,90-94,0.697,True
+Apollo,William Anders,90.6,True,90-94,0.697,True
+Apollo,James Alton McDivitt Jr.,93.3,True,90-94,0.697,True
+Apollo,Ronnie Walter Cunningham,90.8,True,90-94,0.697,True
+Apollo,Russell Louis Schweickart,90.6,False,90-94,0.697,True
+Apollo,Walter Marty Schirra Jr.,84.1,True,80-84,0.866,True
+NASA non-Apollo flew (no pre1970 acc),Anthony Wayne England,84.1,False,80-84,0.866,True
+NASA non-Apollo flew (no pre1970 acc),Bruce McCandless II,80.5,True,80-84,0.866,False
+NASA non-Apollo flew (no pre1970 acc),Don Leslie Lind,92.3,True,90-94,0.697,True
+NASA non-Apollo flew (no pre1970 acc),Donald Herod Peterson,84.6,True,80-84,0.866,False
+NASA non-Apollo flew (no pre1970 acc),Edward George Gibson,89.6,False,85-89,0.791,True
+NASA non-Apollo flew (no pre1970 acc),Franklin Story Musgrave,90.8,False,90-94,0.697,True
+NASA non-Apollo flew (no pre1970 acc),Gerald Paul Carr,88.0,True,85-89,0.791,True
+NASA non-Apollo flew (no pre1970 acc),Henry Warren Hartsfield Jr.,80.7,True,80-84,0.866,False
+NASA non-Apollo flew (no pre1970 acc),Jack Robert Lousma,90.3,False,90-94,0.697,True
+NASA non-Apollo flew (no pre1970 acc),John Herschel Glenn Jr.,95.4,True,95-+,0.507,True
+NASA non-Apollo flew (no pre1970 acc),Joseph Henry Engle,91.9,True,90-94,0.697,True
+NASA non-Apollo flew (no pre1970 acc),Joseph Percival Allen IV,88.9,False,85-89,0.791,True
+NASA non-Apollo flew (no pre1970 acc),Joseph Peter Kerwin,94.3,False,90-94,0.697,True
+NASA non-Apollo flew (no pre1970 acc),"Karol Joseph ""Bo"" Bobko",85.6,True,85-89,0.791,False
+NASA non-Apollo flew (no pre1970 acc),Malcolm Scott Carpenter,88.4,True,85-89,0.791,True
+NASA non-Apollo flew (no pre1970 acc),Owen Kay Garriott,88.4,True,85-89,0.791,True
+NASA non-Apollo flew (no pre1970 acc),Paul Joseph Weitz,85.2,True,85-89,0.791,False
+NASA non-Apollo flew (no pre1970 acc),Richard Harrison Truly,86.3,True,85-89,0.791,False
+NASA non-Apollo flew (no pre1970 acc),Robert Allan Ridley Parker,89.5,False,85-89,0.791,False
+NASA non-Apollo flew (no pre1970 acc),Robert Laurel Crippen,88.7,False,85-89,0.791,True
+NASA non-Apollo flew (no pre1970 acc),Vance DeVoe Brand,95.1,False,95-+,0.507,True
+NASA non-Apollo flew (no pre1970 acc),William Edgar Thornton,91.7,True,90-94,0.697,True
+NASA non-Apollo flew (no pre1970 acc),William Reid Pogue,84.1,True,80-84,0.866,True
+GPT available non-Apollo (55),Albert Hanlin Crews Jr.,96.2,True,95-+,0.507,True
+GPT available non-Apollo (55),Francis Gregory Neubeck,94.1,False,90-94,0.697,False
+GPT available non-Apollo (55),James Alan Abrahamson,93.0,False,90-94,0.697,True
+GPT available non-Apollo (55),Lachlan Macleay,95.0,False,90-94,0.697,True
+GPT available non-Apollo (55),Albert Scott Crossfield,84.5,True,80-84,0.866,True
+GPT available non-Apollo (55),Alvin Swauger White,87.4,True,85-89,0.791,False
+GPT available non-Apollo (55),Robert Michael White,85.7,True,85-89,0.791,True
+GPT available non-Apollo (55),William Harvey Dana,83.5,True,80-84,0.866,False
+GPT available non-Apollo (55),Anthony Wayne England,84.1,False,80-84,0.866,True
+GPT available non-Apollo (55),Bruce McCandless II,80.5,True,80-84,0.866,False
+GPT available non-Apollo (55),Don Leslie Lind,92.3,True,90-94,0.697,True
+GPT available non-Apollo (55),Donald Herod Peterson,84.6,True,80-84,0.866,False
+GPT available non-Apollo (55),Donald Lee Holmquest,87.2,False,85-89,0.791,False
+GPT available non-Apollo (55),"Duane Edgar ""Doc"" Graveline",85.5,True,85-89,0.791,True
+GPT available non-Apollo (55),Edward George Gibson,89.6,False,85-89,0.791,True
+GPT available non-Apollo (55),Frank Curtis Michel,80.7,True,80-84,0.866,True
+GPT available non-Apollo (55),Franklin Story Musgrave,90.8,False,90-94,0.697,True
+GPT available non-Apollo (55),Gerald Paul Carr,88.0,True,85-89,0.791,True
+GPT available non-Apollo (55),Henry Warren Hartsfield Jr.,80.7,True,80-84,0.866,False
+GPT available non-Apollo (55),Jack Robert Lousma,90.3,False,90-94,0.697,True
+GPT available non-Apollo (55),John Anthony Llewellyn,80.2,True,80-84,0.866,False
+GPT available non-Apollo (55),John Herschel Glenn Jr.,95.4,True,95-+,0.507,True
+GPT available non-Apollo (55),Joseph Henry Engle,91.9,True,90-94,0.697,True
+GPT available non-Apollo (55),Joseph Percival Allen IV,88.9,False,85-89,0.791,True
+GPT available non-Apollo (55),Joseph Peter Kerwin,94.3,False,90-94,0.697,True
+GPT available non-Apollo (55),"Karol Joseph ""Bo"" Bobko",85.6,True,85-89,0.791,False
+GPT available non-Apollo (55),Malcolm Scott Carpenter,88.4,True,85-89,0.791,True
+GPT available non-Apollo (55),Owen Kay Garriott,88.4,True,85-89,0.791,True
+GPT available non-Apollo (55),Paul Joseph Weitz,85.2,True,85-89,0.791,False
+GPT available non-Apollo (55),Philip Kenyon Chapman,86.1,True,85-89,0.791,True
+GPT available non-Apollo (55),Richard Harrison Truly,86.3,True,85-89,0.791,False
+GPT available non-Apollo (55),Robert Allan Ridley Parker,89.5,False,85-89,0.791,False
+GPT available non-Apollo (55),Robert Laurel Crippen,88.7,False,85-89,0.791,True
+GPT available non-Apollo (55),Vance DeVoe Brand,95.1,False,95-+,0.507,True
+GPT available non-Apollo (55),William Edgar Thornton,91.7,True,90-94,0.697,True
+GPT available non-Apollo (55),William Reid Pogue,84.1,True,80-84,0.866,True

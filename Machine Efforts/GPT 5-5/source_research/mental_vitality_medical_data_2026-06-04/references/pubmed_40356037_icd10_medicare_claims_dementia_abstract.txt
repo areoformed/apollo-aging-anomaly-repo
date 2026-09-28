@@ -1,0 +1,75 @@
+1. Alzheimers Dement. 2025 May;21(5):e70200. doi: 10.1002/alz.70200.
+
+Evaluating linked ICD-10 Medicare claims data as a method of dementia case 
+ascertainment in research settings.
+
+Bhattacharyya J(1), Barnes LL(2)(3), Chen Y(2), Gianattasio KZ(4), Grodstein 
+F(2)(5), James BD(2)(5), Marquez DX(2)(6), Moghtaderi A(7), Prather C(8), Rein 
+DB(4), Shah RC(2)(9), Stapp EK(1), Power MC(1).
+
+Author information:
+(1)Department of Epidemiology, George Washington University, Washington, 
+District of Columbia, USA.
+(2)Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, 
+Illinois, USA.
+(3)Department of Neurological Sciences, Rush University Medical Center, Chicago, 
+Illinois, USA.
+(4)NORC at the University of Chicago, Bethesda, Maryland, USA.
+(5)Department of Internal Medicine, Rush University Medical Center, Chicago, 
+Illinois, USA.
+(6)Department of Kinesiology and Nutrition, University of Illinois Chicago, 
+Chicago, Illinois, USA.
+(7)Department of Health Policy and Management, George Washington University, 
+Washington, District of Columbia, USA.
+(8)Department of Internal Medicine, School of Medicine and Health Sciences, 
+George Washington University, Washington, District of Columbia, USA.
+(9)Department of Family and Preventive Medicine, Rush University Medical Center, 
+Chicago, Illinois, USA.
+
+Erratum in
+    Alzheimers Dement. 2026 Jan;22(1):e71161. doi: 10.1002/alz.71161.
+
+INTRODUCTION: US Medicare claims can be used to identify dementia cases for 
+research. Our objective was to evaluate the performance of International 
+Classification of Diseases, 10th Revision (ICD-10) code definitions versus 
+research-based dementia ascertainment.
+METHODS: Participants of five Rush Alzheimer's Disease Center (RADC) cohorts 
+with study visits between October 2015 and December 2019 and fee-for-service 
+Medicare contributed observations. For each observation, we compared 
+research-based dementia status to dementia status based on six ICD-10 code 
+definitions.
+RESULTS: A total of 1869 participants contributed 5309 observations (mean age 
+82.9 years, 21.0% Black, 9.3% met research-based dementia criteria). The 
+accuracy of ICD-10 code definitions was high (87%-90%); five of six code 
+definitions favored specificity over sensitivity. All ICD-10 code definitions 
+were less accurate among subgroups defined by older age, minoritized race, 
+increased depressive symptoms, and history of stroke.
+DISCUSSION: Performance of ICD-10 code definitions mirrored that of ICD-9 code 
+definitions. Awareness of differential performance by participant 
+characteristics can improve the robustness of research.
+HIGHLIGHTS: We report the performance of the International Classification of 
+Diseases, 10th Revision (ICD-10) code versus research-based dementia 
+ascertainment. ICD-10 performed worse with age, depressive symptoms, minoritized 
+race, and stroke. Awareness of accuracy and differential performance can improve 
+research robustness.
+
+© 2025 The Author(s). Alzheimer's & Dementia published by Wiley Periodicals LLC 
+on behalf of Alzheimer's Association.
+
+DOI: 10.1002/alz.70200
+PMCID: PMC12069012
+PMID: 40356037 [Indexed for MEDLINE]
+
+Conflict of interest statement: Kan Z. Gianattasio and David B. Rein report 
+grants from the US National Institute on Aging. Christina Prather reports 
+research grants from the US National Institutes of Health and Agency for 
+Healthcare Research and Quality and is/was a paid consultant for the Alzheimer's 
+Association. Raj C. Shah reports being the site principal investigator or 
+sub‐investigator for Alzheimer's disease clinical trials for which his 
+institution (Rush University Medical Center) is/was compensated during the past 
+24 months (Athira Pharma, Inc., Edgewater NEXT, Eisai, Inc., Eli Lilly & Co., 
+Inc., and Genentech, Inc.). Melinda C. Power reports research grants from the US 
+National Institutes of Health and US Department of Defense, and prior service as 
+a paid member of the Biogen Healthy Climate, Healthy Lives Scientific Advisory 
+Council. Other authors declare no conflicts of interest. Author disclosures are 
+available in the supporting information.

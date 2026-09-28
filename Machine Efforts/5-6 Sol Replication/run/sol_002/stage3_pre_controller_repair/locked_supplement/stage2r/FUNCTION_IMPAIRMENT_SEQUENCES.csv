@@ -1,0 +1,13 @@
+group,locked_person_level_state,person_count,interpretation
+APOLLO_FLEW,FUNCTION_ONLY,2,Locked function/impairment evidence sequence.
+APOLLO_FLEW,IMPAIRMENT_ONLY,0,Locked function/impairment evidence sequence.
+APOLLO_FLEW,FUNCTION_THEN_IMPAIRMENT,0,Locked function/impairment evidence sequence.
+APOLLO_FLEW,IMPAIRMENT_THEN_FUNCTION,1,Locked function/impairment evidence sequence.
+APOLLO_FLEW,BOTH_ORDER_INDETERMINATE_OR_SAME_DATE,0,Locked function/impairment evidence sequence.
+APOLLO_FLEW,NEITHER_FOUND,19,Public evidence state; no health ordering is assigned.
+OTHER_ALL,FUNCTION_ONLY,2,Locked function/impairment evidence sequence.
+OTHER_ALL,IMPAIRMENT_ONLY,0,Locked function/impairment evidence sequence.
+OTHER_ALL,FUNCTION_THEN_IMPAIRMENT,0,Locked function/impairment evidence sequence.
+OTHER_ALL,IMPAIRMENT_THEN_FUNCTION,0,Locked function/impairment evidence sequence.
+OTHER_ALL,BOTH_ORDER_INDETERMINATE_OR_SAME_DATE,0,Locked function/impairment evidence sequence.
+OTHER_ALL,NEITHER_FOUND,33,Public evidence state; no health ordering is assigned.

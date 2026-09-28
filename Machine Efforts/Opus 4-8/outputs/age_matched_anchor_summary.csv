@@ -1,0 +1,4 @@
+cohort,n_survivors,observed_superagers,expected_superagers_pop,ratio,p_poisbin_ge
+Apollo,22,21,15.834999999999996,1.326176191979792,0.005786116390479572
+NASA non-Apollo flew (no pre1970 acc),23,16,17.436,0.9176416609314063,0.8348675400758049
+GPT available non-Apollo (55),36,24,27.453,0.874221396568681,0.939926495593321

@@ -1,0 +1,8 @@
+source,url,use,access_result,notes
+SSA Actuarial Study 120 Table 11,https://www.ssa.gov/oact/NOTES/as120/LifeTables_Tbl_11.html,Exact annual male cohort life expectancy at birth,opened,Official SSA source.
+"SSA Actuarial Study 120 Table 7, 1920 male cohort",https://www.ssa.gov/oact/NOTES/as120/LifeTables_Tbl_7_1920.html,Male l_80/100000 anchor for birth-year interpolation,opened,Official SSA source.
+"SSA Actuarial Study 120 Table 7, 1930 male cohort",https://www.ssa.gov/oact/NOTES/as120/LifeTables_Tbl_7_1930.html,Male l_80/100000 anchor for birth-year interpolation,opened,Official SSA source.
+"SSA Actuarial Study 120 Table 7, 1940 male cohort",https://www.ssa.gov/oact/NOTES/as120/LifeTables_Tbl_7_1940.html,Male l_80/100000 anchor for birth-year interpolation,opened,Official SSA source.
+"SSA Actuarial Study 120 Table 7, 1950 male cohort",https://www.ssa.gov/oact/NOTES/as120/LifeTables_Tbl_7_1950.html,Male l_80/100000 anchor for birth-year interpolation,opened,Official SSA source.
+SSA life-table function definitions,https://www.ssa.gov/oact/HistEst/CohLifeTables/LifeTableDefinitions.pdf,"Definitions of qx, lx, Lx, Tx, and ex",opened,Official SSA source.
+SSA 2023 Trustees Report male cohort CSV,https://www.ssa.gov/oact/HistEst/CohLifeTables/2023/CohLifeTables_M_Alt2_TR2023.csv,Preferred full single-year table,inaccessible,Web preview truncated; local DNS blocked. Replaced before models by official AS120 fallback.

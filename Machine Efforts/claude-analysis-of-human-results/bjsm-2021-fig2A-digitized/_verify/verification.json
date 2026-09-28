@@ -1,0 +1,32 @@
+{
+  "fig2A": {
+    "male_olympians": {
+      "n_columns": 420,
+      "mean_abs_dev_px": 0.9416786940630806,
+      "max_abs_dev_px": 5.69999999999979,
+      "mean_abs_dev_survival_pct": 0.30220206190106486,
+      "max_abs_dev_survival_pct": 1.8292351347609621
+    },
+    "female_olympians": {
+      "n_columns": 487,
+      "mean_abs_dev_px": 1.1347035656515851,
+      "max_abs_dev_px": 5.1762711864408,
+      "mean_abs_dev_survival_pct": 0.3641473034786839,
+      "max_abs_dev_survival_pct": 1.661160898471697
+    },
+    "male_population": {
+      "n_columns": 218,
+      "mean_abs_dev_px": 0.5167340579506471,
+      "max_abs_dev_px": 2.910169491525373,
+      "mean_abs_dev_survival_pct": 0.16582949019841503,
+      "max_abs_dev_survival_pct": 0.9339270670189216
+    },
+    "female_population": {
+      "n_columns": 304,
+      "mean_abs_dev_px": 0.8779817479065333,
+      "max_abs_dev_px": 5.46440677966109,
+      "mean_abs_dev_survival_pct": 0.2817605370086898,
+      "max_abs_dev_survival_pct": 1.7536289249091996
+    }
+  }
+}

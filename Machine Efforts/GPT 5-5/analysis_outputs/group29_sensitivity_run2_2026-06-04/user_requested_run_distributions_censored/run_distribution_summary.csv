@@ -1,0 +1,26 @@
+mortality_scenario_key,mortality_scenario,hazard_scale,iterations,seed,age22_mean_bin_midpoint,age22_p02_5_bin,age22_p50_bin,age22_p97_5_bin,age13_mean_bin_midpoint,age13_p02_5_bin,age13_p50_bin,age13_p97_5_bin,vitality_rate_key,vitality_rate,vitality_rate_pct,vitality_count_mean,vitality_count_p02_5,vitality_count_p50,vitality_count_p97_5,p_vitality_count_ge_21
+ssa_general_age30,"SSA general male, age-30 selected",1.0,1000000,15170507,65.71619,56,65,74,79.119056,72,79,84,,,,,,,,
+ssa_general_age30,"SSA general male, age-30 selected",1.0,1000000,15170507,,,,,,,,,mhas_lower_16_17pct,0.16167664670658682,16.16766467065868,1.932612,0,2,5,0.0
+ssa_general_age30,"SSA general male, age-30 selected",1.0,1000000,15170507,,,,,,,,,interior_low_33_45pct,0.33445109780439125,33.445109780439125,3.997768,1,4,8,0.0
+ssa_general_age30,"SSA general male, age-30 selected",1.0,1000000,15170507,,,,,,,,,interior_high_50_72pct,0.5072255489021957,50.72255489021957,6.062382,2,6,11,0.0
+ssa_general_age30,"SSA general male, age-30 selected",1.0,1000000,15170507,,,,,,,,,hcap_upper_68pct,0.68,68.0,8.130835,4,8,13,1e-06
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.85,1000000,15170507,67.784639,57,67,76,81.164468,74,81,86,,,,,,,,
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.85,1000000,15170507,,,,,,,,,mhas_lower_16_17pct,0.16167664670658682,16.16766467065868,2.207924,0,2,5,0.0
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.85,1000000,15170507,,,,,,,,,interior_low_33_45pct,0.33445109780439125,33.445109780439125,4.563785,1,4,9,0.0
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.85,1000000,15170507,,,,,,,,,interior_high_50_72pct,0.5072255489021957,50.72255489021957,6.926774,3,7,12,0.0
+modestly_healthy_15pct_lower_hazard,"Modestly healthy, 15 pct lower hazard",0.85,1000000,15170507,,,,,,,,,hcap_upper_68pct,0.68,68.0,9.283637,5,9,14,5e-06
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.7,1000000,15170507,70.302548,60,70,78,83.536871,77,83,88,,,,,,,,
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.7,1000000,15170507,,,,,,,,,mhas_lower_16_17pct,0.16167664670658682,16.16766467065868,2.524769,0,2,6,0.0
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.7,1000000,15170507,,,,,,,,,interior_low_33_45pct,0.33445109780439125,33.445109780439125,5.218361,2,5,10,0.0
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.7,1000000,15170507,,,,,,,,,interior_high_50_72pct,0.5072255489021957,50.72255489021957,7.915713,3,8,13,0.0
+healthy_30pct_lower_hazard,"Healthy, 30 pct lower hazard",0.7,1000000,15170507,,,,,,,,,hcap_upper_68pct,0.68,68.0,10.610803,6,11,16,9.6e-05
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.55,1000000,15170507,73.45275,63,73,81,86.362723,80,86,91,,,,,,,,
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.55,1000000,15170507,,,,,,,,,mhas_lower_16_17pct,0.16167664670658682,16.16766467065868,2.881865,0,3,6,0.0
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.55,1000000,15170507,,,,,,,,,interior_low_33_45pct,0.33445109780439125,33.445109780439125,5.958721,2,6,10,0.0
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.55,1000000,15170507,,,,,,,,,interior_high_50_72pct,0.5072255489021957,50.72255489021957,9.034107,4,9,14,3e-06
+very_healthy_45pct_lower_hazard,"Very healthy, 45 pct lower hazard",0.55,1000000,15170507,,,,,,,,,hcap_upper_68pct,0.68,68.0,12.11395,7,12,17,0.000878
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.45717072413853527,1000000,15170507,75.867632,65,76,84,88.474353,82,88,93,,,,,,,,
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.45717072413853527,1000000,15170507,,,,,,,,,mhas_lower_16_17pct,0.16167664670658682,16.16766467065868,3.126144,0,3,7,0.0
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.45717072413853527,1000000,15170507,,,,,,,,,interior_low_33_45pct,0.33445109780439125,33.445109780439125,6.470026,2,6,11,0.0
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.45717072413853527,1000000,15170507,,,,,,,,,interior_high_50_72pct,0.5072255489021957,50.72255489021957,9.810315,5,10,15,3e-05
+apollo_smr_like_54pct_lower_hazard,Apollo-SMR-like hazard scale,0.45717072413853527,1000000,15170507,,,,,,,,,hcap_upper_68pct,0.68,68.0,13.149482,8,13,18,0.003049

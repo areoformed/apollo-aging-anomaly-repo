@@ -1,0 +1,8 @@
+Apollo 29: n=29 O=23 E=46.896 SMR=0.490 Byar[0.311,0.736] hit80=22 grandpa=19 rate=0.864 births 1923-1936
+non-Apollo Groups 1-5 survivors: n=18 O=14 E=29.051 SMR=0.482 Byar[0.263,0.809] hit80=15 grandpa=13 rate=0.867 births 1921-1937
+non-Apollo Groups 6-7: n=18 O=12 E=21.450 SMR=0.559 Byar[0.289,0.977] hit80=13 grandpa=6 rate=0.462 births 1926-1942
+  Groups 6-7 members: [('IV', 6, 89, 'SG'), ('Bobko', 7, 86, '80+'), ('Chapman', 6, 86, 'SG'), ('Crippen', 7, 89, 'SG'), ('England', 6, 84, 'SG'), ('Fullerton', 7, 77, '<80'), ('Hartsfield', 7, 81, '80+'), ('Henize', 6, 67, '<80'), ('Holmquest', 6, 87, '80+'), ('Lenoir', 6, 71, '<80'), ('Llewellyn', 6, 80, '80+'), ('Musgrave', 6, 91, 'SG'), ("O'Leary", 6, 71, '<80'), ('Overmyer', 7, 60, '<80'), ('Parker', 6, 90, '80+'), ('Peterson', 7, 85, '80+'), ('Thornton', 6, 92, 'SG'), ('Truly', 7, 87, '80+')]
+  Groups 1-5 non-Apollo: [('Brand', 5, 95, 'SG'), ('Bull', 5, 74, '<80'), ('Carpenter', 1, 88, 'SG'), ('Carr', 5, 88, 'SG'), ('Cooper', 1, 77, '<80'), ('Engle', 5, 92, 'SG'), ('Garriott', 4, 89, 'SG'), ('Gibson', 4, 90, 'SG'), ('Glenn', 1, 95, 'SG'), ('Graveline', 4, 85, 'SG'), ('Kerwin', 4, 94, 'SG'), ('Lind', 5, 92, 'SG'), ('Lousma', 5, 90, 'SG'), ('II', 5, 80, '80+'), ('Michel', 4, 81, 'SG'), ('Pogue', 5, 84, 'SG'), ('Slayton', 1, 69, '<80'), ('Weitz', 5, 85, '80+')]
+Fisher one-sided P(Apollo SG >= 19 | 22 hit-80, like-for-like Groups 1-5): 0.688
+  vs. full 65-pool comparator: 0.117
+  SMR ratio Apollo / G1-5 others = 1.018

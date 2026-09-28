@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="1080px" viewBox="0 0 1440 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Apollo Astronauts Age</title>
+    <g id="Apollo-Astronauts-Age" stroke="none" fill="none" fill-rule="evenodd" stroke-width="1">
+        <g id="age_29cohort_with_living" transform="translate(0, 88)">
+            <g transform="translate(-22.7097, 0)" id="Group">
+                <g id="background">
+                    <rect id="Rectangle" x="20" y="-23" width="1443" height="950"></rect>
+                </g>
+                <g id="title" transform="translate(289.9767, 36.8055)" fill-rule="nonzero">
+                    <text id="Apollo-Astronauts-Ag" fill="#111111" font-family="AGaramondPro-Regular, Adobe Garamond Pro" font-size="42" font-weight="normal">
+                        <tspan x="163" y="-4">Apollo Astronauts Age Distribution</tspan>
+                    </text>
+                    <text id="29-astronaut-cohort," fill="#777777" font-family="SFMono-Light, SF Mono" font-size="11" font-weight="300">
+                        <tspan x="187.737939" y="26.3440707">29-astronaut cohort, lunar + Earth-orbit · data collected + computed by hand - </tspan>
+                        <tspan x="221.736963" y="39.3440707">graphed via Claude-generated script + Sketch App (current age, 2026)</tspan>
+                    </text>
+                </g>
+                <g id="grid-yaxis" transform="translate(92.6394, 105.6626)">
+                    <g id="Grid" transform="translate(31.299, 7.4374)">
+                        <line x1="0.89164278" y1="670.584976" x2="1284.85725" y2="670.584976" id="Path" stroke="#ECECEC" fill="#999999"></line>
+                        <line x1="0.89164278" y1="614.836477" x2="1284.85725" y2="614.836477" id="Path" stroke="#ECECEC" fill="#999999"></line>
+                        <line x1="0.89164278" y1="558.909869" x2="1284.85725" y2="558.909869" id="Path" stroke="#ECECEC" fill="#999999"></line>
+                        <line x1="0.89164278" y1="503.16137" x2="1284.85725" y2="503.16137" id="Path" stroke="#ECECEC" fill="#999999"></line>
+                        <line x1="0.89164278" y1="447.412871" x2="1284.85725" y2="447.412871" id="Path" stroke="#ECECEC" fill="#999999"></line>
+                        <line x1="0.89164278" y1="391.486262" x2="1284.85725" y2="391.486262" id="Path" stroke="#ECECEC" fill="#999999"></line>
+                        <line x1="0.89164278" y1="335.737764" x2="1284.85725" y2="335.737764" id="Path" stroke="#ECECEC" fill="#999999"></line>
+                        <line x1="0.89164278" y1="279.989265" x2="1284.85725" y2="279.989265" id="Path" stroke="#ECECEC" fill="#999999"></line>
+                        <line x1="0.89164278" y1="224.062656" x2="1284.85725" y2="224.062656" id="Path" stroke="#ECECEC" fill="#999999"></line>
+                        <line x1="0.89164278" y1="168.314157" x2="1284.85725" y2="168.314157" id="Path" stroke="#ECECEC" fill="#999999"></line>
+                        <line x1="0.89164278" y1="112.565659" x2="1284.85725" y2="112.565659" id="Path" stroke="#ECECEC" fill="#999999"></line>
+                        <line x1="0.89164278" y1="56.6390498" x2="1284.85725" y2="56.6390498" id="Path" stroke="#ECECEC" fill="#999999"></line>
+                        <line x1="0.89164278" y1="0.890551097" x2="1284.85725" y2="0.890551097" id="Path" stroke="#ECECEC" fill="#999999"></line>
+                        <g id="x-ticks" transform="translate(0, 670.585)" fill="#2B2B2B" stroke="#2B2B2B">
+                            <line x1="0.89164278" y1="0" x2="0.89164278" y2="14.2488176" id="Path" stroke-width="1.5"></line>
+                            <line x1="72.2230652" y1="0" x2="72.2230652" y2="8.90551097" id="Path"></line>
+                            <line x1="143.554488" y1="0" x2="143.554488" y2="14.2488176" id="Path" stroke-width="1.5"></line>
+                            <line x1="214.88591" y1="0" x2="214.88591" y2="8.90551097" id="Path"></line>
+                            <line x1="286.217332" y1="0" x2="286.217332" y2="14.2488176" id="Path" stroke-width="1.5"></line>
+                            <line x1="357.548755" y1="0" x2="357.548755" y2="8.90551097" id="Path"></line>
+                            <line x1="428.880177" y1="0" x2="428.880177" y2="14.2488176" id="Path" stroke-width="1.5"></line>
+                            <line x1="500.2116" y1="0" x2="500.2116" y2="8.90551097" id="Path"></line>
+                            <line x1="571.543022" y1="0" x2="571.543022" y2="14.2488176" id="Path" stroke-width="1.5"></line>
+                            <line x1="642.874444" y1="0" x2="642.874444" y2="8.90551097" id="Path"></line>
+                            <line x1="714.205867" y1="0" x2="714.205867" y2="14.2488176" id="Path" stroke-width="1.5"></line>
+                            <line x1="785.537289" y1="0" x2="785.537289" y2="8.90551097" id="Path"></line>
+                            <line x1="856.868711" y1="0" x2="856.868711" y2="14.2488176" id="Path" stroke-width="1.5"></line>
+                            <line x1="928.200134" y1="0" x2="928.200134" y2="8.90551097" id="Path"></line>
+                            <line x1="999.531556" y1="0" x2="999.531556" y2="14.2488176" id="Path" stroke-width="1.5"></line>
+                            <line x1="1070.86298" y1="0" x2="1070.86298" y2="8.90551097" id="Path"></line>
+                            <line x1="1142.1944" y1="0" x2="1142.1944" y2="14.2488176" id="Path" stroke-width="1.5"></line>
+                            <line x1="1213.52582" y1="0" x2="1213.52582" y2="8.90551097" id="Path"></line>
+                            <line x1="1284.85725" y1="0" x2="1284.85725" y2="14.2488176" id="Path" stroke-width="1.5"></line>
+                        </g>
+                    </g>
+                    <g id="y-axis-labels" transform="translate(0.1203, 0.1065)" fill="#999999" fill-rule="nonzero" font-family="SFMono-Regular, SF Mono" font-size="14" font-weight="normal">
+                        <text id="0">
+                            <tspan x="9.21369894" y="681.728403">0</tspan>
+                        </text>
+                        <text id="1">
+                            <tspan x="9.21369894" y="626.262667">1</tspan>
+                        </text>
+                        <text id="2">
+                            <tspan x="9.21369894" y="570.796931">2</tspan>
+                        </text>
+                        <text id="3">
+                            <tspan x="9.21369894" y="515.331195">3</tspan>
+                        </text>
+                        <text id="4">
+                            <tspan x="9.21369894" y="458.818936">4</tspan>
+                        </text>
+                        <text id="5">
+                            <tspan x="9.21369894" y="403.3532">5</tspan>
+                        </text>
+                        <text id="6">
+                            <tspan x="9.21369894" y="347.887463">6</tspan>
+                        </text>
+                        <text id="7">
+                            <tspan x="9.21369894" y="291.375204">7</tspan>
+                        </text>
+                        <text id="8">
+                            <tspan x="9.21369894" y="235.909468">8</tspan>
+                        </text>
+                        <text id="9">
+                            <tspan x="9.21369894" y="180.443732">9</tspan>
+                        </text>
+                        <text id="10">
+                            <tspan x="0" y="123.931472">10</tspan>
+                        </text>
+                        <text id="11">
+                            <tspan x="0" y="68.4657361">11</tspan>
+                        </text>
+                        <text id="12">
+                            <tspan x="0" y="13">12</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="bars-deceased" transform="translate(420.1421, 448.8378)" fill="#274060" fill-opacity="0.852011614">
+                    <rect id="dead-50" x="0" y="279.098714" width="51.3586241" height="55.7484987"></rect>
+                    <rect id="dead-55" x="71.3314224" y="223.172105" width="51.3586241" height="111.675108"></rect>
+                    <rect id="dead-60" x="142.662845" y="223.172105" width="51.3586241" height="111.675108"></rect>
+                    <rect id="dead-65" x="213.994267" y="279.098714" width="51.3586241" height="55.7484987"></rect>
+                    <rect id="dead-70" x="285.32569" y="279.098714" width="51.3586241" height="55.7484987"></rect>
+                    <rect id="dead-80" x="427.988534" y="167.423606" width="51.3586241" height="167.423606"></rect>
+                    <rect id="dead-85" x="499.319957" y="0" width="51.3586241" height="334.847212"></rect>
+                    <rect id="dead-90" x="570.651379" y="55.7484987" width="51.3586241" height="279.098714"></rect>
+                    <rect id="dead-95" x="641.982802" y="223.172105" width="51.3586241" height="111.675108"></rect>
+                </g>
+                <g id="bars-living" transform="translate(990.7935, 225.6656)" fill="#DACDCC">
+                    <rect id="alive-90" x="0" y="0" width="51.3586241" height="279.098714"></rect>
+                    <rect id="alive-95" x="71.3314224" y="390.595711" width="51.3586241" height="55.7484987"></rect>
+                </g>
+                <g id="value-labels" transform="translate(448.5161, 202.1586)" fill="#333333" fill-rule="nonzero" font-family="Helvetica" font-size="11" font-weight="normal">
+                    <text id="1">
+                        <tspan x="0.0467980296" y="512.357389">1</tspan>
+                    </text>
+                    <text id="2">
+                        <tspan x="71.3782204" y="456.43078">2</tspan>
+                    </text>
+                    <text id="2">
+                        <tspan x="142.709643" y="456.43078">2</tspan>
+                    </text>
+                    <text id="1">
+                        <tspan x="214.041065" y="512.357389">1</tspan>
+                    </text>
+                    <text id="1">
+                        <tspan x="285.372488" y="512.357389">1</tspan>
+                    </text>
+                    <text id="3">
+                        <tspan x="428.035332" y="400.682282">3</tspan>
+                    </text>
+                    <text id="6">
+                        <tspan x="499.366755" y="233.258675">6</tspan>
+                    </text>
+                    <text id="10">
+                        <tspan x="573.048034" y="10.0865705">10</tspan>
+                    </text>
+                    <text id="3">
+                        <tspan x="642.0296" y="400.682282">3</tspan>
+                    </text>
+                </g>
+                <g id="x-labels" transform="translate(186.8725, 804.0207)" fill="#444444" fill-rule="nonzero" font-family="SFMono-Light, SF Mono" font-size="14" font-weight="300">
+                    <text id="35">
+                        <tspan x="0.12033779" y="13.1065483">35</tspan>
+                    </text>
+                    <text id="40">
+                        <tspan x="71.3495662" y="13.1065483">40</tspan>
+                    </text>
+                    <text id="45">
+                        <tspan x="142.578795" y="13.1065483">45</tspan>
+                    </text>
+                    <text id="50">
+                        <tspan x="213.808023" y="13.1065483">50</tspan>
+                    </text>
+                    <text id="55">
+                        <tspan x="285.037251" y="13.1065483">55</tspan>
+                    </text>
+                    <text id="60">
+                        <tspan x="356.26648" y="13.1065483">60</tspan>
+                    </text>
+                    <text id="65">
+                        <tspan x="427.495708" y="13.1065483">65</tspan>
+                    </text>
+                    <text id="70">
+                        <tspan x="498.724936" y="13.1065483">70</tspan>
+                    </text>
+                    <text id="75">
+                        <tspan x="569.954165" y="13.1065483">75</tspan>
+                    </text>
+                    <text id="80">
+                        <tspan x="641.183393" y="13.1065483">80</tspan>
+                    </text>
+                    <text id="85">
+                        <tspan x="712.412622" y="13.1065483">85</tspan>
+                    </text>
+                    <text id="90">
+                        <tspan x="783.64185" y="13.1065483">90</tspan>
+                    </text>
+                    <text id="95">
+                        <tspan x="854.871078" y="13.1065483">95</tspan>
+                    </text>
+                    <text id="100">
+                        <tspan x="921.052818" y="13.1065483">100</tspan>
+                    </text>
+                    <text id="105">
+                        <tspan x="993.329535" y="13.1065483">105</tspan>
+                    </text>
+                    <text id="110">
+                        <tspan x="1065.60625" y="13.1065483">110</tspan>
+                    </text>
+                    <text id="115">
+                        <tspan x="1137.88297" y="13.1065483">115</tspan>
+                    </text>
+                    <text id="120">
+                        <tspan x="1210.15969" y="13.1065483">120</tspan>
+                    </text>
+                </g>
+                <g id="axis-baseline" transform="translate(124.83, 782.7944)" fill="#000000" stroke="#333333" stroke-width="1.5">
+                    <line x1="0" y1="0.890551097" x2="1283.9656" y2="0.890551097" id="Path"></line>
+                </g>
+                <g id="axis-titles" transform="translate(702.276, 862.5394)" fill="#C1C7C9" fill-rule="nonzero" font-family="AGaramondPro-Regular, Adobe Garamond Pro" font-size="32" font-weight="normal">
+                    <text id="age">
+                        <tspan x="44.5482055" y="1.27968923">age</tspan>
+                    </text>
+                    <text id="#-count" transform="translate(-635.6654, -454.2383) rotate(-90) translate(635.6654, 454.2383)">
+                        <tspan x="-683.665383" y="-447.238323"># count</tspan>
+                    </text>
+                </g>
+                <g id="ssa-overlay" transform="translate(123.9384, 113.1)">
+                    <polyline points="36.56,654.35 107.89,646.56 179.22,633.09 250.55,619.15 321.88,602.47 393.21,578.53 464.55,549.86 535.88,516.36 607.21,487.02 678.54,467.61 749.87,452.11 821.20,454.25 892.53,508.70 963.87,612.64 1035.20,659.04 1106.53,669.26 1177.86,670.51 1249.19,670.58" fill="none" stroke="#B3543F" stroke-width="2.5" stroke-dasharray="6,4" stroke-linejoin="round" stroke-linecap="round"/>
+                    <circle cx="36.56" cy="654.35" r="3" fill="#B3543F"/>
+                    <circle cx="107.89" cy="646.56" r="3" fill="#B3543F"/>
+                    <circle cx="179.22" cy="633.09" r="3" fill="#B3543F"/>
+                    <circle cx="250.55" cy="619.15" r="3" fill="#B3543F"/>
+                    <circle cx="321.88" cy="602.47" r="3" fill="#B3543F"/>
+                    <circle cx="393.21" cy="578.53" r="3" fill="#B3543F"/>
+                    <circle cx="464.55" cy="549.86" r="3" fill="#B3543F"/>
+                    <circle cx="535.88" cy="516.36" r="3" fill="#B3543F"/>
+                    <circle cx="607.21" cy="487.02" r="3" fill="#B3543F"/>
+                    <circle cx="678.54" cy="467.61" r="3" fill="#B3543F"/>
+                    <circle cx="749.87" cy="452.11" r="3" fill="#B3543F"/>
+                    <circle cx="821.20" cy="454.25" r="3" fill="#B3543F"/>
+                    <circle cx="892.53" cy="508.70" r="3" fill="#B3543F"/>
+                    <circle cx="963.87" cy="612.64" r="3" fill="#B3543F"/>
+                    <circle cx="1035.20" cy="659.04" r="3" fill="#B3543F"/>
+                    <circle cx="1106.53" cy="669.26" r="3" fill="#B3543F"/>
+                    <line x1="1092" y1="78" x2="1115" y2="78" stroke="#B3543F" stroke-width="2.5" stroke-dasharray="6,4"/>
+                    <text x="1126" y="83" fill="#555555" font-family="SFMono-Light, SF Mono" font-size="16" font-weight="300">SSA EXPECTED</text>
+                </g>
+                <g id="legend" transform="translate(1216.2008, 112.1149)">
+                    <rect id="Rectangle" fill-opacity="0.85" fill="#274060" x="0" y="0" width="23.1827123" height="23.1543285"></rect>
+                    <text id="DECEASED" fill="#555555" fill-rule="nonzero" font-family="SFMono-Light, SF Mono" font-size="16" font-weight="300" letter-spacing="-0.5">
+                        <tspan x="33.3308167" y="17.4677154">DECEASED</tspan>
+                    </text>
+                    <rect id="Rectangle" fill="#DACDCC" x="0" y="35.6220439" width="23.1827123" height="23.1543285"></rect>
+                    <text id="LIVING" fill="#555555" fill-rule="nonzero" font-family="SFMono-Light, SF Mono" font-size="16" font-weight="300" letter-spacing="-0.5">
+                        <tspan x="33.1333554" y="53.0897592">LIVING</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,96 @@
+research_id,person_id,full_name,search_disambiguator,birth_date,end_date,eligible_age80
+R001,p018_william_a_anders,William A. Anders,NASA astronaut,1933-10-17,2024-06-07,1
+R002,p069_c_gordon_fullerton,C. Gordon Fullerton,NASA astronaut,1936-10-11,2013-08-21,0
+R003,p023_michael_collins,Michael Collins,NASA astronaut,1930-10-31,2021-04-28,1
+R004,p022_roger_b_chaffee,Roger B. Chaffee,NASA astronaut,1935-02-15,1967-01-27,0
+R005,p036_harrison_h_schmitt,Harrison H. Schmitt,NASA astronaut,1935-07-03,2026-06-01,1
+R006,p009_frank_borman,Frank Borman,NASA astronaut,1928-03-14,2023-11-07,1
+R007,p094_robert_t_herres,Robert T. Herres,MOL astronaut,1932-12-01,2008-07-24,0
+R008,p005_walter_m_schirra_jr,Walter M. Schirra Jr.,NASA astronaut,1923-03-12,2007-05-03,1
+R009,p051_william_r_pogue,William R. Pogue,NASA astronaut,1930-01-23,2014-03-03,1
+R010,p030_clifton_c_williams_jr,Clifton C. Williams Jr.,NASA astronaut,1932-09-26,1967-10-05,0
+R011,p011_james_a_lovell_jr,James A. Lovell Jr.,NASA astronaut,1928-03-25,2025-08-07,1
+R012,p078_john_b_mckay,John B. McKay,X-15 test pilot,1922-12-08,1975-04-27,0
+R013,p067_karol_j_bobko,Karol J. Bobko,NASA astronaut,1937-12-23,2023-08-17,1
+R014,p066_william_e_thornton,William E. Thornton,NASA astronaut,1929-04-14,2021-01-11,1
+R015,p060_donald_l_holmquest,Donald L. Holmquest,NASA astronaut,1939-04-07,2026-06-01,1
+R016,p088_john_l_finley,John L. Finley,MOL astronaut,1935-12-22,2006-09-19,0
+R017,p006_alan_b_shepard_jr,Alan B. Shepard Jr.,NASA astronaut,1923-11-18,1998-07-21,0
+R018,p045_james_b_irwin,James B. Irwin,NASA astronaut,1930-03-17,1991-08-08,0
+R019,p002_l_gordon_cooper_jr,L. Gordon Cooper Jr.,NASA astronaut,1927-03-06,2004-10-04,0
+R020,p091_francis_g_neubeck,Francis G. Neubeck,MOL astronaut,1932-04-11,2026-06-01,1
+R021,p004_virgil_i_gus_grissom,"Virgil I. ""Gus"" Grissom",NASA astronaut,1926-04-03,1967-01-27,0
+R022,p040_charles_m_duke_jr,Charles M. Duke Jr.,NASA astronaut,1935-10-03,2026-06-01,1
+R023,p007_donald_k_deke_slayton,"Donald K. ""Deke"" Slayton",NASA astronaut,1924-03-01,1993-06-13,0
+R024,p057_philip_k_chapman,Philip K. Chapman,NASA astronaut,1935-03-05,2021-04-05,1
+R025,p093_james_a_abrahamson,James A. Abrahamson,MOL astronaut,1933-05-19,2026-06-01,1
+R026,p079_robert_a_rushworth,Robert A. Rushworth,X-15 test pilot,1924-10-09,1993-03-17,0
+R027,p021_eugene_a_cernan,Eugene A. Cernan,NASA astronaut,1934-03-14,2017-01-16,1
+R028,p015_edward_h_white_ii,Edward H. White II,NASA astronaut,1930-11-14,1967-01-27,0
+R029,p034_joseph_p_kerwin,Joseph P. Kerwin,NASA astronaut,1932-02-19,2026-06-01,1
+R030,p050_edgar_d_mitchell,Edgar D. Mitchell,NASA astronaut,1930-09-17,2016-02-04,1
+R031,p058_anthony_w_england,Anthony W. England,NASA astronaut,1942-05-15,2026-06-01,1
+R032,p033_duane_e_graveline,Duane E. Graveline,NASA astronaut,1931-03-02,2016-09-05,1
+R033,p075_joseph_a_walker,Joseph A. Walker,X-15 test pilot,1921-02-20,1966-06-08,0
+R034,p053_john_l_swigert_jr,John L. Swigert Jr.,NASA astronaut,1931-08-30,1982-12-27,0
+R035,p081_william_j_pete_knight,"William J. ""Pete"" Knight",X-15 and Dyna-Soar test pilot,1929-11-18,2004-05-07,0
+R036,p026_theodore_c_freeman,Theodore C. Freeman,NASA astronaut,1930-02-18,1964-10-31,0
+R037,p074_albert_scott_crossfield,Albert Scott Crossfield,X-15 test pilot,1921-10-02,2006-04-19,1
+R038,p070_henry_w_hartsfield_jr,Henry W. Hartsfield Jr.,NASA astronaut,1933-11-21,2014-07-17,1
+R039,p012_james_a_mcdivitt,James A. McDivitt,NASA astronaut,1929-06-10,2022-10-13,1
+R040,p035_f_curtis_michel,F. Curtis Michel,NASA astronaut,1934-06-05,2015-02-26,1
+R041,p046_don_l_lind,Don L. Lind,NASA astronaut,1930-05-18,2022-08-30,1
+R042,p014_thomas_p_stafford,Thomas P. Stafford,NASA astronaut,1930-09-17,2024-03-18,1
+R043,p047_jack_r_lousma,Jack R. Lousma,NASA astronaut,1936-02-29,2026-06-01,1
+R044,p077_forrest_s_petersen,Forrest S. Petersen,X-15 test pilot,1922-05-16,1990-12-08,0
+R045,p092_james_m_taylor,James M. Taylor,MOL astronaut,1930-11-27,1970-09-04,0
+R046,p039_gerald_p_carr,Gerald P. Carr,NASA astronaut,1932-08-22,2020-08-26,1
+R047,p084_albert_h_crews_jr,Albert H. Crews Jr.,Dyna-Soar and MOL astronaut,1929-03-23,2025-06-07,1
+R048,p059_karl_g_henize,Karl G. Henize,NASA astronaut,1926-10-17,1993-10-05,0
+R049,p041_joe_h_engle,Joe H. Engle,NASA astronaut,1932-08-26,2024-07-10,1
+R050,p048_thomas_k_mattingly_ii,Thomas K. Mattingly II,NASA astronaut,1936-03-17,2023-10-31,1
+R051,p043_edward_g_givens_jr,Edward G. Givens Jr.,NASA astronaut,1930-01-05,1967-06-06,0
+R052,p027_richard_f_gordon_jr,Richard F. Gordon Jr.,NASA astronaut,1929-10-05,2017-11-06,1
+R053,p090_lachlan_macleay,Lachlan Macleay,MOL astronaut,1931-06-13,2026-06-01,1
+R054,p049_bruce_mccandless_ii,Bruce McCandless II,NASA astronaut,1937-06-08,2017-12-21,1
+R055,p083_michael_j_adams,Michael J. Adams,X-15 and MOL test pilot,1930-05-05,1967-11-15,0
+R056,p055_alfred_m_worden,Alfred M. Worden,NASA astronaut,1932-02-07,2020-03-18,1
+R057,p020_alan_l_bean,Alan L. Bean,NASA astronaut,1932-03-15,2018-05-26,1
+R058,p017_buzz_aldrin,Buzz Aldrin,NASA astronaut,1930-01-20,2026-06-01,1
+R059,p062_john_a_llewellyn,John A. Llewellyn,NASA astronaut,1933-04-22,2013-07-02,1
+R060,p068_robert_l_crippen,Robert L. Crippen,NASA astronaut,1937-09-11,2026-06-01,1
+R061,p044_fred_w_haise_jr,Fred W. Haise Jr.,NASA astronaut,1933-11-14,2026-06-01,1
+R062,p019_charles_a_bassett_ii,Charles A. Bassett II,NASA astronaut,1931-12-30,1966-02-28,0
+R063,p086_russell_l_rogers,Russell L. Rogers,Dyna-Soar test pilot,1928-04-12,1967-09-13,0
+R064,p037_vance_d_brand,Vance D. Brand,NASA astronaut,1931-05-09,2026-06-01,1
+R065,p013_elliot_m_see_jr,Elliot M. See Jr.,NASA astronaut,1927-07-23,1966-02-28,0
+R066,p038_john_s_bull,John S. Bull,NASA astronaut,1934-09-25,2008-08-11,0
+R067,p087_james_w_wood,James W. Wood,Dyna-Soar test pilot,1924-08-09,1990-01-01,0
+R068,p061_william_b_lenoir,William B. Lenoir,NASA astronaut,1939-03-14,2010-08-26,0
+R069,p085_henry_c_gordon,Henry C. Gordon,Dyna-Soar test pilot,1925-12-23,1996-09-24,0
+R070,p028_russell_l_schweickart,Russell L. Schweickart,NASA astronaut,1935-10-25,2026-06-01,1
+R071,p076_robert_m_white,Robert M. White,X-15 test pilot,1924-07-06,2010-03-17,1
+R072,p052_stuart_a_roosa,Stuart A. Roosa,NASA astronaut,1933-08-16,1994-12-12,0
+R073,p010_charles_pete_conrad_jr,"Charles ""Pete"" Conrad Jr.",NASA astronaut,1930-06-02,1999-07-08,0
+R074,p032_edward_g_gibson,Edward G. Gibson,NASA astronaut,1936-11-08,2026-06-01,1
+R075,p001_m_scott_carpenter,M. Scott Carpenter,NASA astronaut,1925-05-01,2013-10-10,1
+R076,p024_r_walter_cunningham,R. Walter Cunningham,NASA astronaut,1932-03-16,2023-01-03,1
+R077,p029_david_r_scott,David R. Scott,NASA astronaut,1932-06-06,2026-06-01,1
+R078,p016_john_w_young,John W. Young,NASA astronaut,1930-09-24,2018-01-05,1
+R079,p071_robert_f_overmyer,Robert F. Overmyer,NASA astronaut,1936-07-14,1996-03-22,0
+R080,p065_robert_a_r_parker,Robert A. R. Parker,NASA astronaut,1936-12-14,2026-06-01,1
+R081,p082_william_h_dana,William H. Dana,X-15 test pilot,1930-11-03,2014-05-06,1
+R082,p072_donald_h_peterson,Donald H. Peterson,NASA astronaut,1933-10-22,2018-05-27,1
+R083,p042_ronald_e_evans,Ronald E. Evans,NASA astronaut,1933-11-10,1990-04-07,0
+R084,p003_john_h_glenn_jr,John H. Glenn Jr.,NASA astronaut,1921-07-18,2016-12-08,1
+R085,p025_donn_f_eisele,Donn F. Eisele,NASA astronaut,1930-06-23,1987-12-02,0
+R086,p056_joseph_p_allen,Joseph P. Allen,NASA astronaut,1937-06-27,2026-06-01,1
+R087,p089_richard_e_lawyer,Richard E. Lawyer,MOL astronaut,1932-11-08,2005-11-12,0
+R088,p008_neil_a_armstrong,Neil A. Armstrong,NASA astronaut,1930-08-05,2012-08-25,1
+R089,p095_robert_h_lawrence_jr,Robert H. Lawrence Jr.,MOL astronaut,1935-10-02,1967-12-08,0
+R090,p073_richard_h_truly,Richard H. Truly,NASA astronaut,1937-11-12,2024-02-27,1
+R091,p080_milton_o_thompson,Milton O. Thompson,X-15 and Dyna-Soar test pilot,1926-05-04,1993-08-06,0
+R092,p063_story_musgrave,Story Musgrave,NASA astronaut,1935-08-19,2026-06-01,1
+R093,p064_brian_t_o_leary,Brian T. O'Leary,NASA astronaut,1940-01-27,2011-07-28,0
+R094,p054_paul_j_weitz,Paul J. Weitz,NASA astronaut,1932-07-25,2017-10-22,1
+R095,p031_owen_k_garriott,Owen K. Garriott,NASA astronaut,1930-11-22,2019-04-15,1

@@ -1,0 +1,65 @@
+1. Neuroepidemiology. 2020;54(1):64-74. doi: 10.1159/000503004. Epub 2019 Sep 27.
+
+The Health and Retirement Study Harmonized Cognitive Assessment Protocol 
+Project: Study Design and Methods.
+
+Langa KM(1)(2)(3)(4), Ryan LH(5), McCammon RJ(5), Jones RN(6), Manly JJ(7), 
+Levine DA(8)(9)(10), Sonnega A(5), Farron M(8), Weir DR(5).
+
+Author information:
+(1)Division of General Medicine, Department of Internal Medicine, University of 
+Michigan Medical School, Ann Arbor, Michigan, USA, [EMAIL].
+(2)Veterans Affairs Center for Clinical Management Research, Ann Arbor, 
+Michigan, USA, [EMAIL].
+(3)Institute for Social Research, University of Michigan, Ann Arbor, Michigan, 
+USA, [EMAIL].
+(4)Institute for Healthcare Policy and Innovation, University of Michigan, Ann 
+Arbor, Michigan, USA, [EMAIL].
+(5)Institute for Social Research, University of Michigan, Ann Arbor, Michigan, 
+USA.
+(6)Department of Psychiatry and Human Behavior and Neurology, Brown University 
+Warren Alpert Medical School, Providence, Rhode Island, USA.
+(7)Columbia University Gertrude H. Sergievsky Center, Taub Institute for 
+Research in Aging and Alzheimer's disease, New York, New York, USA.
+(8)Division of General Medicine, Department of Internal Medicine, University of 
+Michigan Medical School, Ann Arbor, Michigan, USA.
+(9)Institute for Healthcare Policy and Innovation, University of Michigan, Ann 
+Arbor, Michigan, USA.
+(10)Department of Neurology and Stroke Program, University of Michigan, Ann 
+Arbor, Michigan, USA.
+
+INTRODUCTION: The Harmonized Cognitive Assessment Protocol (HCAP) Project is a 
+substudy within the Health and Retirement Study (HRS), an ongoing nationally 
+representative panel study of about 20,000 adults aged 51 or older in the United 
+States. The HCAP is part of an international research collaboration funded by 
+the National Institute on Aging to better measure and identify cognitive 
+impairment and dementia in representative population-based samples of older 
+adults, in the context of ongoing longitudinal studies of aging in high-, 
+middle-, and low-income countries around the world.
+METHODS: The HCAP cognitive test battery was designed to measure a range of key 
+cognitive domains affected by cognitive aging (including attention, memory, 
+executive function, language, and visuospatial function) and to allow 
+harmonization and comparisons to other studies in the United States and around 
+the world. The HCAP included a pair of in-person interviews, one with the target 
+HRS respondent (a randomly selected HRS sample member, aged 65+) that lasted 
+approximately 1 h and one with an informant nominated by the respondent that 
+lasted approximately 20 min. The final HRS HCAP sample included 3,496 study 
+subjects, representing a 79% response rate among those invited to participate.
+CONCLUSION: Linking detailed HCAP cognitive assessments to the wealth of 
+available longitudinal HRS data on cognition, health, biomarkers, genetics, 
+health care utilization, informal care, and economic resources and behavior will 
+provide unique and expanded opportunities to study cognitive impairment and 
+dementia in a nationally representative US population-based sample. The fielding 
+of similar HCAP projects in multiple countries around the world will provide 
+additional opportunities to study international differences in the prevalence, 
+incidence, and outcomes of dementia globally with comparable data. Like all HRS 
+data, HCAP data are publicly available at no cost to researchers.
+
+© 2019 S. Karger AG, Basel.
+
+DOI: 10.1159/000503004
+PMCID: PMC6949364
+PMID: 31563909 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure Statement The authors have no 
+conflicts of interest to declare.

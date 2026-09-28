@@ -1,0 +1,89 @@
+1. JAMA Neurol. 2022 Dec 1;79(12):1242-1249. doi: 10.1001/jamaneurol.2022.3543.
+
+Estimating the Prevalence of Dementia and Mild Cognitive Impairment in the US: 
+The 2016 Health and Retirement Study Harmonized Cognitive Assessment Protocol 
+Project.
+
+Manly JJ(1), Jones RN(2)(3), Langa KM(4)(5)(6)(7), Ryan LH(4), Levine 
+DA(5)(7)(8), McCammon R(4), Heeringa SG(4), Weir D(4).
+
+Author information:
+(1)Department of Neurology, Taub Institute for Research on Alzheimer's Disease 
+and the Aging Brain, Vagelos College of Physicians and Surgeons, Columbia 
+University Irving Medical Center, New York, New York.
+(2)Department of Psychiatry and Human Behavior, Brown University Warren Alpert 
+Medical School, Providence, Rhode Island.
+(3)Department of Neurology, Brown University Warren Alpert Medical School, 
+Providence, Rhode Island.
+(4)Institute for Social Research, University of Michigan, Ann Arbor.
+(5)Cognitive Health Sciences Research Program and Department of Internal 
+Medicine, University of Michigan Medical School, Ann Arbor.
+(6)Veterans Affairs Center for Clinical Management Research, Ann Arbor, 
+Michigan.
+(7)Institute for Healthcare Policy and Innovation, University of Michigan, Ann 
+Arbor.
+(8)Department of Neurology and Stroke Program, University of Michigan, Ann 
+Arbor.
+
+IMPORTANCE: Nationally representative data are critical for understanding the 
+causes, costs, and outcomes associated with dementia and mild cognitive 
+impairment (MCI) in the US and can inform policies aimed at reducing the impact 
+of these conditions on patients, families, and public programs. The nationally 
+representative Health and Retirement Study (HRS) is an essential resource for 
+such data, but the HRS substudy providing dementia diagnostic information was 
+fielded more than 20 years ago and more recent data are needed.
+OBJECTIVE: The Harmonized Cognitive Assessment Protocol (HCAP) was developed to 
+update national estimates of the prevalence of MCI and dementia in the US and 
+examine differences by age, race, ethnicity, and sex.
+DESIGN, SETTING, AND PARTICIPANTS: HRS is an ongoing longitudinal nationally 
+representative study of people 51 years and older with staggered entry dates 
+from 1992 to 2022 and follow-up ranging from 4 to 30 years. HCAP is a 
+cross-sectional random sample of individuals in HRS who were 65 years or older 
+in 2016. Of 9972 age-eligible HRS participants, 4425 were randomly selected for 
+HCAP, and 3496 completed a comprehensive neuropsychological test battery and 
+informant interview, none of whom were excluded. Dementia and MCI were 
+classified using an algorithm based on standard diagnostic criteria and 
+comparing test performance to a robust normative sample.
+EXPOSURES: Groups were stratified by age, sex, education, race, and ethnicity.
+MAIN OUTCOMES AND MEASURES: National prevalence estimates using population 
+weights.
+RESULTS: The mean (SD) age of the study population sample (N = 3496) was 76.4 
+(7.6) years, and 2095 participants (60%) were female. There were 551 
+participants who self-identified as Black and not Hispanic (16%), 382 who 
+self-identified as Hispanic regardless of race (16%), 2483 who self-identified 
+as White and not Hispanic (71%), and 80 who self-identified as another race 
+(2%), including American Indian or Alaska Native, Asian, Native Hawaiian or 
+Pacific Islander, or another self-described race. A total of 393 individuals 
+(10%; 95% CI, 9-11) were classified as having dementia and 804 (22%; 95% CI, 
+20-24) as having MCI. Every 5-year increase in age was associated with higher 
+risk of dementia (weighted odds ratio [OR], 1.95 per 5-year age difference; 95%, 
+CI, 1.77-2.14) and MCI (OR, 1.17 per 5-year age difference, 95% CI, 1.09-1.26). 
+Each additional year of education was associated with a decrease in risk of 
+dementia (OR, 0.93 per year of school, 95% CI, 0.89-0.97) and MCI (OR, 0.94, 95% 
+CI, 0.91-0.97). Dementia was more common among non-Hispanic Black individuals 
+(OR, 1.81; 95% CI, 1.20-2.75) and MCI in Hispanic individuals (OR, 1.42; 95% CI, 
+1.03-1.96) compared with non-Hispanic White individuals. Other group comparisons 
+by race and ethnicity were not possible owing to small numbers. No differences 
+in prevalence were found between female individuals and male individuals.
+CONCLUSIONS AND RELEVANCE: Using a comprehensive neuropsychological test battery 
+and large sample, the national prevalence of dementia and MCI in 2016 found in 
+this cross-sectional study was similar to that of other US-based studies, 
+indicating a disproportionate burden of dementia and MCI among older Black and 
+Hispanic adults and those with lower education.
+
+DOI: 10.1001/jamaneurol.2022.3543
+PMCID: PMC9593315
+PMID: 36279130 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Drs Manly, 
+Jones, Langa, Ryan, Heeringa, and Weir reported grants from the National 
+Institute on Aging during the conduct of the study. Dr Langa reported grants 
+from the National Institute on Aging and the Alzheimer’s Association outside the 
+submitted work and reported having provided expert testimony related to 
+decisional capacity of an individual with dementia. Dr Levine reported 
+consulting fees from the National Institutes of Health and serving as principal 
+investigator or coinvestigator on projects funded by grants from the National 
+Institutes of Health as well as on the data safety monitoring board for the 
+National Institutes of Health during the conduct of the study. Dr Weir reported 
+grants from the National Institute on Aging outside the submitted work. No other 
+disclosures were reported.

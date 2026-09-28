@@ -1,0 +1,276 @@
+person_id	canonical_name	final_file	final_line	raw_file	raw_line	raw_name	match_method
+wiki:Buzz_Aldrin	Buzz Aldrin	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	2	data/01-all-pre-1970-astronauts.tsv	2	Edwin Eugene Aldrin Jr. (legally changed first name to "Buzz" in 1988)	unique_surname
+wiki:Joseph_P._Allen	Joseph Percival Allen IV	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	2	data/01-all-pre-1970-astronauts.tsv	3	Joseph Percival Allen IV	normalized_name
+wiki:William_Anders	William Anders	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	3	data/01-all-pre-1970-astronauts.tsv	4	William Alison Anders	unique_surname
+wiki:Neil_Armstrong	Neil Armstrong	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	4	data/01-all-pre-1970-astronauts.tsv	5	Neil Alden Armstrong	unique_surname
+wiki:Charles_Bassett	Charles Arthur Bassett II	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	3	data/01-all-pre-1970-astronauts.tsv	6	Charles Arthur Bassett II	normalized_name
+wiki:Alan_Bean	Alan Bean	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	5	data/01-all-pre-1970-astronauts.tsv	7	Alan LaVern Bean	unique_surname
+wiki:Karol_J._Bobko	Karol Joseph "Bo" Bobko	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	4	data/01-all-pre-1970-astronauts.tsv	8	Karol Joseph "Bo" Bobko	normalized_name
+wiki:Frank_Borman	Frank Borman	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	6	data/01-all-pre-1970-astronauts.tsv	9	Frank Frederick Borman II	unique_surname
+wiki:Vance_Brand	Vance DeVoe Brand	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	5	data/01-all-pre-1970-astronauts.tsv	10	Vance DeVoe Brand	normalized_name
+wiki:John_S._Bull	John Sumter Bull	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	6	data/01-all-pre-1970-astronauts.tsv	11	John Sumter Bull	normalized_name
+wiki:Scott_Carpenter	Malcolm Scott Carpenter	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	7	data/01-all-pre-1970-astronauts.tsv	12	Malcolm Scott Carpenter	normalized_name
+wiki:Gerald_P._Carr	Gerald Paul Carr	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	8	data/01-all-pre-1970-astronauts.tsv	13	Gerald Paul Carr	normalized_name
+wiki:Eugene_Cernan	Eugene Cernan	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	7	data/01-all-pre-1970-astronauts.tsv	14	Eugene Andrew Cernan	unique_surname
+wiki:Roger_B._Chaffee	Roger Bruce Chaffee	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	9	data/01-all-pre-1970-astronauts.tsv	15	Roger Bruce Chaffee	normalized_name
+wiki:Philip_K._Chapman	Philip Kenyon Chapman	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	10	data/01-all-pre-1970-astronauts.tsv	16	Philip Kenyon Chapman	normalized_name
+wiki:Michael_Collins_(astronaut)	Michael Collins	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	8	data/01-all-pre-1970-astronauts.tsv	17	Michael Collins	normalized_name
+wiki:Pete_Conrad	Pete Conrad	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	9	data/01-all-pre-1970-astronauts.tsv	18	Charles "Pete" Conrad Jr.	unique_surname
+wiki:Gordon_Cooper	Leroy Gordon Cooper Jr.	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	11	data/01-all-pre-1970-astronauts.tsv	19	Leroy Gordon Cooper Jr.	normalized_name
+wiki:Robert_Crippen	Robert Laurel Crippen	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	12	data/01-all-pre-1970-astronauts.tsv	20	Robert Laurel Crippen	normalized_name
+wiki:Walter_Cunningham	Ronnie Walter Cunningham	Final - Analysis - Enriched Datasets/08E-non-lunar-apollo-enriched.tsv	4	data/01-all-pre-1970-astronauts.tsv	21	Ronnie Walter Cunningham	normalized_name
+wiki:Charles_Duke	Charles Duke	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	10	data/01-all-pre-1970-astronauts.tsv	22	Charles Moss Duke Jr.	unique_surname
+wiki:Donn_Eisele	Donn Fulton Eisele	Final - Analysis - Enriched Datasets/08E-non-lunar-apollo-enriched.tsv	3	data/01-all-pre-1970-astronauts.tsv	23	Donn Fulton Eisele	normalized_name
+wiki:Anthony_W._England	Anthony Wayne England	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	13	data/01-all-pre-1970-astronauts.tsv	24	Anthony Wayne England	normalized_name
+wiki:Joe_Engle	Joseph Henry Engle	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	14	data/01-all-pre-1970-astronauts.tsv	25	Joseph Henry Engle	normalized_name
+wiki:Ronald_Evans_(astronaut)	Ronald Evans	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	11	data/01-all-pre-1970-astronauts.tsv	26	Ronald Ellwin Evans Jr.	unique_surname
+wiki:Theodore_Freeman	Theodore Cordy Freeman	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	15	data/01-all-pre-1970-astronauts.tsv	27	Theodore Cordy Freeman	normalized_name
+wiki:C._Gordon_Fullerton	Charles Gordon Fullerton	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	16	data/01-all-pre-1970-astronauts.tsv	28	Charles Gordon Fullerton	normalized_name
+wiki:Owen_Garriott	Owen Kay Garriott	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	17	data/01-all-pre-1970-astronauts.tsv	29	Owen Kay Garriott	normalized_name
+wiki:Edward_Gibson	Edward George Gibson	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	18	data/01-all-pre-1970-astronauts.tsv	30	Edward George Gibson	normalized_name
+wiki:Edward_Givens	Edward Galen Givens Jr.	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	19	data/01-all-pre-1970-astronauts.tsv	31	Edward Galen Givens Jr.	normalized_name
+wiki:John_Glenn	John Herschel Glenn Jr.	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	20	data/01-all-pre-1970-astronauts.tsv	32	John Herschel Glenn Jr.	normalized_name
+wiki:Richard_F._Gordon_Jr.	Richard Gordon	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	12	data/01-all-pre-1970-astronauts.tsv	33	Richard Francis Gordon Jr.	unique_surname
+wiki:Duane_Graveline	Duane Edgar "Doc" Graveline	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	21	data/01-all-pre-1970-astronauts.tsv	34	Duane Edgar "Doc" Graveline	normalized_name
+wiki:Gus_Grissom	Virgil Ivan "Gus" Grissom	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	22	data/01-all-pre-1970-astronauts.tsv	35	Virgil Ivan "Gus" Grissom	normalized_name
+wiki:Fred_Haise	Fred Haise	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	13	data/01-all-pre-1970-astronauts.tsv	36	Fred Wallace Haise Jr.	unique_surname
+wiki:Henry_Hartsfield	Henry Warren Hartsfield Jr.	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	23	data/01-all-pre-1970-astronauts.tsv	37	Henry Warren Hartsfield Jr.	normalized_name
+wiki:Karl_Henize	Karl Gordon Henize	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	24	data/01-all-pre-1970-astronauts.tsv	38	Karl Gordon Henize	normalized_name
+wiki:Donald_Holmquest	Donald Lee Holmquest	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	25	data/01-all-pre-1970-astronauts.tsv	39	Donald Lee Holmquest	normalized_name
+wiki:James_Irwin	James Irwin	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	14	data/01-all-pre-1970-astronauts.tsv	40	James Benson Irwin	unique_surname
+wiki:Joseph_P._Kerwin	Joseph Peter Kerwin	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	26	data/01-all-pre-1970-astronauts.tsv	41	Joseph Peter Kerwin	normalized_name
+wiki:William_B._Lenoir	William Benjamin Lenoir	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	27	data/01-all-pre-1970-astronauts.tsv	42	William Benjamin Lenoir	normalized_name
+wiki:Don_Lind	Don Leslie Lind	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	28	data/01-all-pre-1970-astronauts.tsv	43	Don Leslie Lind	normalized_name
+wiki:Anthony_Llewellyn	John Anthony Llewellyn	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	29	data/01-all-pre-1970-astronauts.tsv	44	John Anthony Llewellyn	normalized_name
+wiki:Jack_Lousma	Jack Robert Lousma	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	30	data/01-all-pre-1970-astronauts.tsv	45	Jack Robert Lousma	normalized_name
+wiki:Jim_Lovell	Jim Lovell	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	15	data/01-all-pre-1970-astronauts.tsv	46	James Arthur Lovell Jr.	unique_surname
+wiki:Ken_Mattingly	Ken Mattingly	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	16	data/01-all-pre-1970-astronauts.tsv	47	Thomas Kenneth Mattingly II	unique_surname
+wiki:Bruce_McCandless_II	Bruce McCandless II	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	31	data/01-all-pre-1970-astronauts.tsv	48	Byron Willis McCandless (later Bruce McCandless II)	unique_surname
+wiki:James_McDivitt	James Alton McDivitt Jr.	Final - Analysis - Enriched Datasets/08E-non-lunar-apollo-enriched.tsv	5	data/01-all-pre-1970-astronauts.tsv	49	James Alton McDivitt Jr.	normalized_name
+wiki:Curt_Michel	Frank Curtis Michel	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	32	data/01-all-pre-1970-astronauts.tsv	50	Frank Curtis Michel	normalized_name
+wiki:Edgar_Mitchell	Edgar Mitchell	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	17	data/01-all-pre-1970-astronauts.tsv	51	Edgar Dean Mitchell	unique_surname
+wiki:Story_Musgrave	Franklin Story Musgrave	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	33	data/01-all-pre-1970-astronauts.tsv	52	Franklin Story Musgrave	normalized_name
+wiki:Brian_O%27Leary	Brian Todd O'Leary	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	34	data/01-all-pre-1970-astronauts.tsv	53	Brian Todd O'Leary	normalized_name
+wiki:Robert_Overmyer	Robert Franklyn Overmyer	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	35	data/01-all-pre-1970-astronauts.tsv	54	Robert Franklyn Overmyer	normalized_name
+wiki:Robert_A._R._Parker	Robert Allan Ridley Parker	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	36	data/01-all-pre-1970-astronauts.tsv	55	Robert Allan Ridley Parker	normalized_name
+wiki:Donald_H._Peterson	Donald Herod Peterson	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	37	data/01-all-pre-1970-astronauts.tsv	56	Donald Herod Peterson	normalized_name
+wiki:William_Pogue	William Reid Pogue	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	38	data/01-all-pre-1970-astronauts.tsv	57	William Reid Pogue	normalized_name
+wiki:Stuart_Roosa	Stuart Roosa	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	18	data/01-all-pre-1970-astronauts.tsv	58	Stuart Allen Roosa	unique_surname
+wiki:Wally_Schirra	Walter Marty Schirra Jr.	Final - Analysis - Enriched Datasets/08E-non-lunar-apollo-enriched.tsv	2	data/01-all-pre-1970-astronauts.tsv	59	Walter Marty Schirra Jr.	normalized_name
+wiki:Harrison_Schmitt	Harrison Schmitt	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	19	data/01-all-pre-1970-astronauts.tsv	60	Harrison Hagan "Jack" Schmitt	unique_surname
+wiki:Rusty_Schweickart	Russell Louis Schweickart	Final - Analysis - Enriched Datasets/08E-non-lunar-apollo-enriched.tsv	6	data/01-all-pre-1970-astronauts.tsv	61	Russell Louis Schweickart	normalized_name
+wiki:David_Scott	David Scott	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	20	data/01-all-pre-1970-astronauts.tsv	62	David Randolph Scott	unique_surname
+wiki:Elliot_See	Elliot McKay See Jr.	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	39	data/01-all-pre-1970-astronauts.tsv	63	Elliot McKay See Jr.	normalized_name
+wiki:Alan_Shepard	Alan Shepard	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	21	data/01-all-pre-1970-astronauts.tsv	64	Alan Bartlett Shepard Jr.	unique_surname
+wiki:Deke_Slayton	Donald Kent "Deke" Slayton	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	40	data/01-all-pre-1970-astronauts.tsv	65	Donald Kent "Deke" Slayton	normalized_name
+wiki:Thomas_P._Stafford	Thomas Stafford	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	22	data/01-all-pre-1970-astronauts.tsv	66	Thomas Patten Stafford	unique_surname
+wiki:Jack_Swigert	Jack Swigert	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	23	data/01-all-pre-1970-astronauts.tsv	67	John Leonard Swigert Jr.	unique_surname
+wiki:William_E._Thornton	William Edgar Thornton	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	41	data/01-all-pre-1970-astronauts.tsv	68	William Edgar Thornton	normalized_name
+wiki:Richard_Truly	Richard Harrison Truly	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	42	data/01-all-pre-1970-astronauts.tsv	69	Richard Harrison Truly	normalized_name
+wiki:Paul_J._Weitz	Paul Joseph Weitz	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	43	data/01-all-pre-1970-astronauts.tsv	70	Paul Joseph Weitz	normalized_name
+wiki:Ed_White_(astronaut)	Edward Higgins White II	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	44	data/01-all-pre-1970-astronauts.tsv	71	Edward Higgins White II	normalized_name
+wiki:Clifton_Williams	Clifton Curtis Williams Jr.	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	45	data/01-all-pre-1970-astronauts.tsv	72	Clifton Curtis Williams Jr.	normalized_name
+wiki:Al_Worden	Alfred Worden	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	24	data/01-all-pre-1970-astronauts.tsv	73	Alfred Merrill Worden	unique_surname
+wiki:John_Young_(astronaut)	John Young	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	25	data/01-all-pre-1970-astronauts.tsv	74	John Watts Young	unique_surname
+wiki:Buzz_Aldrin	Buzz Aldrin	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	2	data/02-deduplicated-pre-1970.tsv	2	Edwin Eugene Aldrin Jr. (legally changed first name to "Buzz" in 1988)	unique_surname
+wiki:Joseph_P._Allen	Joseph Percival Allen IV	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	2	data/02-deduplicated-pre-1970.tsv	3	Joseph Percival Allen IV	normalized_name
+wiki:William_Anders	William Anders	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	3	data/02-deduplicated-pre-1970.tsv	4	William Alison Anders	unique_surname
+wiki:Neil_Armstrong	Neil Armstrong	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	4	data/02-deduplicated-pre-1970.tsv	5	Neil Alden Armstrong	unique_surname
+wiki:Charles_Bassett	Charles Arthur Bassett II	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	3	data/02-deduplicated-pre-1970.tsv	6	Charles Arthur Bassett II	normalized_name
+wiki:Alan_Bean	Alan Bean	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	5	data/02-deduplicated-pre-1970.tsv	7	Alan LaVern Bean	unique_surname
+wiki:Karol_J._Bobko	Karol Joseph "Bo" Bobko	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	4	data/02-deduplicated-pre-1970.tsv	8	Karol Joseph "Bo" Bobko	normalized_name
+wiki:Frank_Borman	Frank Borman	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	6	data/02-deduplicated-pre-1970.tsv	9	Frank Frederick Borman II	unique_surname
+wiki:Vance_Brand	Vance DeVoe Brand	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	5	data/02-deduplicated-pre-1970.tsv	10	Vance DeVoe Brand	normalized_name
+wiki:John_S._Bull	John Sumter Bull	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	6	data/02-deduplicated-pre-1970.tsv	11	John Sumter Bull	normalized_name
+wiki:Scott_Carpenter	Malcolm Scott Carpenter	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	7	data/02-deduplicated-pre-1970.tsv	12	Malcolm Scott Carpenter	normalized_name
+wiki:Gerald_P._Carr	Gerald Paul Carr	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	8	data/02-deduplicated-pre-1970.tsv	13	Gerald Paul Carr	normalized_name
+wiki:Eugene_Cernan	Eugene Cernan	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	7	data/02-deduplicated-pre-1970.tsv	14	Eugene Andrew Cernan	unique_surname
+wiki:Roger_B._Chaffee	Roger Bruce Chaffee	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	9	data/02-deduplicated-pre-1970.tsv	15	Roger Bruce Chaffee	normalized_name
+wiki:Philip_K._Chapman	Philip Kenyon Chapman	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	10	data/02-deduplicated-pre-1970.tsv	16	Philip Kenyon Chapman	normalized_name
+wiki:Michael_Collins_(astronaut)	Michael Collins	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	8	data/02-deduplicated-pre-1970.tsv	17	Michael Collins	normalized_name
+wiki:Pete_Conrad	Pete Conrad	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	9	data/02-deduplicated-pre-1970.tsv	18	Charles "Pete" Conrad Jr.	unique_surname
+wiki:Gordon_Cooper	Leroy Gordon Cooper Jr.	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	11	data/02-deduplicated-pre-1970.tsv	19	Leroy Gordon Cooper Jr.	normalized_name
+wiki:Robert_Crippen	Robert Laurel Crippen	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	12	data/02-deduplicated-pre-1970.tsv	20	Robert Laurel Crippen	normalized_name
+wiki:Walter_Cunningham	Ronnie Walter Cunningham	Final - Analysis - Enriched Datasets/08E-non-lunar-apollo-enriched.tsv	4	data/02-deduplicated-pre-1970.tsv	21	Ronnie Walter Cunningham	normalized_name
+wiki:Charles_Duke	Charles Duke	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	10	data/02-deduplicated-pre-1970.tsv	22	Charles Moss Duke Jr.	unique_surname
+wiki:Donn_Eisele	Donn Fulton Eisele	Final - Analysis - Enriched Datasets/08E-non-lunar-apollo-enriched.tsv	3	data/02-deduplicated-pre-1970.tsv	23	Donn Fulton Eisele	normalized_name
+wiki:Anthony_W._England	Anthony Wayne England	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	13	data/02-deduplicated-pre-1970.tsv	24	Anthony Wayne England	normalized_name
+wiki:Joe_Engle	Joseph Henry Engle	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	14	data/02-deduplicated-pre-1970.tsv	25	Joseph Henry Engle	normalized_name
+wiki:Ronald_Evans_(astronaut)	Ronald Evans	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	11	data/02-deduplicated-pre-1970.tsv	26	Ronald Ellwin Evans Jr.	unique_surname
+wiki:Theodore_Freeman	Theodore Cordy Freeman	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	15	data/02-deduplicated-pre-1970.tsv	27	Theodore Cordy Freeman	normalized_name
+wiki:C._Gordon_Fullerton	Charles Gordon Fullerton	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	16	data/02-deduplicated-pre-1970.tsv	28	Charles Gordon Fullerton	normalized_name
+wiki:Owen_Garriott	Owen Kay Garriott	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	17	data/02-deduplicated-pre-1970.tsv	29	Owen Kay Garriott	normalized_name
+wiki:Edward_Gibson	Edward George Gibson	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	18	data/02-deduplicated-pre-1970.tsv	30	Edward George Gibson	normalized_name
+wiki:Edward_Givens	Edward Galen Givens Jr.	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	19	data/02-deduplicated-pre-1970.tsv	31	Edward Galen Givens Jr.	normalized_name
+wiki:John_Glenn	John Herschel Glenn Jr.	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	20	data/02-deduplicated-pre-1970.tsv	32	John Herschel Glenn Jr.	normalized_name
+wiki:Richard_F._Gordon_Jr.	Richard Gordon	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	12	data/02-deduplicated-pre-1970.tsv	33	Richard Francis Gordon Jr.	unique_surname
+wiki:Duane_Graveline	Duane Edgar "Doc" Graveline	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	21	data/02-deduplicated-pre-1970.tsv	34	Duane Edgar "Doc" Graveline	normalized_name
+wiki:Gus_Grissom	Virgil Ivan "Gus" Grissom	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	22	data/02-deduplicated-pre-1970.tsv	35	Virgil Ivan "Gus" Grissom	normalized_name
+wiki:Fred_Haise	Fred Haise	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	13	data/02-deduplicated-pre-1970.tsv	36	Fred Wallace Haise Jr.	unique_surname
+wiki:Henry_Hartsfield	Henry Warren Hartsfield Jr.	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	23	data/02-deduplicated-pre-1970.tsv	37	Henry Warren Hartsfield Jr.	normalized_name
+wiki:Karl_Henize	Karl Gordon Henize	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	24	data/02-deduplicated-pre-1970.tsv	38	Karl Gordon Henize	normalized_name
+wiki:Donald_Holmquest	Donald Lee Holmquest	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	25	data/02-deduplicated-pre-1970.tsv	39	Donald Lee Holmquest	normalized_name
+wiki:James_Irwin	James Irwin	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	14	data/02-deduplicated-pre-1970.tsv	40	James Benson Irwin	unique_surname
+wiki:Joseph_P._Kerwin	Joseph Peter Kerwin	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	26	data/02-deduplicated-pre-1970.tsv	41	Joseph Peter Kerwin	normalized_name
+wiki:William_B._Lenoir	William Benjamin Lenoir	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	27	data/02-deduplicated-pre-1970.tsv	42	William Benjamin Lenoir	normalized_name
+wiki:Don_Lind	Don Leslie Lind	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	28	data/02-deduplicated-pre-1970.tsv	43	Don Leslie Lind	normalized_name
+wiki:Anthony_Llewellyn	John Anthony Llewellyn	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	29	data/02-deduplicated-pre-1970.tsv	44	John Anthony Llewellyn	normalized_name
+wiki:Jack_Lousma	Jack Robert Lousma	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	30	data/02-deduplicated-pre-1970.tsv	45	Jack Robert Lousma	normalized_name
+wiki:Jim_Lovell	Jim Lovell	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	15	data/02-deduplicated-pre-1970.tsv	46	James Arthur Lovell Jr.	unique_surname
+wiki:Ken_Mattingly	Ken Mattingly	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	16	data/02-deduplicated-pre-1970.tsv	47	Thomas Kenneth Mattingly II	unique_surname
+wiki:Bruce_McCandless_II	Bruce McCandless II	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	31	data/02-deduplicated-pre-1970.tsv	48	Byron Willis McCandless (later Bruce McCandless II)	unique_surname
+wiki:James_McDivitt	James Alton McDivitt Jr.	Final - Analysis - Enriched Datasets/08E-non-lunar-apollo-enriched.tsv	5	data/02-deduplicated-pre-1970.tsv	49	James Alton McDivitt Jr.	normalized_name
+wiki:Curt_Michel	Frank Curtis Michel	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	32	data/02-deduplicated-pre-1970.tsv	50	Frank Curtis Michel	normalized_name
+wiki:Edgar_Mitchell	Edgar Mitchell	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	17	data/02-deduplicated-pre-1970.tsv	51	Edgar Dean Mitchell	unique_surname
+wiki:Story_Musgrave	Franklin Story Musgrave	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	33	data/02-deduplicated-pre-1970.tsv	52	Franklin Story Musgrave	normalized_name
+wiki:Brian_O%27Leary	Brian Todd O'Leary	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	34	data/02-deduplicated-pre-1970.tsv	53	Brian Todd O'Leary	normalized_name
+wiki:Robert_Overmyer	Robert Franklyn Overmyer	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	35	data/02-deduplicated-pre-1970.tsv	54	Robert Franklyn Overmyer	normalized_name
+wiki:Robert_A._R._Parker	Robert Allan Ridley Parker	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	36	data/02-deduplicated-pre-1970.tsv	55	Robert Allan Ridley Parker	normalized_name
+wiki:Donald_H._Peterson	Donald Herod Peterson	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	37	data/02-deduplicated-pre-1970.tsv	56	Donald Herod Peterson	normalized_name
+wiki:William_Pogue	William Reid Pogue	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	38	data/02-deduplicated-pre-1970.tsv	57	William Reid Pogue	normalized_name
+wiki:Stuart_Roosa	Stuart Roosa	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	18	data/02-deduplicated-pre-1970.tsv	58	Stuart Allen Roosa	unique_surname
+wiki:Wally_Schirra	Walter Marty Schirra Jr.	Final - Analysis - Enriched Datasets/08E-non-lunar-apollo-enriched.tsv	2	data/02-deduplicated-pre-1970.tsv	59	Walter Marty Schirra Jr.	normalized_name
+wiki:Harrison_Schmitt	Harrison Schmitt	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	19	data/02-deduplicated-pre-1970.tsv	60	Harrison Hagan "Jack" Schmitt	unique_surname
+wiki:Rusty_Schweickart	Russell Louis Schweickart	Final - Analysis - Enriched Datasets/08E-non-lunar-apollo-enriched.tsv	6	data/02-deduplicated-pre-1970.tsv	61	Russell Louis Schweickart	normalized_name
+wiki:David_Scott	David Scott	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	20	data/02-deduplicated-pre-1970.tsv	62	David Randolph Scott	unique_surname
+wiki:Elliot_See	Elliot McKay See Jr.	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	39	data/02-deduplicated-pre-1970.tsv	63	Elliot McKay See Jr.	normalized_name
+wiki:Alan_Shepard	Alan Shepard	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	21	data/02-deduplicated-pre-1970.tsv	64	Alan Bartlett Shepard Jr.	unique_surname
+wiki:Deke_Slayton	Donald Kent "Deke" Slayton	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	40	data/02-deduplicated-pre-1970.tsv	65	Donald Kent "Deke" Slayton	normalized_name
+wiki:Thomas_P._Stafford	Thomas Stafford	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	22	data/02-deduplicated-pre-1970.tsv	66	Thomas Patten Stafford	unique_surname
+wiki:Jack_Swigert	Jack Swigert	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	23	data/02-deduplicated-pre-1970.tsv	67	John Leonard Swigert Jr.	unique_surname
+wiki:William_E._Thornton	William Edgar Thornton	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	41	data/02-deduplicated-pre-1970.tsv	68	William Edgar Thornton	normalized_name
+wiki:Richard_Truly	Richard Harrison Truly	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	42	data/02-deduplicated-pre-1970.tsv	69	Richard Harrison Truly	normalized_name
+wiki:Paul_J._Weitz	Paul Joseph Weitz	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	43	data/02-deduplicated-pre-1970.tsv	70	Paul Joseph Weitz	normalized_name
+wiki:Ed_White_(astronaut)	Edward Higgins White II	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	44	data/02-deduplicated-pre-1970.tsv	71	Edward Higgins White II	normalized_name
+wiki:Clifton_Williams	Clifton Curtis Williams Jr.	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	45	data/02-deduplicated-pre-1970.tsv	72	Clifton Curtis Williams Jr.	normalized_name
+wiki:Al_Worden	Alfred Worden	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	24	data/02-deduplicated-pre-1970.tsv	73	Alfred Merrill Worden	unique_surname
+wiki:John_Young_(astronaut)	John Young	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	25	data/02-deduplicated-pre-1970.tsv	74	John Watts Young	unique_surname
+wiki:Joseph_P._Allen	Joseph Percival Allen IV	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	2	data/03-non-apollo-astronauts.tsv	2	Joseph Percival Allen IV	normalized_name
+wiki:Charles_Bassett	Charles Arthur Bassett II	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	3	data/03-non-apollo-astronauts.tsv	3	Charles Arthur Bassett II	normalized_name
+wiki:Karol_J._Bobko	Karol Joseph "Bo" Bobko	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	4	data/03-non-apollo-astronauts.tsv	4	Karol Joseph "Bo" Bobko	normalized_name
+wiki:Vance_Brand	Vance DeVoe Brand	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	5	data/03-non-apollo-astronauts.tsv	5	Vance DeVoe Brand	normalized_name
+wiki:John_S._Bull	John Sumter Bull	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	6	data/03-non-apollo-astronauts.tsv	6	John Sumter Bull	normalized_name
+wiki:Scott_Carpenter	Malcolm Scott Carpenter	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	7	data/03-non-apollo-astronauts.tsv	7	Malcolm Scott Carpenter	normalized_name
+wiki:Gerald_P._Carr	Gerald Paul Carr	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	8	data/03-non-apollo-astronauts.tsv	8	Gerald Paul Carr	normalized_name
+wiki:Roger_B._Chaffee	Roger Bruce Chaffee	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	9	data/03-non-apollo-astronauts.tsv	9	Roger Bruce Chaffee	normalized_name
+wiki:Philip_K._Chapman	Philip Kenyon Chapman	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	10	data/03-non-apollo-astronauts.tsv	10	Philip Kenyon Chapman	normalized_name
+wiki:Gordon_Cooper	Leroy Gordon Cooper Jr.	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	11	data/03-non-apollo-astronauts.tsv	11	Leroy Gordon Cooper Jr.	normalized_name
+wiki:Robert_Crippen	Robert Laurel Crippen	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	12	data/03-non-apollo-astronauts.tsv	12	Robert Laurel Crippen	normalized_name
+wiki:Anthony_W._England	Anthony Wayne England	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	13	data/03-non-apollo-astronauts.tsv	13	Anthony Wayne England	normalized_name
+wiki:Joe_Engle	Joseph Henry Engle	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	14	data/03-non-apollo-astronauts.tsv	14	Joseph Henry Engle	normalized_name
+wiki:Theodore_Freeman	Theodore Cordy Freeman	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	15	data/03-non-apollo-astronauts.tsv	15	Theodore Cordy Freeman	normalized_name
+wiki:C._Gordon_Fullerton	Charles Gordon Fullerton	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	16	data/03-non-apollo-astronauts.tsv	16	Charles Gordon Fullerton	normalized_name
+wiki:Owen_Garriott	Owen Kay Garriott	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	17	data/03-non-apollo-astronauts.tsv	17	Owen Kay Garriott	normalized_name
+wiki:Edward_Gibson	Edward George Gibson	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	18	data/03-non-apollo-astronauts.tsv	18	Edward George Gibson	normalized_name
+wiki:Edward_Givens	Edward Galen Givens Jr.	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	19	data/03-non-apollo-astronauts.tsv	19	Edward Galen Givens Jr.	normalized_name
+wiki:John_Glenn	John Herschel Glenn Jr.	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	20	data/03-non-apollo-astronauts.tsv	20	John Herschel Glenn Jr.	normalized_name
+wiki:Duane_Graveline	Duane Edgar "Doc" Graveline	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	21	data/03-non-apollo-astronauts.tsv	21	Duane Edgar "Doc" Graveline	normalized_name
+wiki:Gus_Grissom	Virgil Ivan "Gus" Grissom	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	22	data/03-non-apollo-astronauts.tsv	22	Virgil Ivan "Gus" Grissom	normalized_name
+wiki:Henry_Hartsfield	Henry Warren Hartsfield Jr.	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	23	data/03-non-apollo-astronauts.tsv	23	Henry Warren Hartsfield Jr.	normalized_name
+wiki:Karl_Henize	Karl Gordon Henize	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	24	data/03-non-apollo-astronauts.tsv	24	Karl Gordon Henize	normalized_name
+wiki:Donald_Holmquest	Donald Lee Holmquest	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	25	data/03-non-apollo-astronauts.tsv	25	Donald Lee Holmquest	normalized_name
+wiki:Joseph_P._Kerwin	Joseph Peter Kerwin	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	26	data/03-non-apollo-astronauts.tsv	26	Joseph Peter Kerwin	normalized_name
+wiki:William_B._Lenoir	William Benjamin Lenoir	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	27	data/03-non-apollo-astronauts.tsv	27	William Benjamin Lenoir	normalized_name
+wiki:Don_Lind	Don Leslie Lind	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	28	data/03-non-apollo-astronauts.tsv	28	Don Leslie Lind	normalized_name
+wiki:Anthony_Llewellyn	John Anthony Llewellyn	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	29	data/03-non-apollo-astronauts.tsv	29	John Anthony Llewellyn	normalized_name
+wiki:Jack_Lousma	Jack Robert Lousma	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	30	data/03-non-apollo-astronauts.tsv	30	Jack Robert Lousma	normalized_name
+wiki:Bruce_McCandless_II	Bruce McCandless II	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	31	data/03-non-apollo-astronauts.tsv	31	Byron Willis McCandless (later Bruce McCandless II)	unique_surname
+wiki:Curt_Michel	Frank Curtis Michel	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	32	data/03-non-apollo-astronauts.tsv	32	Frank Curtis Michel	normalized_name
+wiki:Story_Musgrave	Franklin Story Musgrave	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	33	data/03-non-apollo-astronauts.tsv	33	Franklin Story Musgrave	normalized_name
+wiki:Brian_O%27Leary	Brian Todd O'Leary	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	34	data/03-non-apollo-astronauts.tsv	34	Brian Todd O'Leary	normalized_name
+wiki:Robert_Overmyer	Robert Franklyn Overmyer	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	35	data/03-non-apollo-astronauts.tsv	35	Robert Franklyn Overmyer	normalized_name
+wiki:Robert_A._R._Parker	Robert Allan Ridley Parker	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	36	data/03-non-apollo-astronauts.tsv	36	Robert Allan Ridley Parker	normalized_name
+wiki:Donald_H._Peterson	Donald Herod Peterson	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	37	data/03-non-apollo-astronauts.tsv	37	Donald Herod Peterson	normalized_name
+wiki:William_Pogue	William Reid Pogue	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	38	data/03-non-apollo-astronauts.tsv	38	William Reid Pogue	normalized_name
+wiki:Elliot_See	Elliot McKay See Jr.	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	39	data/03-non-apollo-astronauts.tsv	39	Elliot McKay See Jr.	normalized_name
+wiki:Deke_Slayton	Donald Kent "Deke" Slayton	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	40	data/03-non-apollo-astronauts.tsv	40	Donald Kent "Deke" Slayton	normalized_name
+wiki:William_E._Thornton	William Edgar Thornton	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	41	data/03-non-apollo-astronauts.tsv	41	William Edgar Thornton	normalized_name
+wiki:Richard_Truly	Richard Harrison Truly	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	42	data/03-non-apollo-astronauts.tsv	42	Richard Harrison Truly	normalized_name
+wiki:Paul_J._Weitz	Paul Joseph Weitz	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	43	data/03-non-apollo-astronauts.tsv	43	Paul Joseph Weitz	normalized_name
+wiki:Ed_White_(astronaut)	Edward Higgins White II	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	44	data/03-non-apollo-astronauts.tsv	44	Edward Higgins White II	normalized_name
+wiki:Clifton_Williams	Clifton Curtis Williams Jr.	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	45	data/03-non-apollo-astronauts.tsv	45	Clifton Curtis Williams Jr.	normalized_name
+wiki:Joseph_P._Allen	Joseph Percival Allen IV	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	2	data/04-non-apollo-flew.tsv	2	Joseph Percival Allen IV	normalized_name
+wiki:Karol_J._Bobko	Karol Joseph "Bo" Bobko	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	4	data/04-non-apollo-flew.tsv	3	Karol Joseph "Bo" Bobko	normalized_name
+wiki:Vance_Brand	Vance DeVoe Brand	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	5	data/04-non-apollo-flew.tsv	4	Vance DeVoe Brand	normalized_name
+wiki:Scott_Carpenter	Malcolm Scott Carpenter	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	7	data/04-non-apollo-flew.tsv	5	Malcolm Scott Carpenter	normalized_name
+wiki:Gerald_P._Carr	Gerald Paul Carr	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	8	data/04-non-apollo-flew.tsv	6	Gerald Paul Carr	normalized_name
+wiki:Gordon_Cooper	Leroy Gordon Cooper Jr.	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	11	data/04-non-apollo-flew.tsv	7	Leroy Gordon Cooper Jr.	normalized_name
+wiki:Robert_Crippen	Robert Laurel Crippen	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	12	data/04-non-apollo-flew.tsv	8	Robert Laurel Crippen	normalized_name
+wiki:Anthony_W._England	Anthony Wayne England	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	13	data/04-non-apollo-flew.tsv	9	Anthony Wayne England	normalized_name
+wiki:Joe_Engle	Joseph Henry Engle	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	14	data/04-non-apollo-flew.tsv	10	Joseph Henry Engle	normalized_name
+wiki:C._Gordon_Fullerton	Charles Gordon Fullerton	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	16	data/04-non-apollo-flew.tsv	11	Charles Gordon Fullerton	normalized_name
+wiki:Owen_Garriott	Owen Kay Garriott	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	17	data/04-non-apollo-flew.tsv	12	Owen Kay Garriott	normalized_name
+wiki:Edward_Gibson	Edward George Gibson	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	18	data/04-non-apollo-flew.tsv	13	Edward George Gibson	normalized_name
+wiki:John_Glenn	John Herschel Glenn Jr.	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	20	data/04-non-apollo-flew.tsv	14	John Herschel Glenn Jr.	normalized_name
+wiki:Gus_Grissom	Virgil Ivan "Gus" Grissom	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	22	data/04-non-apollo-flew.tsv	15	Virgil Ivan "Gus" Grissom	normalized_name
+wiki:Henry_Hartsfield	Henry Warren Hartsfield Jr.	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	23	data/04-non-apollo-flew.tsv	16	Henry Warren Hartsfield Jr.	normalized_name
+wiki:Karl_Henize	Karl Gordon Henize	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	24	data/04-non-apollo-flew.tsv	17	Karl Gordon Henize	normalized_name
+wiki:Joseph_P._Kerwin	Joseph Peter Kerwin	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	26	data/04-non-apollo-flew.tsv	18	Joseph Peter Kerwin	normalized_name
+wiki:William_B._Lenoir	William Benjamin Lenoir	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	27	data/04-non-apollo-flew.tsv	19	William Benjamin Lenoir	normalized_name
+wiki:Don_Lind	Don Leslie Lind	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	28	data/04-non-apollo-flew.tsv	20	Don Leslie Lind	normalized_name
+wiki:Jack_Lousma	Jack Robert Lousma	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	30	data/04-non-apollo-flew.tsv	21	Jack Robert Lousma	normalized_name
+wiki:Bruce_McCandless_II	Bruce McCandless II	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	31	data/04-non-apollo-flew.tsv	22	Byron Willis McCandless (later Bruce McCandless II)	unique_surname
+wiki:Story_Musgrave	Franklin Story Musgrave	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	33	data/04-non-apollo-flew.tsv	23	Franklin Story Musgrave	normalized_name
+wiki:Robert_Overmyer	Robert Franklyn Overmyer	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	35	data/04-non-apollo-flew.tsv	24	Robert Franklyn Overmyer	normalized_name
+wiki:Robert_A._R._Parker	Robert Allan Ridley Parker	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	36	data/04-non-apollo-flew.tsv	25	Robert Allan Ridley Parker	normalized_name
+wiki:Donald_H._Peterson	Donald Herod Peterson	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	37	data/04-non-apollo-flew.tsv	26	Donald Herod Peterson	normalized_name
+wiki:William_Pogue	William Reid Pogue	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	38	data/04-non-apollo-flew.tsv	27	William Reid Pogue	normalized_name
+wiki:Deke_Slayton	Donald Kent "Deke" Slayton	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	40	data/04-non-apollo-flew.tsv	28	Donald Kent "Deke" Slayton	normalized_name
+wiki:William_E._Thornton	William Edgar Thornton	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	41	data/04-non-apollo-flew.tsv	29	William Edgar Thornton	normalized_name
+wiki:Richard_Truly	Richard Harrison Truly	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	42	data/04-non-apollo-flew.tsv	30	Richard Harrison Truly	normalized_name
+wiki:Paul_J._Weitz	Paul Joseph Weitz	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	43	data/04-non-apollo-flew.tsv	31	Paul Joseph Weitz	normalized_name
+wiki:Ed_White_(astronaut)	Edward Higgins White II	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	44	data/04-non-apollo-flew.tsv	32	Edward Higgins White II	normalized_name
+wiki:Charles_Bassett	Charles Arthur Bassett II	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	3	data/05-non-apollo-never-flew.tsv	2	Charles Arthur Bassett II	normalized_name
+wiki:John_S._Bull	John Sumter Bull	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	6	data/05-non-apollo-never-flew.tsv	3	John Sumter Bull	normalized_name
+wiki:Roger_B._Chaffee	Roger Bruce Chaffee	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	9	data/05-non-apollo-never-flew.tsv	4	Roger Bruce Chaffee	normalized_name
+wiki:Philip_K._Chapman	Philip Kenyon Chapman	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	10	data/05-non-apollo-never-flew.tsv	5	Philip Kenyon Chapman	normalized_name
+wiki:Theodore_Freeman	Theodore Cordy Freeman	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	15	data/05-non-apollo-never-flew.tsv	6	Theodore Cordy Freeman	normalized_name
+wiki:Edward_Givens	Edward Galen Givens Jr.	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	19	data/05-non-apollo-never-flew.tsv	7	Edward Galen Givens Jr.	normalized_name
+wiki:Duane_Graveline	Duane Edgar "Doc" Graveline	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	21	data/05-non-apollo-never-flew.tsv	8	Duane Edgar "Doc" Graveline	normalized_name
+wiki:Donald_Holmquest	Donald Lee Holmquest	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	25	data/05-non-apollo-never-flew.tsv	9	Donald Lee Holmquest	normalized_name
+wiki:Anthony_Llewellyn	John Anthony Llewellyn	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	29	data/05-non-apollo-never-flew.tsv	10	John Anthony Llewellyn	normalized_name
+wiki:Curt_Michel	Frank Curtis Michel	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	32	data/05-non-apollo-never-flew.tsv	11	Frank Curtis Michel	normalized_name
+wiki:Brian_O%27Leary	Brian Todd O'Leary	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	34	data/05-non-apollo-never-flew.tsv	12	Brian Todd O'Leary	normalized_name
+wiki:Elliot_See	Elliot McKay See Jr.	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	39	data/05-non-apollo-never-flew.tsv	13	Elliot McKay See Jr.	normalized_name
+wiki:Clifton_Williams	Clifton Curtis Williams Jr.	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	45	data/05-non-apollo-never-flew.tsv	14	Clifton Curtis Williams Jr.	normalized_name
+wiki:Pete_Conrad	Pete Conrad	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	9	data/06-apollo-applications.tsv	2	Pete Conrad	normalized_name
+wiki:Joseph_P._Kerwin	Joseph Peter Kerwin	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	26	data/06-apollo-applications.tsv	3	Joseph Kerwin	unique_surname
+wiki:Paul_J._Weitz	Paul Joseph Weitz	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	43	data/06-apollo-applications.tsv	4	Paul Weitz	unique_surname
+wiki:Alan_Bean	Alan Bean	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	5	data/06-apollo-applications.tsv	5	Alan Bean	normalized_name
+wiki:Owen_Garriott	Owen Kay Garriott	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	17	data/06-apollo-applications.tsv	6	Owen Garriott	unique_surname
+wiki:Jack_Lousma	Jack Robert Lousma	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	30	data/06-apollo-applications.tsv	7	Jack Lousma	unique_surname
+wiki:Gerald_P._Carr	Gerald Paul Carr	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	8	data/06-apollo-applications.tsv	8	Gerald Carr	unique_surname
+wiki:Edward_Gibson	Edward George Gibson	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	18	data/06-apollo-applications.tsv	9	Edward Gibson	unique_surname
+wiki:William_Pogue	William Reid Pogue	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	38	data/06-apollo-applications.tsv	10	William Pogue	unique_surname
+wiki:Thomas_P._Stafford	Thomas Stafford	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	22	data/06-apollo-applications.tsv	11	Tom Stafford	unique_surname
+wiki:Vance_Brand	Vance DeVoe Brand	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	5	data/06-apollo-applications.tsv	12	Vance Brand	unique_surname
+wiki:Deke_Slayton	Donald Kent "Deke" Slayton	Final - Analysis - Enriched Datasets/03E-non-apollo-enriched.tsv	40	data/06-apollo-applications.tsv	13	Deke Slayton	unique_surname
+wiki:Frank_Borman	Frank Borman	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	6	data/07-lunar-astronauts.tsv	2	Frank Borman	normalized_name
+wiki:Jim_Lovell	Jim Lovell	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	15	data/07-lunar-astronauts.tsv	3	Jim Lovell	normalized_name
+wiki:William_Anders	William Anders	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	3	data/07-lunar-astronauts.tsv	4	William Anders	normalized_name
+wiki:Thomas_P._Stafford	Thomas Stafford	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	22	data/07-lunar-astronauts.tsv	5	Tom Stafford	unique_surname
+wiki:John_Young_(astronaut)	John Young	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	25	data/07-lunar-astronauts.tsv	6	John Young	normalized_name
+wiki:Eugene_Cernan	Eugene Cernan	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	7	data/07-lunar-astronauts.tsv	7	Eugene Cernan	normalized_name
+wiki:Neil_Armstrong	Neil Armstrong	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	4	data/07-lunar-astronauts.tsv	8	Neil Armstrong	normalized_name
+wiki:Michael_Collins_(astronaut)	Michael Collins	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	8	data/07-lunar-astronauts.tsv	9	Michael Collins	normalized_name
+wiki:Buzz_Aldrin	Buzz Aldrin	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	2	data/07-lunar-astronauts.tsv	10	Buzz Aldrin	normalized_name
+wiki:Pete_Conrad	Pete Conrad	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	9	data/07-lunar-astronauts.tsv	11	Pete Conrad	normalized_name
+wiki:Richard_F._Gordon_Jr.	Richard Gordon	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	12	data/07-lunar-astronauts.tsv	12	Richard Gordon	normalized_name
+wiki:Alan_Bean	Alan Bean	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	5	data/07-lunar-astronauts.tsv	13	Alan Bean	normalized_name
+wiki:Jack_Swigert	Jack Swigert	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	23	data/07-lunar-astronauts.tsv	14	Jack Swigert	normalized_name
+wiki:Fred_Haise	Fred Haise	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	13	data/07-lunar-astronauts.tsv	15	Fred Haise	normalized_name
+wiki:Alan_Shepard	Alan Shepard	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	21	data/07-lunar-astronauts.tsv	16	Alan Shepard	normalized_name
+wiki:Stuart_Roosa	Stuart Roosa	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	18	data/07-lunar-astronauts.tsv	17	Stuart Roosa	normalized_name
+wiki:Edgar_Mitchell	Edgar Mitchell	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	17	data/07-lunar-astronauts.tsv	18	Edgar Mitchell	normalized_name
+wiki:David_Scott	David Scott	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	20	data/07-lunar-astronauts.tsv	19	David Scott	normalized_name
+wiki:Al_Worden	Alfred Worden	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	24	data/07-lunar-astronauts.tsv	20	Alfred Worden	normalized_name
+wiki:James_Irwin	James Irwin	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	14	data/07-lunar-astronauts.tsv	21	James Irwin	normalized_name
+wiki:Ken_Mattingly	Ken Mattingly	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	16	data/07-lunar-astronauts.tsv	22	Ken Mattingly	normalized_name
+wiki:Charles_Duke	Charles Duke	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	10	data/07-lunar-astronauts.tsv	23	Charles Duke	normalized_name
+wiki:Ronald_Evans_(astronaut)	Ronald Evans	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	11	data/07-lunar-astronauts.tsv	24	Ronald Evans	normalized_name
+wiki:Harrison_Schmitt	Harrison Schmitt	Final - Analysis - Enriched Datasets/07E-lunar-enriched.tsv	19	data/07-lunar-astronauts.tsv	25	Harrison Schmitt	normalized_name
+wiki:Wally_Schirra	Walter Marty Schirra Jr.	Final - Analysis - Enriched Datasets/08E-non-lunar-apollo-enriched.tsv	2	data/08-non-lunar-apollo.tsv	2	Wally Schirra	unique_surname
+wiki:Donn_Eisele	Donn Fulton Eisele	Final - Analysis - Enriched Datasets/08E-non-lunar-apollo-enriched.tsv	3	data/08-non-lunar-apollo.tsv	3	Donn Eisele	unique_surname
+wiki:Walter_Cunningham	Ronnie Walter Cunningham	Final - Analysis - Enriched Datasets/08E-non-lunar-apollo-enriched.tsv	4	data/08-non-lunar-apollo.tsv	4	Walter Cunningham	unique_surname
+wiki:James_McDivitt	James Alton McDivitt Jr.	Final - Analysis - Enriched Datasets/08E-non-lunar-apollo-enriched.tsv	5	data/08-non-lunar-apollo.tsv	5	James McDivitt	unique_surname
+wiki:Rusty_Schweickart	Russell Louis Schweickart	Final - Analysis - Enriched Datasets/08E-non-lunar-apollo-enriched.tsv	6	data/08-non-lunar-apollo.tsv	6	Russell Schweickart	unique_surname

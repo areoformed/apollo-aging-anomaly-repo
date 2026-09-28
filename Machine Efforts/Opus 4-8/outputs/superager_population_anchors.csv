@@ -1,0 +1,8 @@
+key,rate,lo,hi,construct,denom,source,note
+gbd_male_80_84_demfree,0.866,0.86,0.872,dementia-free (permissive),men 80-84,Cao 2024 GBD eTable4 male 2020,UPPER BOUND on vitality; still incl MCI
+gbd_male_85_89_demfree,0.791,0.783,0.799,dementia-free (permissive),men 85-89,Cao 2024 GBD eTable4 male 2020,UPPER BOUND on vitality
+gbd_male_90_94_demfree,0.697,0.685,0.708,dementia-free (permissive),men 90-94,Cao 2024 GBD eTable4 male 2020,UPPER BOUND on vitality
+gbd_male_95plus_demfree,0.507,0.488,0.525,dementia-free (permissive),men 95+,Cao 2024 GBD eTable4 male 2020,UPPER BOUND on vitality
+hcap_65plus_normalcog,0.68,,,"normal cognition (no dem,no MCI)",US adults 65+ (NOT 80+),"HRS-HCAP 2016 (10% dem,22% MCI)",age-65+ overall; OPTIMISTIC for 80+
+campos_80_94_no_mmse_imp,0.648,,,no poor MMSE,long-lived 80-94 (n=165),Campos 2024 ScienceDirect,NOT US-rep; mostly female; low education
+mhas_80plus_youthful,0.1617,,,youthful cognition (strict),MHAS 80+ (54/334),MHAS user-supplied (NOT reproduced),STRICT LOWER anchor; unverified

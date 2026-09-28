@@ -1,0 +1,6 @@
+group,N,reached_80,superagers,cond_rate,cond_lo,cond_hi,uncond_rate
+Mercury Seven,2,1,1,1.0,0.025,1.0,0.5
+The New Nine,7,6,6,1.0,0.5407418735600995,1.0,0.8571428571428571
+The Fourteen,10,9,9,1.0,0.6637328831200572,1.0,0.9
+The Scientists,1,1,1,1.0,0.025,1.0,1.0
+Group 5,9,5,4,0.8,0.2835820638819105,0.9949492366205319,0.4444444444444444

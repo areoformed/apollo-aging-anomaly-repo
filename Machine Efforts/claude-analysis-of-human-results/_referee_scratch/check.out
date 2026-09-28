@@ -1,0 +1,46 @@
+[SSA] 1930CohortSSAData.h vs TR2024 CSV row 1930: IDENTICAL ages 0-119
+[REAL Apollo-29, my parser] observed=23 expected=46.895698 SMR=0.490450 hit80=22 grandpa=19 median(sorted[14])=88
+   sorted ages: [51, 57, 57, 61, 61, 69, 75, 82, 83, 84, 86, 86, 87, 88, 88, 88, 91, 91, 91, 91, 91, 91, 93, 93, 94, 94, 95, 96, 97]
+   ages[13],[14],[15] = 88,88,88
+[FLAG CHECK] hitEighty == (age>=80) for all 73: yes
+[FLAG CHECK] spaceGrandpa implies hitEighty: yes
+[FLAG CHECK] trainAcc implies death<=1970: yes
+[FLAG CHECK] death<=1970 implies trainAcc: yes
+   trainAcc names: ['Charles Arthur Bassett II', 'Roger Bruce Chaffee', 'Theodore Cordy Freeman', 'Edward Galen Givens Jr.', 'Virgil Ivan "Gus" Grissom', 'Elliot McKay See Jr.', 'Edward Higgins White II', 'Clifton Curtis Williams Jr.']
+   any at-risk exit age < 30 (would give negative E)? []
+   living Apollo: ['Buzz Aldrin', 'David Scott', 'Charles Duke', 'Harrison Schmitt', 'Fred Haise', 'Russell L. "Rusty" Schweickart']
+   deaths 1970-1979 anywhere in the 73: []
+[POOL] non-accident pool N=65; grandpas=38; hit80=50; dead=49; birth years 1921-1942
+[NON-APOLLO 36] O=26 E=50.5014 SMR=0.5148 hit80=28 grandpa=19 median=86
+[POOL 65]       O=49 E=97.3971 SMR=0.5031 hit80=50 grandpa=38 median=87
+   Apollo/non-Apollo SMR ratio = 0.9526
+[CI vs general pop] Apollo SMR 0.490: Byar 95% [0.311, 0.736] ; exact Poisson (Garwood) [0.311, 0.736]
+   non-Apollo-36 SMR 0.515: Byar 95% [0.336, 0.754]
+   pool-65 SMR 0.503: Byar 95% [0.372, 0.665]
+[TSV] rows=1,000,000 seed=1788768027; indices contiguous 0..999999: True
+[TSV SMR] min 0.251561 p1 0.3655 p5 0.4013 p25 0.4586 median 0.503151 mean 0.507759 p75 0.5517 p95 0.6301 p99 0.6911 max 0.948987
+   SD 0.0698; decks with SMR >= 1: 0
+   real SMR 0.490450: P(<=)=42.6413%  P(<)=42.6413%  ties=0  two-sided p (2*min tail) = 0.853; MC SE of the percentile = 0.0495%
+[TSV grandpa] real=19: P(<=)=90.1479% P(<)=78.2437% P(=)=11.9042% P(>=)=21.7563% P(>)=9.8521%
+   distribution: [(8, 2), (9, 42), (10, 423), (11, 2299), (12, 9172), (13, 28148), (14, 66720), (15, 123941), (16, 177820), (17, 199198), (18, 174672), (19, 119042), (20, 63018), (21, 25582), (22, 7722), (23, 1867), (24, 298), (25, 32), (26, 2)]
+[TSV hit80] real=22: P(<=)=54.1721% P(<)=31.4199% P(=)=22.7522% P(>=)=68.5801% P(>)=45.8279%
+   distribution: [(15, 17), (16, 208), (17, 1751), (18, 9865), (19, 36492), (20, 94023), (21, 171843), (22, 227522), (23, 216202), (24, 146152), (25, 68982), (26, 21911), (27, 4471), (28, 538), (29, 23)]
+[TSV median age] real=88: P(<=)=92.9748% P(<)=63.0516% P(=)=29.9232% P(>=)=36.9484% P(>)=7.0252%
+   distribution: [(80, 25), (81, 414), (82, 747), (83, 1736), (84, 22076), (85, 82039), (86, 261868), (87, 261611), (88, 299232), (89, 56977), (90, 12136), (91, 1139)]
+[HYPERGEOM grandpa] K=38 of N=65, draw 29; mean=16.954; exact P(>= 19)=21.7207% P(> 19)=9.8295% P(<= 19)=90.1705%
+   MC obs / exact expected per bin: 8:2/6 9:42/58 10:423/419 11:2299/2249 12:9172/9109 13:28148/28154 14:66720/67034 15:123941/123755 16:177820/177898 17:199198/199525 18:174672/174585 19:119042/118912 20:63018/62759 21:25582/25481 22:7722/7876 23:1867/1826 24:298/311 25:32/38 26:2/3
+   chi-square (bins with expected>=5) = 17.73
+[HYPERGEOM hit80] K=50 of N=65, draw 29; mean=22.308; exact P(>= 22)=68.4909% P(> 22)=45.7158% P(<= 22)=54.2842%
+   MC obs / exact expected per bin: 15:17/13 16:208/206 17:1751/1787 18:9865/9827 19:36492/36413 20:94023/94067 21:171843/172776 22:227522/227751 23:216202/215648 24:146152/145562 25:68982/68811 26:21911/22055 27:4471/4524 28:538/531 29:23/27
+   chi-square (bins with expected>=5) = 13.71
+[VITALITY | h=22] decks with h=22: 227,522; of those g>=19: 26,660 -> P(g>=19 | h=22) = 11.7175%
+   Fisher/hypergeometric exact: 38 grandpas among 50 hit-80 in pool; Apollo 22 hit-80 -> P(X>=19) = 11.6729%; P(X>=20)=2.9113%; P(X>=21)=0.4142%
+   2x2: Apollo 19/22 = 0.864 ; non-Apollo 19/28 = 0.679
+   unconditional: P(deck g/h >= 0.8636) = 7.5787%
+[SELECTION YEARS] names not matched: []
+[E VARIANTS Apollo-29] O=23  E(1930 table, from 30)=46.896 SMR=0.4905 | per-birth-cohort tables: E=46.539 SMR=0.4942 (+0.8%) | left-truncate at 1970: E=46.207 SMR=0.4978 (+1.5%) | start at selection: E=46.742 SMR=0.4921 (+0.3%) | cohort+trunc1970: E=45.837 SMR=0.5018 (+2.3%)
+[E VARIANTS non-Apollo-36] O=26  E(1930 table, from 30)=50.501 SMR=0.5148 | per-birth-cohort tables: E=48.812 SMR=0.5327 (+3.5%) | left-truncate at 1970: E=49.855 SMR=0.5215 (+1.3%) | start at selection: E=50.260 SMR=0.5173 (+0.5%) | cohort+trunc1970: E=48.143 SMR=0.5401 (+4.9%)
+[E VARIANTS pool-65] O=49  E(1930 table, from 30)=97.397 SMR=0.5031 | per-birth-cohort tables: E=95.351 SMR=0.5139 (+2.1%) | left-truncate at 1970: E=96.062 SMR=0.5101 (+1.4%) | start at selection: E=97.001 SMR=0.5051 (+0.4%) | cohort+trunc1970: E=93.980 SMR=0.5214 (+3.6%)
+   Apollo birth years: [(1923, 2), (1928, 2), (1929, 2), (1930, 9), (1931, 1), (1932, 4), (1933, 4), (1934, 1), (1935, 3), (1936, 1)]; mean 1930.9
+   H(30->80) by birth cohort: 1921:0.991, 1923:0.963, 1925:0.938, 1928:0.886, 1930:0.843, 1932:0.808, 1935:0.760, 1937:0.729, 1940:0.699, 1942:0.698
+   living Apollo n=6; one full year of hazard at their current ages sums to 1.381 (so a ~0.1-0.2y epoch shift moves E by ~0.207)

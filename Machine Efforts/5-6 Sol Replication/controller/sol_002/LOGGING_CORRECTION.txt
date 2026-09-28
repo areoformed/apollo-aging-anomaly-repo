@@ -1,0 +1,9 @@
+TECHNICAL LOGGING CORRECTION ONLY.
+
+Before beginning Stage 1C, obtain the current UTC time with an actual `date -u '+%Y-%m-%dT%H:%M:%SZ'` call and append a correction note to `ACTION_LOG.md`: Stage 1B created `stage1b/CODEBOOK.md` and `stage1b/STAGE_COMPLETE.md`, ran one read-only local validation, performed no browsing or outcome inspection, and did not append those operations to this log. State that exact individual historical timestamps are unavailable and are not being reconstructed.
+
+From now on, continue the append-only `ACTION_LOG.md` required by the original instructions. Obtain every timestamp from an actual UTC clock call; do not estimate, synthesize, backdate, or manually increment timestamps. Log each command, query, opened URL, file change, access failure, and material decision.
+
+Do not alter any locked Stage 1 or Stage 1B file. Do not browse, inspect cohort/person/group data, or begin Stage 1C during this correction turn.
+
+Stop and reply only: LOGGING_CORRECTION_COMPLETE, followed by the `ACTION_LOG.md` path and any blocking failure.

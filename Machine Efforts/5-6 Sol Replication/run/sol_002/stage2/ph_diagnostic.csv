@@ -1,0 +1,4 @@
+term,events,correlation_with_log_time,test_statistic,df,p_value,method
+APOLLO_FLEW,63,-0.044218,-0.345694,1,0.730762,Schoenfeld-residual correlation with log event time
+AGE_AT_LANDMARK,63,-0.108761,-0.854516,1,0.396163,Schoenfeld-residual correlation with log event time
+GLOBAL_APPROXIMATION,63,,0.849702,2,0.653867,Sum of two Schoenfeld correlation statistics; chi-square(2) approximation

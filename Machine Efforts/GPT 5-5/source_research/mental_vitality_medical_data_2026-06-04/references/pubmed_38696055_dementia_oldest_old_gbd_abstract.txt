@@ -1,0 +1,63 @@
+1. Geroscience. 2024 Oct;46(5):4761-4778. doi: 10.1007/s11357-024-01180-6. Epub 
+2024 May 2.
+
+Trends in prevalence, mortality, and risk factors of dementia among the 
+oldest-old adults in the United States: the role of the obesity epidemic.
+
+Cao X(#)(1), Wang M(#)(2)(3), Zhou M(#)(4), Mi Y(5), Fazekas-Pongor V(6), Major 
+D(6), Lehoczki A(6)(7)(8), Guo Y(9).
+
+Author information:
+(1)Department of Occupational Health and Environmental Health, School of Public 
+Health, Hebei Key Laboratory of Environment and Human Health , Hebei Medical 
+University, Shijiazhuang, Hebei, China.
+(2)Department of Global Health, School of Public Health, Peking University, 
+Beijing, China.
+(3)Institute for Global Health and Development, Peking University, Beijing, 
+China.
+(4)Department of Epidemiology and Biostatistics, Institute of Basic Medical 
+Sciences Chinese Academy of Medical Sciences, School of Basic Medicine, Peking 
+Union Medical College, Beijing, China.
+(5)Department of Epidemiology, Bloomberg School of Public Health, Johns Hopkins 
+University, Baltimore, MD, USA.
+(6)Department of Public Health, Semmelweis University, Budapest, Hungary.
+(7)Doctoral College, Health Sciences Program, Semmelweis University, Budapest, 
+Hungary.
+(8)Department of Haematology and Stem Cell Transplantation, National Institute 
+for Haematology and Infectious Diseases, South Pest Central Hospital, Budapest, 
+Hungary.
+(9)Department of Epidemiology and Statistics, School of Public Health, Hebei Key 
+Laboratory of Environment and Human Health, Hebei Medical University, 
+Shijiazhuang, Hebei, China. [EMAIL].
+(#)Contributed equally
+
+The oldest-old population, those aged ≥ 80 years, is the fastest-growing group 
+in the United States (US), grappling with an increasingly heavy burden of 
+dementia. We aimed to dissect the trends in dementia prevalence, mortality, and 
+risk factors, and predict future levels among this demographic. Leveraging data 
+from the Global Burden of Disease Study 2019, we examined the trends in dementia 
+prevalence, mortality, and risk factors (with a particular focus on body mass 
+index, BMI) for US oldest-old adults. Through decomposition analysis, we 
+identified key population-level contributors to these trends. Predictive 
+modeling was employed to estimate future prevalence and mortality levels over 
+the next decade. Between 1990 and 2019, the number of dementia cases and deaths 
+among the oldest-old in the US increased by approximately 1.37 million and 
+60,000 respectively. The population growth and aging were highlighted as the 
+primary drivers of this increase. High BMI emerged as a growing risk factor. 
+Females showed a disproportionately higher dementia burden, characterized by a 
+unique risk factor profile, including BMI. Predictions for 2030 anticipate 
+nearly 4 million dementia cases and 160,000 related deaths, with a marked 
+increase in prevalence and mortality anticipated among those aged 80-89. The 
+past 30 years have witnessed a notable rise in both the prevalence and mortality 
+of dementia among the oldest-old in the US, accompanied by a significant shift 
+in risk factors, with obesity taking a forefront position. Targeted age and 
+sex-specific public health strategies that address obesity control are needed to 
+mitigate the dementia burden effectively.
+
+© 2024. The Author(s), under exclusive licence to American Aging Association.
+
+DOI: 10.1007/s11357-024-01180-6
+PMCID: PMC11336039
+PMID: 38696055 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

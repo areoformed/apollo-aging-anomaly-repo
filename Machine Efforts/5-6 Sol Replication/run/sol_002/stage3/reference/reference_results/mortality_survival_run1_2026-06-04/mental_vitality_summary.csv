@@ -1,0 +1,7 @@
+cohort_key,cohort,n,reached_80,age80_denominator,space_grandpa_y_among_80,space_grandpa_y_among_80_pct,space_grandpa_y_all,space_grandpa_y_all_pct
+apollo,Apollo 7-17,29,22,22,21,95.45454545454545,21,72.41379310344827
+other_all,"Other astronauts including military, all deaths",69,36,36,24,66.66666666666667,24,34.78260869565217
+other_available,"Other Apollo-available, excl. pre-1970 accidents",55,36,36,24,66.66666666666667,24,43.63636363636363
+all_astronauts,All same-era astronauts including Apollo and military,98,58,58,45,77.58620689655173,45,45.91836734693877
+core_nasa_non_apollo,Core NASA non-Apollo,44,28,28,19,67.85714285714286,19,43.18181818181818
+military_only,Military comparison rows only,25,8,8,5,62.5,5,20.0

@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560" font-family="Helvetica, Arial, sans-serif">
+<g id="background"><rect width="900" height="560" fill="#ffffff"/></g>
+<g id="title"><text x="70" y="26" font-size="18" font-weight="bold" fill="#111">Apollo astronauts — age reached (died vs. still living)</text></g>
+<g id="y-axis" font-size="11" fill="#999" text-anchor="end">
+<line x1="70" y1="490.0" x2="870" y2="490.0" stroke="#ececec"/>
+<text x="62" y="494.0">0</text>
+<line x1="70" y1="445.4" x2="870" y2="445.4" stroke="#ececec"/>
+<text x="62" y="449.4">1</text>
+<line x1="70" y1="400.8" x2="870" y2="400.8" stroke="#ececec"/>
+<text x="62" y="404.8">2</text>
+<line x1="70" y1="356.2" x2="870" y2="356.2" stroke="#ececec"/>
+<text x="62" y="360.2">3</text>
+<line x1="70" y1="311.6" x2="870" y2="311.6" stroke="#ececec"/>
+<text x="62" y="315.6">4</text>
+<line x1="70" y1="267.0" x2="870" y2="267.0" stroke="#ececec"/>
+<text x="62" y="271.0">5</text>
+<line x1="70" y1="222.4" x2="870" y2="222.4" stroke="#ececec"/>
+<text x="62" y="226.4">6</text>
+<line x1="70" y1="177.8" x2="870" y2="177.8" stroke="#ececec"/>
+<text x="62" y="181.8">7</text>
+<line x1="70" y1="133.2" x2="870" y2="133.2" stroke="#ececec"/>
+<text x="62" y="137.2">8</text>
+<line x1="70" y1="88.6" x2="870" y2="88.6" stroke="#ececec"/>
+<text x="62" y="92.6">9</text>
+<line x1="70" y1="44.0" x2="870" y2="44.0" stroke="#ececec"/>
+<text x="62" y="48.0">10</text>
+</g>
+<g id="series-Mort" fill="#E07B39">
+<rect id="Mort-50" x="270.5" y="445.4" width="49.0" height="44.6"/>
+<rect id="Mort-55" x="320.5" y="400.8" width="49.0" height="89.2"/>
+<rect id="Mort-60" x="370.5" y="400.8" width="49.0" height="89.2"/>
+<rect id="Mort-65" x="420.5" y="445.4" width="49.0" height="44.6"/>
+<rect id="Mort-70" x="470.5" y="445.4" width="49.0" height="44.6"/>
+<rect id="Mort-80" x="570.5" y="356.2" width="49.0" height="133.8"/>
+<rect id="Mort-85" x="620.5" y="222.4" width="49.0" height="267.6"/>
+<rect id="Mort-90" x="670.5" y="267.0" width="49.0" height="223.0"/>
+<rect id="Mort-95" x="720.5" y="400.8" width="49.0" height="89.2"/>
+</g>
+<g id="series-Alive" fill="#3B6FA0">
+<rect id="Alive-90" x="670.5" y="44.0" width="49.0" height="223.0"/>
+<rect id="Alive-95" x="720.5" y="356.2" width="49.0" height="44.6"/>
+</g>
+<g id="value-labels" font-size="11" fill="#222" text-anchor="middle">
+<text x="295.0" y="440.4">1</text>
+<text x="345.0" y="395.8">2</text>
+<text x="395.0" y="395.8">2</text>
+<text x="445.0" y="440.4">1</text>
+<text x="495.0" y="440.4">1</text>
+<text x="595.0" y="351.2">3</text>
+<text x="645.0" y="217.4">6</text>
+<text x="695.0" y="39.0">10</text>
+<text x="745.0" y="351.2">3</text>
+</g>
+<g id="x-axis" font-size="11" fill="#444" text-anchor="middle">
+<line x1="70" y1="490" x2="870" y2="490" stroke="#333" stroke-width="1.5"/>
+<line x1="70.0" y1="490" x2="70.0" y2="495" stroke="#333"/>
+<text x="70.0" y="508.0">30</text>
+<line x1="170.0" y1="490" x2="170.0" y2="495" stroke="#333"/>
+<text x="170.0" y="508.0">40</text>
+<line x1="270.0" y1="490" x2="270.0" y2="495" stroke="#333"/>
+<text x="270.0" y="508.0">50</text>
+<line x1="370.0" y1="490" x2="370.0" y2="495" stroke="#333"/>
+<text x="370.0" y="508.0">60</text>
+<line x1="470.0" y1="490" x2="470.0" y2="495" stroke="#333"/>
+<text x="470.0" y="508.0">70</text>
+<line x1="570.0" y1="490" x2="570.0" y2="495" stroke="#333"/>
+<text x="570.0" y="508.0">80</text>
+<line x1="670.0" y1="490" x2="670.0" y2="495" stroke="#333"/>
+<text x="670.0" y="508.0">90</text>
+<line x1="770.0" y1="490" x2="770.0" y2="495" stroke="#333"/>
+<text x="770.0" y="508.0">100</text>
+<line x1="870.0" y1="490" x2="870.0" y2="495" stroke="#333"/>
+<text x="870.0" y="508.0">110</text>
+</g>
+<g id="axis-titles" font-size="12" fill="#555"><text x="470.0" y="548" text-anchor="middle">Age (years) — 30 = age at selection</text></g>
+<g id="legend" font-size="12" fill="#333">
+<rect x="720" y="48" width="12" height="12" fill="#E07B39"/><text x="738" y="59">Died at this age</text>
+<rect x="720" y="68" width="12" height="12" fill="#3B6FA0"/><text x="738" y="79">Still living</text>
+</g>
+</svg>

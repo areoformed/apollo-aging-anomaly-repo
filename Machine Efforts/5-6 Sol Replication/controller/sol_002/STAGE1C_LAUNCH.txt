@@ -1,0 +1,40 @@
+Stages 1 and 1B are locked. Do not alter their files. Collect outcome evidence under the locked codebook; do not perform group comparisons.
+
+First generate stage1c/research_worklist.csv for everyone in stage1/cohort.csv. Order people by ascending SHA-256 of the UTF-8 string:
+SOL-20260721-EVIDENCE|person_id
+The worklist contains research_id,person_id,full_name,search_disambiguator,birth_date,end_date,eligible_age80. Do not include cohort flags in the worklist or in evidence adjudication notes.
+
+For every age-80-eligible person, run and log exactly these six base query families, substituting the person’s name, the precommitted search_disambiguator, and useful year bounds:
+1. "<full name>" <search_disambiguator> interview
+2. "<full name>" <search_disambiguator> lecture OR talk OR Q&A
+3. "<full name>" <search_disambiguator> author OR book OR memoir
+4. "<full name>" <search_disambiguator> dementia OR Alzheimer OR "cognitive decline" OR stroke
+5. "<full name>" <search_disambiguator> 80th OR 85th OR 90th birthday
+6. "<full name>" <search_disambiguator> obituary OR died
+
+Use the runtime’s built-in web search consistently for all people. For every base query, record the first 10 returned results with rank and URL. Open the first two nonduplicate, permitted, person-matching results; if a URL repeats, is prohibited, or is inaccessible, proceed down the ranked list until two eligible pages are opened or the 10 results are exhausted. Complete all six query families even if an event is found early.
+
+After the fixed base budget, at most three additional page opens and at most two additional queries are allowed per person, and only to resolve one of these logged triggers: inaccessible base result, same-name identity ambiguity, event-date ambiguity, conflicting evidence, or a base source that identifies a more-primary source. Do not search extra merely because no positive event was found. Every returned rank, query, opened URL, trigger, and access failure must be logged. Never accept a search snippet alone as positive evidence. Never infer function from the absence of impairment reports.
+
+Continue the contamination rule: do not open group-level Apollo/astronaut mortality, aging, vitality, or cognition analyses. Log encounters without opening.
+
+Write:
+
+1. stage1c/SEARCH_LOG.csv
+timestamp,research_id,person_id,query_family,query,result_rank,url,opened,access_result,source_tier,substantive_late_life_source,evidence_candidate,extra_search_trigger,notes
+
+2. stage1c/EVIDENCE_EVENTS.csv
+research_id,person_id,event_date,event_date_precision,event_date_earliest,event_date_latest,analysis_event_date,age_at_analysis_event,evidence_type,event_family,source_url,source_publisher,source_tier,direct_or_indirect,qualifies,boundary_sensitive,adjudication_confidence,supporting_paraphrase,notes
+
+3. stage1c/PERSON_OUTCOMES.csv
+research_id,person_id,eligible_age80,potential_followup_days,observed_followup_days,death_competing_event_within_five_years,administratively_censored_before_five_years,base_search_complete,base_results_logged,base_pages_opened,extra_queries,extra_pages_opened,substantive_sources_opened,independent_publishers,documentation_depth,first_qualifying_function_date,first_function_date_precision,first_function_days_after_80,first_function_within_five_years,latest_qualifying_function_date,latest_qualifying_function_age,first_qualifying_impairment_date,outcome_state,boundary_sensitive,adjudication_confidence,notes
+
+4. stage1c/DECISIONS_AND_DEVIATIONS.md — apply only the locked codebook; list any unforeseen case and the most direction-neutral resolution before recording its final code.
+
+5. stage1c/VALIDATION.md — verify every eligible person has all six base query families, rank logs, the fixed page-opening budget or an explicit exhaustion/access failure, no untriggered extra search, correct follow-up calculations, every qualifying event inside the evidence-collection window, partial-date rules and boundary flags, mutually exclusive outcome states linked to evidence rows, depth labels matching raw counts, and no group comparison.
+
+6. stage1c/CONTAMINATION.md even if empty.
+
+7. stage1c/STAGE_COMPLETE.md with artifact list and attestation that cohort-level outcome rates were not computed or discussed.
+
+The research worklist plus the seven enumerated outputs are eight required artifacts. Process the entire worklist. Stop after Stage 1C and reply only: STAGE1C_COMPLETE, followed by the eight paths and any blocking failure.

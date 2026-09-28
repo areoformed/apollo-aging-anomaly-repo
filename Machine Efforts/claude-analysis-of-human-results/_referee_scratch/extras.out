@@ -1,0 +1,6 @@
+grandpa chi2=17.73, bins=17, dof=16 -> p=0.340
+hit80   chi2=13.71, bins=15, dof=14 -> p=0.472
+pool 65: dead 49, alive 16
+support of the null SMR: max possible (29 earliest deaths) = 1.384; min possible (all 16 living + 13 longest-lived dead) = 0.197; sampled range 0.2516-0.9490
+Park-Miller next state from seed 1788768027 = 1200655436; observed rand() = 1200655436 -> MATCH (rand() is the Park-Miller minimal-standard LCG on this libc)
+modulo bias for m<=73 on RAND_MAX=2^31-1: max prob. distortion <= 73/2^31 = 3.40e-08

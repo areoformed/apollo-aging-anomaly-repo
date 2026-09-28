@@ -1,0 +1,9 @@
+# Stage 2R Action Log
+
+This file is append-only. All timestamps are obtained from an actual UTC clock call.
+
+- 2026-07-23T06:38:36Z — Started the Stage 2R append-only action log after creating `stage2r/CONTEXT_ATTESTATION.md`; no locked data file had been inspected.
+- 2026-07-23T06:40:09Z — Listed filenames under the three permitted locked input directories without opening their contents, then fixed `stage2r/ANALYSIS_DECISIONS.md` before calculating or revealing any group outcome or running any group model.
+- 2026-07-23T06:49:02Z — Inspected only the permitted locked Stage 1 codebook, cohort, person outcomes, evidence events, and validation/decision metadata needed for Stage 2R; implemented the standard-library-only corrected analysis in `stage2r/analysis.py`.
+- 2026-07-23T06:51:34Z — Ran the corrected analysis, retained all generated tables and the Aalen–Johansen SVG, and obtained PASS for locked-input immutability, structural validation, and deterministic in-memory regeneration. Independently recomputed the 2×2 point estimates and Fisher exact probability from integer arithmetic and obtained PASS. A first external assertion used a mistyped expected Fisher constant and was immediately replaced by the exact combinatorial check; the analysis output itself was unchanged. Re-ran the complete generator and confirmed byte-identical analytical artifacts, then validated the SVG as well-formed XML.
+- 2026-07-23T06:52:02Z — Completed the final audit: all 11 required artifacts exist, all 86 locked-file hashes still match, the person-level event-age table covers all 57 eligible people and its five detections, and both validation and stage-complete gates pass. A supplemental `git status` check was unavailable because the permitted workspace is not a Git repository; this is non-blocking because direct SHA-256 immutability validation passed. Stopped after Stage 2R.

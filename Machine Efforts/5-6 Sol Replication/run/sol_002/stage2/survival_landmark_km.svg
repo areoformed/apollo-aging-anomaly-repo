@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560">
+<rect width="100%" height="100%" fill="white"/>
+<text x="450.0" y="30" text-anchor="middle" font-family="sans-serif" font-size="20">Survival from 1973 common landmark</text>
+<line x1="90.00" y1="65" x2="90.00" y2="485" stroke="#e5e7eb"/>
+<text x="90.00" y="509" text-anchor="middle" font-family="sans-serif" font-size="12">0</text>
+<line x1="90" y1="485.00" x2="870" y2="485.00" stroke="#e5e7eb"/>
+<text x="80" y="489.00" text-anchor="end" font-family="sans-serif" font-size="12">0.0</text>
+<line x1="246.00" y1="65" x2="246.00" y2="485" stroke="#e5e7eb"/>
+<text x="246.00" y="509" text-anchor="middle" font-family="sans-serif" font-size="12">11</text>
+<line x1="90" y1="401.00" x2="870" y2="401.00" stroke="#e5e7eb"/>
+<text x="80" y="405.00" text-anchor="end" font-family="sans-serif" font-size="12">0.2</text>
+<line x1="402.00" y1="65" x2="402.00" y2="485" stroke="#e5e7eb"/>
+<text x="402.00" y="509" text-anchor="middle" font-family="sans-serif" font-size="12">21</text>
+<line x1="90" y1="317.00" x2="870" y2="317.00" stroke="#e5e7eb"/>
+<text x="80" y="321.00" text-anchor="end" font-family="sans-serif" font-size="12">0.4</text>
+<line x1="558.00" y1="65" x2="558.00" y2="485" stroke="#e5e7eb"/>
+<text x="558.00" y="509" text-anchor="middle" font-family="sans-serif" font-size="12">32</text>
+<line x1="90" y1="233.00" x2="870" y2="233.00" stroke="#e5e7eb"/>
+<text x="80" y="237.00" text-anchor="end" font-family="sans-serif" font-size="12">0.6</text>
+<line x1="714.00" y1="65" x2="714.00" y2="485" stroke="#e5e7eb"/>
+<text x="714.00" y="509" text-anchor="middle" font-family="sans-serif" font-size="12">43</text>
+<line x1="90" y1="149.00" x2="870" y2="149.00" stroke="#e5e7eb"/>
+<text x="80" y="153.00" text-anchor="end" font-family="sans-serif" font-size="12">0.8</text>
+<line x1="870.00" y1="65" x2="870.00" y2="485" stroke="#e5e7eb"/>
+<text x="870.00" y="509" text-anchor="middle" font-family="sans-serif" font-size="12">54</text>
+<line x1="90" y1="65.00" x2="870" y2="65.00" stroke="#e5e7eb"/>
+<text x="80" y="69.00" text-anchor="end" font-family="sans-serif" font-size="12">1.0</text>
+<line x1="90" y1="485" x2="870" y2="485" stroke="black"/>
+<line x1="90" y1="65" x2="90" y2="485" stroke="black"/>
+<text x="480.0" y="540" text-anchor="middle" font-family="sans-serif" font-size="14">Years since 1973-01-01</text>
+<text transform="translate(22 275.0) rotate(-90)" text-anchor="middle" font-family="sans-serif" font-size="14">Kaplan–Meier survival</text>
+<path d="M90.00,65.00 L235.58,65.00 L235.58,79.48 L307.47,79.48 L307.47,93.97 L341.68,93.97 L341.68,108.45 L361.16,108.45 L361.16,122.93 L409.94,122.93 L409.94,137.41 L462.51,137.41 L462.51,151.90 L476.56,151.90 L476.56,166.38 L590.56,166.38 L590.56,180.86 L668.04,180.86 L668.04,195.34 L718.26,195.34 L718.26,209.83 L732.11,209.83 L732.11,224.31 L743.84,224.31 L743.84,238.79 L746.24,238.79 L746.24,253.28 L751.87,253.28 L751.87,267.76 L778.29,267.76 L778.29,282.24 L794.50,282.24 L794.50,296.72 L815.77,296.72 L815.77,311.21 L819.05,311.21 L819.05,325.69 L831.06,325.69 L831.06,340.17 L831.34,340.17 L831.34,354.66 L836.61,354.66 L836.61,369.14 L839.84,369.14 L839.84,383.62 L856.85,383.62 L856.85,398.10 L868.74,398.10 L868.83,398.10" fill="none" stroke="#b91c1c" stroke-width="3"/>
+<line x1="630" y1="48" x2="660" y2="48" stroke="#b91c1c" stroke-width="3"/>
+<text x="668" y="52" font-family="sans-serif" font-size="12">APOLLO_FLEW</text>
+<path d="M90.00,65.00 L123.77,65.00 L123.77,72.92 L337.85,72.92 L337.85,80.85 L351.46,80.85 L351.46,88.77 L384.59,88.77 L384.59,96.70 L388.10,96.70 L388.10,104.62 L390.26,104.62 L390.26,112.55 L392.65,112.55 L392.65,120.47 L428.54,120.47 L428.54,128.40 L435.96,128.40 L435.96,136.32 L547.01,136.32 L547.01,144.25 L553.00,144.25 L553.00,152.17 L569.13,152.17 L569.13,160.09 L575.43,160.09 L575.43,168.02 L581.54,168.02 L581.54,175.94 L608.44,175.94 L608.44,183.87 L609.16,183.87 L609.16,191.79 L632.43,191.79 L632.43,199.72 L638.90,199.72 L638.90,207.64 L652.31,207.64 L652.31,215.57 L680.45,215.57 L680.45,223.49 L682.45,223.49 L682.45,231.42 L684.45,231.42 L684.45,239.34 L690.19,239.34 L690.19,247.26 L692.75,247.26 L692.75,255.19 L695.62,255.19 L695.62,263.11 L704.56,263.11 L704.56,271.04 L726.80,271.04 L726.80,278.96 L730.55,278.96 L730.55,286.89 L743.24,286.89 L743.24,294.81 L745.64,294.81 L745.64,302.74 L751.91,302.74 L751.91,310.66 L764.80,310.66 L764.80,318.58 L784.72,318.58 L784.72,326.51 L790.23,326.51 L790.23,334.43 L793.58,334.43 L793.58,342.36 L814.02,342.36 L814.02,350.28 L828.07,350.28 L828.07,358.21 L835.81,358.21 L835.81,366.13 L841.16,366.13 L841.16,374.06 L854.41,374.06 L854.41,381.98 L868.74,381.98 L868.83,381.98" fill="none" stroke="#1d4ed8" stroke-width="3"/>
+<line x1="630" y1="68" x2="660" y2="68" stroke="#1d4ed8" stroke-width="3"/>
+<text x="668" y="72" font-family="sans-serif" font-size="12">OTHER_ALL</text>
+</svg>

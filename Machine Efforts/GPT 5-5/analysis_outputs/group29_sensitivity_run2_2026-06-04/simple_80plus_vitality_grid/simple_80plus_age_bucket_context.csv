@@ -1,0 +1,7 @@
+requested_age_bucket,source_age_bucket,dementia_free_upper_bound_estimate_pct,dementia_free_upper_bound_low95_pct,dementia_free_upper_bound_high95_pct,source,note
+80-84,80-84 years,86.59,86.004,87.15899999999999,"Cao et al. 2024 supplement eTable 4, U.S. male 2020 GBD forecast",Source age band exists.
+85-89,85-89 years,79.102,78.3,79.884,"Cao et al. 2024 supplement eTable 4, U.S. male 2020 GBD forecast",Source age band exists.
+90-94,90-94 years,69.652,68.489,70.785,"Cao et al. 2024 supplement eTable 4, U.S. male 2020 GBD forecast",Source age band exists.
+95-99,95+ years,50.657,48.77,52.49900000000001,"Cao et al. 2024 supplement eTable 4, U.S. male 2020 GBD forecast",Source aggregates 95+; not separately estimable here.
+100-104,95+ years,50.657,48.77,52.49900000000001,"Cao et al. 2024 supplement eTable 4, U.S. male 2020 GBD forecast",Source aggregates 95+; not separately estimable here.
+105-110,95+ years,50.657,48.77,52.49900000000001,"Cao et al. 2024 supplement eTable 4, U.S. male 2020 GBD forecast",Source aggregates 95+; not separately estimable here.

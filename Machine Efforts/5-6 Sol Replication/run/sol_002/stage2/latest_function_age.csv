@@ -1,0 +1,5 @@
+group,eligible_people,people_with_qualifying_function,latest_function_age_median,latest_function_age_q1,latest_function_age_q3,latest_function_age_min,latest_function_age_max,notes
+APOLLO_FLEW,22,3,88.430,85.203,89.535,81.975,90.639,Distribution among people with at least one detected qualifying function event.
+OTHER_ALL,35,2,86.098,84.841,87.355,83.584,88.612,Distribution among people with at least one detected qualifying function event.
+CORE_NASA_NON_APOLLO,28,2,86.098,84.841,87.355,83.584,88.612,Distribution among people with at least one detected qualifying function event.
+MILITARY_ONLY,13,1,83.584,83.584,83.584,83.584,83.584,Distribution among people with at least one detected qualifying function event.

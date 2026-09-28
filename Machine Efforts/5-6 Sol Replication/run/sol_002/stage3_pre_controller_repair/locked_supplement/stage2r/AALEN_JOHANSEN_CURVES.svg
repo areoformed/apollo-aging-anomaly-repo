@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial,sans-serif;fill:#1f2937}.axis{stroke:#374151;stroke-width:1}.grid{stroke:#d1d5db;stroke-width:1}.label{font-size:13px}.small{font-size:11px}.title{font-size:19px;font-weight:700}.subtitle{font-size:12px;fill:#4b5563}</style>
+<text x="90" y="25" class="title">Aalen–Johansen cumulative incidence of first public function detection</text>
+<text x="90" y="44" class="subtitle">Age 80 origin; death first is competing; administrative end is censoring; no age-85 censor</text>
+<line x1="90" y1="395.00" x2="865" y2="395.00" class="grid"/>
+<text x="78" y="399.00" text-anchor="end" class="label">0.00</text>
+<line x1="90" y1="327.00" x2="865" y2="327.00" class="grid"/>
+<text x="78" y="331.00" text-anchor="end" class="label">0.04</text>
+<line x1="90" y1="259.00" x2="865" y2="259.00" class="grid"/>
+<text x="78" y="263.00" text-anchor="end" class="label">0.08</text>
+<line x1="90" y1="191.00" x2="865" y2="191.00" class="grid"/>
+<text x="78" y="195.00" text-anchor="end" class="label">0.12</text>
+<line x1="90" y1="123.00" x2="865" y2="123.00" class="grid"/>
+<text x="78" y="127.00" text-anchor="end" class="label">0.16</text>
+<line x1="90" y1="55.00" x2="865" y2="55.00" class="grid"/>
+<text x="78" y="59.00" text-anchor="end" class="label">0.20</text>
+<line x1="90.00" y1="55" x2="90.00" y2="395" class="grid"/>
+<text x="90.00" y="418" text-anchor="middle" class="label">0</text>
+<line x1="313.10" y1="55" x2="313.10" y2="395" class="grid"/>
+<text x="313.10" y="418" text-anchor="middle" class="label">5</text>
+<line x1="536.19" y1="55" x2="536.19" y2="395" class="grid"/>
+<text x="536.19" y="418" text-anchor="middle" class="label">10</text>
+<line x1="759.29" y1="55" x2="759.29" y2="395" class="grid"/>
+<text x="759.29" y="418" text-anchor="middle" class="label">15</text>
+<line x1="848.52" y1="55" x2="848.52" y2="395" class="grid"/>
+<text x="848.52" y="418" text-anchor="middle" class="label">17</text>
+<line x1="90" y1="395" x2="865" y2="395" class="axis"/>
+<line x1="90" y1="55" x2="90" y2="395" class="axis"/>
+<text x="477.50" y="444" text-anchor="middle" class="label">Years after age 80</text>
+<text x="22" y="225.00" transform="rotate(-90 22 225.00)" text-anchor="middle" class="label">Cumulative incidence</text>
+<path d="M 90.00 395.00 L 178.20 395.00 L 178.20 317.73 L 181.74 317.73 L 181.74 317.73 L 216.93 317.73 L 216.93 317.73 L 274.83 317.73 L 274.83 317.73 L 330.17 317.73 L 330.17 317.73 L 366.45 317.73 L 366.45 317.73 L 430.10 317.73 L 430.10 317.73 L 450.87 317.73 L 450.87 317.73 L 451.85 317.73 L 451.85 317.73 L 466.14 317.73 L 466.14 240.45 L 558.13 240.45 L 558.13 240.45 L 563.01 240.45 L 563.01 240.45 L 564.72 240.45 L 564.72 155.45 L 565.70 155.45 L 565.70 155.45 L 571.93 155.45 L 571.93 155.45 L 576.94 155.45 L 576.94 155.45 L 649.75 155.45 L 649.75 155.45 L 685.30 155.45 L 685.30 155.45 L 692.38 155.45 L 692.38 155.45 L 714.01 155.45 L 714.01 155.45 L 788.28 155.45 L 788.28 155.45 L 865.00 155.45 L 865.00 155.45 L 865.00 155.45" fill="none" stroke="#b91c1c" stroke-width="3"/>
+<path d="M 90.00 395.00 L 98.67 395.00 L 98.67 395.00 L 113.94 395.00 L 113.94 395.00 L 119.07 395.00 L 119.07 395.00 L 122.50 395.00 L 122.50 395.00 L 246.37 395.00 L 246.37 395.00 L 249.91 395.00 L 249.91 346.43 L 270.56 346.43 L 270.56 346.43 L 273.24 346.43 L 273.24 346.43 L 292.79 346.43 L 292.79 346.43 L 294.99 346.43 L 294.99 346.43 L 323.94 346.43 L 323.94 346.43 L 336.04 346.43 L 336.04 346.43 L 342.02 346.43 L 342.02 346.43 L 344.10 346.43 L 344.10 346.43 L 361.57 346.43 L 361.57 346.43 L 370.73 346.43 L 370.73 346.43 L 409.09 346.43 L 409.09 346.43 L 447.45 346.43 L 447.45 346.43 L 464.55 346.43 L 464.55 346.43 L 466.75 346.43 L 466.75 346.43 L 474.32 346.43 L 474.32 293.33 L 488.37 293.33 L 488.37 293.33 L 512.19 293.33 L 512.19 293.33 L 516.59 293.33 L 516.59 293.33 L 547.50 293.33 L 547.50 293.33 L 571.20 293.33 L 571.20 293.33 L 614.08 293.33 L 614.08 293.33 L 619.70 293.33 L 619.70 293.33 L 638.14 293.33 L 638.14 293.33 L 671.62 293.33 L 671.62 293.33 L 720.85 293.33 L 720.85 293.33 L 727.20 293.33 L 727.20 293.33 L 757.86 293.33 L 757.86 293.33 L 776.80 293.33 L 776.80 293.33 L 813.20 293.33 L 813.20 293.33 L 865.00 293.33" fill="none" stroke="#1d4ed8" stroke-width="3"/>
+<line x1="615" y1="69" x2="643" y2="69" stroke="#b91c1c" stroke-width="3"/>
+<text x="651" y="73" class="label">APOLLO_FLEW</text>
+<line x1="615" y1="91" x2="643" y2="91" stroke="#1d4ed8" stroke-width="3"/>
+<text x="651" y="95" class="label">OTHER_ALL</text>
+<text x="90" y="478" class="label" font-weight="700">Number still under observation immediately before milestone</text>
+<text x="480" y="478" text-anchor="middle" class="label">5 y</text>
+<text x="600" y="478" text-anchor="middle" class="label">10 y</text>
+<text x="720" y="478" text-anchor="middle" class="label">15 y</text>
+<text x="90" y="503" class="label">APOLLO_FLEW</text>
+<text x="480" y="503" text-anchor="middle" class="label">18</text>
+<text x="600" y="503" text-anchor="middle" class="label">12</text>
+<text x="720" y="503" text-anchor="middle" class="label">2</text>
+<text x="90" y="525" class="label">OTHER_ALL</text>
+<text x="480" y="525" text-anchor="middle" class="label">25</text>
+<text x="600" y="525" text-anchor="middle" class="label">11</text>
+<text x="720" y="525" text-anchor="middle" class="label">2</text>
+<text x="90" y="542" class="small">Curve readouts are subordinate observable-time descriptions, not eligibility restrictions or primary endpoints.</text>
+</svg>

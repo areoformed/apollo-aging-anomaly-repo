@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="520" viewBox="0 0 820 520" font-family="Helvetica, Arial, sans-serif">
+<g id="background"><rect x="0" y="0" width="820" height="520" fill="#ffffff"/></g>
+<g id="title">
+<text x="70" y="30" font-size="20" font-weight="bold" fill="#111">Apollo astronauts — age at death (approx.)</text>
+<text x="70" y="49" font-size="12" fill="#777">year-difference age · the 19 deceased only</text>
+</g>
+<g id="grid-yaxis" font-size="11" fill="#999" text-anchor="end">
+<line x1="70" y1="440.0" x2="790" y2="440.0" stroke="#ececec" stroke-width="1"/>
+<text x="60" y="444.0">0</text>
+<line x1="70" y1="377.3" x2="790" y2="377.3" stroke="#ececec" stroke-width="1"/>
+<text x="60" y="381.3">1</text>
+<line x1="70" y1="314.7" x2="790" y2="314.7" stroke="#ececec" stroke-width="1"/>
+<text x="60" y="318.7">2</text>
+<line x1="70" y1="252.0" x2="790" y2="252.0" stroke="#ececec" stroke-width="1"/>
+<text x="60" y="256.0">3</text>
+<line x1="70" y1="189.3" x2="790" y2="189.3" stroke="#ececec" stroke-width="1"/>
+<text x="60" y="193.3">4</text>
+<line x1="70" y1="126.7" x2="790" y2="126.7" stroke="#ececec" stroke-width="1"/>
+<text x="60" y="130.7">5</text>
+<line x1="70" y1="64.0" x2="790" y2="64.0" stroke="#ececec" stroke-width="1"/>
+<text x="60" y="68.0">6</text>
+</g>
+<g id="bars" fill="#3a3a3a">
+<rect id="bar-50" x="80.1" y="377.3" width="51.8" height="62.7"/>
+<rect id="bar-55" x="152.1" y="377.3" width="51.8" height="62.7"/>
+<rect id="bar-60" x="224.1" y="314.7" width="51.8" height="125.3"/>
+<rect id="bar-65" x="296.1" y="377.3" width="51.8" height="62.7"/>
+<rect id="bar-75" x="440.1" y="377.3" width="51.8" height="62.7"/>
+<rect id="bar-80" x="512.1" y="314.7" width="51.8" height="125.3"/>
+<rect id="bar-85" x="584.1" y="64.0" width="51.8" height="376.0"/>
+<rect id="bar-90" x="656.1" y="252.0" width="51.8" height="188.0"/>
+<rect id="bar-95" x="728.1" y="314.7" width="51.8" height="125.3"/>
+</g>
+<g id="value-labels" font-size="11" fill="#333" text-anchor="middle">
+<text x="106.0" y="371.3">1</text>
+<text x="178.0" y="371.3">1</text>
+<text x="250.0" y="308.7">2</text>
+<text x="322.0" y="371.3">1</text>
+<text x="466.0" y="371.3">1</text>
+<text x="538.0" y="308.7">2</text>
+<text x="610.0" y="58.0">6</text>
+<text x="682.0" y="246.0">3</text>
+<text x="754.0" y="308.7">2</text>
+</g>
+<g id="x-labels" font-size="11" fill="#444" text-anchor="middle">
+<text x="106.0" y="458.0">50–54</text>
+<text x="178.0" y="458.0">55–59</text>
+<text x="250.0" y="458.0">60–64</text>
+<text x="322.0" y="458.0">65–69</text>
+<text x="394.0" y="458.0">70–74</text>
+<text x="466.0" y="458.0">75–79</text>
+<text x="538.0" y="458.0">80–84</text>
+<text x="610.0" y="458.0">85–89</text>
+<text x="682.0" y="458.0">90–94</text>
+<text x="754.0" y="458.0">95–99</text>
+</g>
+<g id="axis-baseline"><line x1="70" y1="440" x2="790" y2="440" stroke="#333" stroke-width="1.5"/></g>
+<g id="axis-titles" font-size="12" fill="#555">
+<text x="430.0" y="506" text-anchor="middle">Age at death (years)</text>
+<text x="20" y="252.0" text-anchor="middle" transform="rotate(-90 20 252.0)">Astronauts</text>
+</g>
+</svg>

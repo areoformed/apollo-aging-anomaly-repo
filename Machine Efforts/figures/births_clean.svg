@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="520" viewBox="0 0 820 520" font-family="Helvetica, Arial, sans-serif">
+<g id="background"><rect x="0" y="0" width="820" height="520" fill="#ffffff"/></g>
+<g id="title">
+<text x="70" y="30" font-size="20" font-weight="bold" fill="#111">Apollo astronauts — year of birth</text>
+<text x="70" y="49" font-size="12" fill="#777">all 24 in the cohort</text>
+</g>
+<g id="grid-yaxis" font-size="11" fill="#999" text-anchor="end">
+<line x1="70" y1="440.0" x2="790" y2="440.0" stroke="#ececec" stroke-width="1"/>
+<text x="60" y="444.0">0</text>
+<line x1="70" y1="393.0" x2="790" y2="393.0" stroke="#ececec" stroke-width="1"/>
+<text x="60" y="397.0">1</text>
+<line x1="70" y1="346.0" x2="790" y2="346.0" stroke="#ececec" stroke-width="1"/>
+<text x="60" y="350.0">2</text>
+<line x1="70" y1="299.0" x2="790" y2="299.0" stroke="#ececec" stroke-width="1"/>
+<text x="60" y="303.0">3</text>
+<line x1="70" y1="252.0" x2="790" y2="252.0" stroke="#ececec" stroke-width="1"/>
+<text x="60" y="256.0">4</text>
+<line x1="70" y1="205.0" x2="790" y2="205.0" stroke="#ececec" stroke-width="1"/>
+<text x="60" y="209.0">5</text>
+<line x1="70" y1="158.0" x2="790" y2="158.0" stroke="#ececec" stroke-width="1"/>
+<text x="60" y="162.0">6</text>
+<line x1="70" y1="111.0" x2="790" y2="111.0" stroke="#ececec" stroke-width="1"/>
+<text x="60" y="115.0">7</text>
+<line x1="70" y1="64.0" x2="790" y2="64.0" stroke="#ececec" stroke-width="1"/>
+<text x="60" y="68.0">8</text>
+</g>
+<g id="bars" fill="#3a3a3a">
+<rect id="bar-1923" x="77.2" y="393.0" width="37.0" height="47.0"/>
+<rect id="bar-1928" x="334.3" y="346.0" width="37.0" height="94.0"/>
+<rect id="bar-1929" x="385.8" y="393.0" width="37.0" height="47.0"/>
+<rect id="bar-1930" x="437.2" y="64.0" width="37.0" height="376.0"/>
+<rect id="bar-1931" x="488.6" y="393.0" width="37.0" height="47.0"/>
+<rect id="bar-1932" x="540.1" y="299.0" width="37.0" height="141.0"/>
+<rect id="bar-1933" x="591.5" y="252.0" width="37.0" height="188.0"/>
+<rect id="bar-1934" x="642.9" y="393.0" width="37.0" height="47.0"/>
+<rect id="bar-1935" x="694.3" y="346.0" width="37.0" height="94.0"/>
+<rect id="bar-1936" x="745.8" y="393.0" width="37.0" height="47.0"/>
+</g>
+<g id="value-labels" font-size="11" fill="#333" text-anchor="middle">
+<text x="95.7" y="387.0">1</text>
+<text x="352.9" y="340.0">2</text>
+<text x="404.3" y="387.0">1</text>
+<text x="455.7" y="58.0">8</text>
+<text x="507.1" y="387.0">1</text>
+<text x="558.6" y="293.0">3</text>
+<text x="610.0" y="246.0">4</text>
+<text x="661.4" y="387.0">1</text>
+<text x="712.9" y="340.0">2</text>
+<text x="764.3" y="387.0">1</text>
+</g>
+<g id="x-labels" font-size="11" fill="#444" text-anchor="middle">
+<text x="95.7" y="458.0">1923</text>
+<text x="147.1" y="458.0">1924</text>
+<text x="198.6" y="458.0">1925</text>
+<text x="250.0" y="458.0">1926</text>
+<text x="301.4" y="458.0">1927</text>
+<text x="352.9" y="458.0">1928</text>
+<text x="404.3" y="458.0">1929</text>
+<text x="455.7" y="458.0">1930</text>
+<text x="507.1" y="458.0">1931</text>
+<text x="558.6" y="458.0">1932</text>
+<text x="610.0" y="458.0">1933</text>
+<text x="661.4" y="458.0">1934</text>
+<text x="712.9" y="458.0">1935</text>
+<text x="764.3" y="458.0">1936</text>
+</g>
+<g id="axis-baseline"><line x1="70" y1="440" x2="790" y2="440" stroke="#333" stroke-width="1.5"/></g>
+<g id="axis-titles" font-size="12" fill="#555">
+<text x="430.0" y="506" text-anchor="middle">Year of birth</text>
+<text x="20" y="252.0" text-anchor="middle" transform="rotate(-90 20 252.0)">Astronauts</text>
+</g>
+</svg>

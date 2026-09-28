@@ -1,0 +1,3 @@
+scenario,research_id,person_id,primary_detected,scenario_detected,primary_state,scenario_state,primary_first_function_date,scenario_first_function_date,primary_latest_function_date,scenario_latest_function_date,age85_used_as_boundary
+EARLIEST_PLAUSIBLE_DATES,R078,p016_john_w_young,1,1,FUNCTION_ONLY,FUNCTION_ONLY,2012-09-15,2012-09-01,2012-09-15,2012-09-01,0
+LATEST_PLAUSIBLE_DATES,R078,p016_john_w_young,1,1,FUNCTION_ONLY,FUNCTION_ONLY,2012-09-15,2012-09-30,2012-09-15,2012-09-30,0

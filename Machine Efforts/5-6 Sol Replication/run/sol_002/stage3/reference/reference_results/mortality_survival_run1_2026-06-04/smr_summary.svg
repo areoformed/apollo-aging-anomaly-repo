@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="560" viewBox="0 0 980 560">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="78" y="34" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#17202a">Standardized mortality ratio vs SSA 1930 male baseline</text>
+<text x="78" y="57" font-family="Arial, sans-serif" font-size="13" fill="#52616b">Expected deaths use summed cumulative all-cause hazard from age 30 to each observed/censor age. Error bars are log-Poisson approximations.</text>
+<line x1="78" y1="410.0" x2="944" y2="410.0" stroke="#e7ecef" stroke-width="1"/>
+<text x="66" y="414.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#6b7780">0.0</text>
+<line x1="78" y1="342.0" x2="944" y2="342.0" stroke="#e7ecef" stroke-width="1"/>
+<text x="66" y="346.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#6b7780">0.3</text>
+<line x1="78" y1="274.0" x2="944" y2="274.0" stroke="#e7ecef" stroke-width="1"/>
+<text x="66" y="278.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#6b7780">0.6</text>
+<line x1="78" y1="206.0" x2="944" y2="206.0" stroke="#e7ecef" stroke-width="1"/>
+<text x="66" y="210.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#6b7780">0.8</text>
+<line x1="78" y1="138.0" x2="944" y2="138.0" stroke="#e7ecef" stroke-width="1"/>
+<text x="66" y="142.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#6b7780">1.1</text>
+<line x1="78" y1="70.0" x2="944" y2="70.0" stroke="#e7ecef" stroke-width="1"/>
+<text x="66" y="74.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#6b7780">1.4</text>
+<line x1="78" y1="167.1" x2="944" y2="167.1" stroke="#263238" stroke-width="1.4" stroke-dasharray="6 5"/>
+<text x="940" y="160.1" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#263238">SMR = 1.0</text>
+<rect x="130.2" y="299.0" width="112.0" height="111.0" fill="#1b75bb" opacity="0.88"/>
+<line x1="186.2" y1="336.2" x2="186.2" y2="242.9" stroke="#263238" stroke-width="1.5"/>
+<line x1="174.2" y1="336.2" x2="198.2" y2="336.2" stroke="#263238" stroke-width="1.5"/>
+<line x1="174.2" y1="242.9" x2="198.2" y2="242.9" stroke="#263238" stroke-width="1.5"/>
+<text x="186.2" y="291.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#17202a">0.46</text>
+<text x="186.2" y="438.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#263238">Apollo 7-17</text>
+<rect x="346.8" y="233.4" width="112.0" height="176.6" fill="#c94c4c" opacity="0.88"/>
+<line x1="402.8" y1="274.1" x2="402.8" y2="180.6" stroke="#263238" stroke-width="1.5"/>
+<line x1="390.8" y1="274.1" x2="414.8" y2="274.1" stroke="#263238" stroke-width="1.5"/>
+<line x1="390.8" y1="180.6" x2="414.8" y2="180.6" stroke="#263238" stroke-width="1.5"/>
+<text x="402.8" y="225.4" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#17202a">0.73</text>
+<text x="402.8" y="438.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#263238">Other astronauts</text>
+<text x="402.8" y="453.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#263238">incl. military,</text>
+<text x="402.8" y="468.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#263238">all deaths</text>
+<rect x="563.2" y="277.1" width="112.0" height="132.9" fill="#4c8f5a" opacity="0.88"/>
+<line x1="619.2" y1="311.8" x2="619.2" y2="230.1" stroke="#263238" stroke-width="1.5"/>
+<line x1="607.2" y1="311.8" x2="631.2" y2="311.8" stroke="#263238" stroke-width="1.5"/>
+<line x1="607.2" y1="230.1" x2="631.2" y2="230.1" stroke="#263238" stroke-width="1.5"/>
+<text x="619.2" y="269.1" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#17202a">0.55</text>
+<text x="619.2" y="438.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#263238">Other</text>
+<text x="619.2" y="453.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#263238">Apollo-available,</text>
+<text x="619.2" y="468.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#263238">excl. pre-1970</text>
+<text x="619.2" y="483.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#263238">accidents</text>
+<rect x="779.8" y="259.3" width="112.0" height="150.7" fill="#8a63b8" opacity="0.88"/>
+<line x1="835.8" y1="289.1" x2="835.8" y2="222.2" stroke="#263238" stroke-width="1.5"/>
+<line x1="823.8" y1="289.1" x2="847.8" y2="289.1" stroke="#263238" stroke-width="1.5"/>
+<line x1="823.8" y1="222.2" x2="847.8" y2="222.2" stroke="#263238" stroke-width="1.5"/>
+<text x="835.8" y="251.3" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#17202a">0.62</text>
+<text x="835.8" y="438.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#263238">All same-era</text>
+<text x="835.8" y="453.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#263238">astronauts incl.</text>
+<text x="835.8" y="468.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#263238">Apollo and</text>
+<text x="835.8" y="483.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#263238">military</text>
+<line x1="78" y1="410" x2="944" y2="410" stroke="#263238" stroke-width="1.2"/>
+</svg>

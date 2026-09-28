@@ -1,0 +1,65 @@
+You are a fresh analysis instance performing a corrected public-function analysis on an already locked historical cohort. You have not been given any prior estimate, direction, conclusion, article, or reference result.
+
+Your permitted working directory contains only locked `stage1/`, `stage1b/`, and `stage1c/` inputs. Do not alter them. Do not read any parent or sibling directory, search the web, or seek a prior analysis. Do not create files outside the permitted working directory.
+
+Before inspecting any data file, obtain the actual current UTC time and create `stage2r/CONTEXT_ATTESTATION.md`. State whether any initial context before this message disclosed a project-specific person, cohort outcome, estimate, direction, conclusion, method result, article, or hypothesis. Then obtain a new actual UTC timestamp and start append-only `STAGE2R_ACTION_LOG.md`. Obtain every later timestamp from an actual UTC clock call; never synthesize, estimate, backdate, or manually increment a timestamp.
+
+This is a transparently labeled post-lock endpoint correction. The stale prior analysis role restricted the primary public-function window to ages 80–85. That role is superseded: a qualifying achievement at any age 80+ through death or 2026-06-01 counts for the corrected primary. The evidence definitions, adjudicated events, dates, source rules, and person-level states in the locked inputs remain unchanged.
+
+Corrected question:
+Among people who reached age 80, does APOLLO_FLEW have a different probability of at least one publicly detected QUALIFYING_FUNCTION_EVENT at any age 80 or older, through death or administrative censoring on 2026-06-01? This is public-evidence detection, not a clinical measure.
+
+Before revealing group outcomes or running a group model, write `stage2r/ANALYSIS_DECISIONS.md` implementing all of these fixed requirements:
+
+1. Primary endpoint and contrast:
+- person-level indicator of at least one locked qualifying function event at any age 80+ through death/censor;
+- APOLLO_FLEW minus OTHER_ALL unrestricted detection risk;
+- raw numerator/denominator and Clopper-Pearson intervals;
+- Newcombe risk-difference interval, risk ratio with compatible interval, odds ratio with conditional exact interval, and Fisher exact two-sided p-value;
+- stratified person-level percentile-bootstrap risk-difference interval, 50,000 replicates, seed 20260721, 2.5th/97.5th percentiles;
+- unchanged practical threshold of 10 absolute percentage points.
+
+2. Unequal observable time:
+- estimate the complete Aalen-Johansen cumulative-incidence curve from age 80, first qualifying function as event, death first as competing event, and administrative end as right censoring;
+- retain all events at all ages 80+ and never censor at age 85;
+- report curve readouts at 5, 10, and 15 years with numbers still under observation and explicit tail-support warnings; these are subordinate descriptions, not eligibility restrictions or primary endpoints;
+- describe potential/observed post-80 follow-up, deaths/censoring, documentation depth, substantive sources, and independent publishers without conditioning the endpoint on them.
+
+3. Later achievement:
+- retain a person-level event-age table;
+- report first/latest event ages and the latest-age distribution among detected people;
+- report locked function/impairment sequences;
+- count detected events in age bands [80,85), [85,90), [90,95), and 95+;
+- do not invent a health ordering for NEITHER_FOUND.
+
+4. Sensitivities:
+- unrestricted primary contrast versus CORE_NASA_NON_APOLLO and MILITARY_ONLY, explicitly nested and not independent;
+- verify OTHER_AVAILABLE and OTHER_ALL full-window eligible sets are identical rather than duplicating a result;
+- unrestricted primary contrast with R001 excluded, labeled technical-deviation sensitivity;
+- separately labeled NEITHER_FOUND worst/best latent-event bounds answering a different question;
+- earliest/latest plausible-date sensitivity for age-80 eligibility or event ordering; age 85 is no longer a boundary.
+
+5. Classification:
+- corrected PUBLIC FUNCTION strength is ROBUST, SUGGESTIVE, NOT_DETECTED, or INDETERMINATE; direction is HIGHER, LOWER, or UNCERTAIN;
+- ROBUST requires absolute unrestricted primary risk difference at least 10 percentage points, its primary 95% interval excluding zero, and no direction reversal in either composition sensitivity;
+- SUGGESTIVE requires coherent direction and practically material magnitude but permits interval or ascertainment uncertainty;
+- NOT_DETECTED means small, unstable, or sensitivity-explained;
+- INDETERMINATE means data/provenance failure prevents judgment;
+- assign direction from the unrestricted Apollo-minus-OTHER_ALL primary sign and treat negative effects symmetrically.
+
+Create `stage2r/analysis.py` using only the standard library and retain every generated table and figure. Validate locked-input immutability and deterministic regeneration.
+
+Required outputs:
+- stage2r/CONTEXT_ATTESTATION.md
+- stage2r/ANALYSIS_DECISIONS.md
+- stage2r/analysis.py
+- stage2r/ANALYSIS_REPORT.md
+- stage2r/RESULTS_SUMMARY.csv
+- stage2r/EVENT_AGE_TABLE.csv
+- stage2r/VALIDATION.md
+- stage2r/CONTAMINATION.md
+- stage2r/CORRECTED_CONCLUSION.md
+- stage2r/STAGE_COMPLETE.md
+- STAGE2R_ACTION_LOG.md
+
+Do not analyze survival, inspect or reconstruct an original Stage 2 result, or compare with any prior number. Stop after Stage 2R and reply only: STAGE2R_COMPLETE, followed by the required artifact paths and any blocking failure.

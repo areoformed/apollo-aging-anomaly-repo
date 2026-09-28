@@ -1,0 +1,50 @@
+Stages 1, 1B, and 1C are locked. Do not alter them. You may now analyze only the dataset and evidence you constructed.
+
+Question 1 — SURVIVAL:
+Does APOLLO_FLEW show descriptively unusual all-cause survival or attained age relative to the same-era comparison families and to appropriate U.S. male birth-cohort life-table expectations?
+
+Question 2 — PUBLICLY DOCUMENTED LATE-LIFE FUNCTIONING:
+Among people who reached age 80, does APOLLO_FLEW have a different probability of at least one QUALIFYING_FUNCTION_EVENT at age 80+? This is a public-evidence detection endpoint, not a clinical cognitive measure.
+
+Create stage2/analysis.py or stage2/analysis.R and retain all generated tables/figures. Use only your locked person-level data for astronaut comparisons. You may fetch an official U.S. life table for the population comparison; log and cite it.
+
+Required survival analyses:
+- group counts, deaths/censoring, attained ages, and exact uncertainty;
+- primary 1973-01-01 common-landmark analysis among people alive then: APOLLO_FLEW versus OTHER_ALL, effect measure Apollo-minus-other restricted mean survival over a fixed 50-year horizon; use a stratified nonparametric percentile bootstrap resampling people within groups, 50,000 replicates, seed 20260721, and the 2.5th/97.5th percentiles for the 95% interval;
+- age at the landmark and this fixed age-adjusted sensitivity: Cox proportional-hazards model from the landmark with group plus age-at-landmark in years as a linear covariate, Efron ties, conventional two-sided 95% interval, and Schoenfeld-residual PH diagnostic; do not substitute it for the RMST primary;
+- Kaplan–Meier from birth as secondary cohort description, explicitly labeled retrospective and future-flight-selected;
+- composition sensitivities versus CORE_NASA_NON_APOLLO and MILITARY_ONLY (military flags restricted to apollo_flew=0); do not describe these nested/reused groups as independent replications;
+- OTHER_AVAILABLE only in the secondary birth-origin description; verify and state that it is identical to OTHER_ALL after the 1973 landmark rather than presenting a duplicate result as sensitivity evidence;
+- official era- and sex-matched U.S. population expectation;
+- effect sizes with 95% intervals; p-values only as supplements;
+- explicit treatment of future-flight classification, immortal-time/selection, healthy-selectee, and noncausal interpretation.
+
+Required age-80 public-evidence analyses:
+- primary APOLLO_FLEW versus OTHER_ALL five-year cumulative incidence of first qualifying function detection after age 80, estimated with Aalen–Johansen and death as a competing event; primary effect is the Apollo-minus-other absolute five-year risk difference; use a stratified nonparametric percentile bootstrap resampling people within groups, 50,000 replicates, seed 20260721, and the 2.5th/97.5th percentiles for the 95% interval;
+- composition sensitivities versus CORE_NASA_NON_APOLLO and MILITARY_ONLY, not independent confirmations; verify and state that OTHER_AVAILABLE and OTHER_ALL have the same age-80 risk set rather than presenting a duplicate result;
+- secondary crude any-time detection: raw numerator/denominator, exact binomial intervals, risk difference, risk ratio, odds ratio, Fisher exact test, and compatible intervals;
+- source-availability descriptions using documentation depth and raw counts; do not present conditioning on MEDIUM/HIGH as adjustment or complete-case correction;
+- a separately labeled latent-event worst/best sensitivity for NEITHER_FOUND, explicitly stated to answer a different question from observed detection and not to change the primary estimate;
+- earliest/latest plausible-date sensitivity for every boundary-sensitive event;
+- latest qualifying-event-age distributions and function/impairment temporal sequences.
+
+Classify SURVIVAL and PUBLIC FUNCTION separately with a strength—ROBUST, SUGGESTIVE, NOT_DETECTED, or INDETERMINATE—and a direction—HIGHER, LOWER, or UNCERTAIN—using the fixed materiality thresholds of 5.0 absolute RMST years and 10 absolute percentage points:
+- ROBUST requires the absolute primary effect to be practically material and its primary 95% interval to exclude the null, with no direction reversal in any prespecified composition sensitivity; nested comparator sensitivities are not independent replications;
+- SUGGESTIVE permits interval or ascertainment uncertainty but requires coherent direction and practical magnitude;
+- NOT_DETECTED means small, unstable, or sensitivity-explained;
+- INDETERMINATE means data/provenance failure prevents judgment;
+- assign direction from the sign of Apollo minus comparator. Treat a large precise negative anomaly symmetrically; do not force it into NOT_DETECTED.
+
+Write:
+- stage2/ANALYSIS_DECISIONS.md before running group models;
+- stage2/ANALYSIS_REPORT.md with methods, results, limitations, and plain conclusions;
+- stage2/RESULTS_SUMMARY.csv with every prespecified contrast;
+- stage2/VALIDATION.md;
+- stage2/CONTAMINATION.md;
+- stage2/BLIND_CONCLUSION.md containing the two classifications and the narrowest defensible answer to: "Is there an anomaly?"
+- stage2/STAGE_COMPLETE.md.
+
+Direction-neutral technical sensitivity fixed before cohort-label reveal:
+- Because research ID R001's initial fixed base-result streams were nonuniform for documented technical reasons, retain every prespecified public-function analysis unchanged and additionally report the APOLLO_FLEW-versus-OTHER_ALL primary five-year detection contrast and secondary crude any-time detection contrast with R001 excluded. Label both as technical-deviation sensitivities, not primary analyses or independent confirmations. This requirement conveys no group identity, outcome direction, or prior result.
+
+Do not read any parent/sibling project data and do not compare your numbers with a prior result. Stop after Stage 2 and reply only: STAGE2_COMPLETE, followed by the artifact paths and any blocking failure.
